@@ -31,7 +31,7 @@ class DataEngine:
 
         # ── TF-IDF category vectors ──────────────────────────────────────
         self.mlb = MultiLabelBinarizer()
-        self.cat_matrix = self.mlb.fit_transform(self.df["categories"])
+        self.cat_matrix = self.mlb.fit_transform(self.df["interests"])
 
         N = len(self.df)
         doc_freq = self.cat_matrix.sum(axis=0)
@@ -39,7 +39,7 @@ class DataEngine:
         self.cat_matrix_weighted = self.cat_matrix * self.idf
 
         # ── General-category one-hot vectors ────────────────────────────
-        self.gen_dummies = pd.get_dummies(self.df["general_category"])
+        self.gen_dummies = pd.get_dummies(self.df["category"])
         self.gen_cols = self.gen_dummies.columns.tolist()
         self.gen_matrix = self.gen_dummies.values.astype(float)
 
@@ -63,12 +63,17 @@ class DataEngine:
         )
 
         # Map from general → fine-grained categories (used for user-vector building)
+        # Maps new category slugs → fine-grained interest values
+        # used to build the general-category component of the user vector
         self.GENERAL_CATEGORY_MAP = {
-            "Food":       {"Restaurants", "Cafe", "Bakery", "Seafood", "Street Food"},
-            "Shopping":   {"Shopping", "Arts & Crafts"},
-            "Activities": {"Entertainment", "Nightlife", "Music", "Outdoor", "Park"},
-            "Beaches":    {"Beaches & Water", "Waterfront", "Nature"},
-            "Culture":    {"History & Antiquities", "Mosques & Churches", "Tourism"},
+            "food_cafes":       {"Restaurants", "Cafe", "Bakery", "Seafood", "Street Food"},
+            "shopping":         {"Shopping"},
+            "arts_culture":     {"Arts & Crafts"},
+            "entertainment":    {"Entertainment", "Nightlife", "Music"},
+            "nature":           {"Nature", "Park"},
+            "beaches":          {"Beaches & Water", "Waterfront"},
+            "historical_sites": {"History & Antiquities", "Tourism"},
+            "religious_sites":  {"Mosques & Churches"},
         }
 
     # ── Helpers ───────────────────────────────────────────────────────────
@@ -79,11 +84,18 @@ class DataEngine:
     # ── Filter engine ─────────────────────────────────────────────────────
     def apply_filters(self, df_in, filters=None):
         """
-        Supported filter shapes per field:
-          - scalar  : {"city_en": "Cairo"}
-          - list    : {"general_category": ["Food", "Culture"]}
-          - range   : {"rating": {"gte": 4.0, "lte": 5.0}}
-          - list-in-list: {"categories": {"contains_any": ["Cafe", "Park"]}}
+        Null-safe filter engine — empty/null values are silently skipped.
+
+        A filter value is considered empty and ignored when it is:
+          - None
+          - empty string ""
+          - empty list []
+
+        Supported filter shapes (for non-empty values):
+          - scalar       : {"city_en": "Cairo"}            — case-sensitive exact match
+          - list         : {"category": ["food_cafes"]}    — case-sensitive, match any
+          - range        : {"rating": {"gte": 4.0}}        — numeric comparison
+          - list-in-list : {"interests": {"contains_any": ["Cafe"]}}
         """
         if not filters:
             return df_in
@@ -94,45 +106,65 @@ class DataEngine:
             if col not in result.columns:
                 continue
 
+            # ── Skip null / empty values ──────────────────────────────────
+            if condition is None:
+                continue
+            if isinstance(condition, str) and condition.strip() == "":
+                continue
+            if isinstance(condition, list) and len(condition) == 0:
+                continue
+
+            # ── List filter ───────────────────────────────────────────────
             if isinstance(condition, list):
-                if col == "categories":
-                    cond_lower = [v.lower() for v in condition]
+                # Remove any null/empty-string items from the list
+                condition = [v for v in condition if v is not None and str(v).strip() != ""]
+                if not condition:
+                    continue
+
+                if col == "interests":
                     result = result[
                         result[col].apply(
-                            lambda x: any(v in [c.lower() for c in x] for v in cond_lower)
+                            lambda x: any(v in x for v in condition)
                             if isinstance(x, list) else False
                         )
                     ]
                 else:
                     if result[col].dtype == "object":
-                        cond_lower = [str(v).lower() for v in condition]
-                        result = result[result[col].astype(str).str.lower().isin(cond_lower)]
+                        result = result[result[col].isin([str(v) for v in condition])]
                     else:
                         result = result[result[col].isin(condition)]
 
+            # ── Range / contains filter ───────────────────────────────────
             elif isinstance(condition, dict):
-                if "gte" in condition:       result = result[result[col] >= condition["gte"]]
-                if "lte" in condition:       result = result[result[col] <= condition["lte"]]
-                if "gt"  in condition:       result = result[result[col] >  condition["gt"]]
-                if "lt"  in condition:       result = result[result[col] <  condition["lt"]]
+                if "gte" in condition and condition["gte"] is not None:
+                    result = result[result[col] >= condition["gte"]]
+                if "lte" in condition and condition["lte"] is not None:
+                    result = result[result[col] <= condition["lte"]]
+                if "gt"  in condition and condition["gt"]  is not None:
+                    result = result[result[col] >  condition["gt"]]
+                if "lt"  in condition and condition["lt"]  is not None:
+                    result = result[result[col] <  condition["lt"]]
                 if "contains" in condition:
-                    vals = [v.lower() for v in condition["contains"]]
-                    result = result[result[col].apply(
-                        lambda x: all(v in [c.lower() for c in x] for v in vals)
-                        if isinstance(x, list) else False
-                    )]
+                    vals = [v for v in condition["contains"] if v is not None and str(v).strip() != ""]
+                    if vals:
+                        result = result[result[col].apply(
+                            lambda x: all(v in x for v in vals)
+                            if isinstance(x, list) else False
+                        )]
                 if "contains_any" in condition:
-                    vals = [v.lower() for v in condition["contains_any"]]
-                    result = result[result[col].apply(
-                        lambda x: any(v in [c.lower() for c in x] for v in vals)
-                        if isinstance(x, list) else False
-                    )]
+                    vals = [v for v in condition["contains_any"] if v is not None and str(v).strip() != ""]
+                    if vals:
+                        result = result[result[col].apply(
+                            lambda x: any(v in x for v in vals)
+                            if isinstance(x, list) else False
+                        )]
 
+            # ── Scalar filter ─────────────────────────────────────────────
             else:
-                if isinstance(condition, str) and result[col].dtype == "object":
-                    result = result[result[col].astype(str).str.lower() == condition.lower()]
-                elif col == "is_hidden_gem" and result[col].dtype == "object":
-                    result = result[result[col].astype(str).str.lower() == str(condition).lower()]
+                if col == "is_hidden_gem":
+                    result = result[result[col] == condition]
+                elif result[col].dtype == "object":
+                    result = result[result[col] == str(condition)]
                 else:
                     result = result[result[col] == condition]
 
@@ -152,13 +184,13 @@ class DataEngine:
 
             def row_matches(row):
                 # Build a searchable text blob for each row
-                cats_text = " ".join(row["categories"]) if isinstance(row["categories"], list) else ""
+                cats_text = " ".join(row["interests"]) if isinstance(row["interests"], list) else ""
                 blob = " ".join([
                     str(row.get("name", "")),
                     str(row.get("city_en", "")),
                     str(row.get("city", "")),
                     str(row.get("address", "")),
-                    str(row.get("general_category", "")),
+                    str(row.get("category", "")),
                     cats_text,
                 ]).lower()
                 return all(token in blob for token in tokens)
@@ -276,7 +308,7 @@ class DataEngine:
     def home(self, city: Optional[str] = None, seed: Optional[int] = None):
         """
         Returns three sections for the home screen in a single call:
-          - featured    : 5 diverse places (one per general_category, topped up if needed)
+          - featured    : 5 diverse places (one per category, topped up if needed)
           - hidden_gems : 6 hidden gems, sampled from a top-rated pool
           - trending    : 8 places shuffled from top-40 most-reviewed
 
@@ -284,7 +316,7 @@ class DataEngine:
         `seed` controls the shuffling of ALL three sections — pass a new
         random seed (or omit it) to get a fresh mix on each call.
         """
-        city_filter     = {"city_en": city} if city else None
+        city_filter     = {"city_en": city} if city and str(city).strip() else None
         effective_seed  = seed if seed is not None else random.randint(0, 99999)
         rng             = random.Random(effective_seed)
 
@@ -295,14 +327,14 @@ class DataEngine:
 
         base = self.apply_filters(self.df, city_filter)
 
-        # Featured: one pick per general_category (randomized among the
+        # Featured: one pick per category (randomized among the
         # top-K best-rated places in that category) → diverse home screen
         # (min 50 reviews to avoid 5-star places with 2 reviews)
         featured_pool = base[base["reviews_count"] >= 50] if not base.empty else base
         featured_pool_sorted = featured_pool.sort_values(by="bayesian_rating", ascending=False)
 
         diverse_rows = []
-        for _, group in featured_pool_sorted.groupby("general_category", sort=False):
+        for _, group in featured_pool_sorted.groupby("category", sort=False):
             candidates = group.head(FEATURED_TOP_K)
             diverse_rows.append(candidates.iloc[rng.randrange(len(candidates))])
 
@@ -332,7 +364,7 @@ class DataEngine:
 
         # Hidden gems: is_hidden_gem == True — sample 6 out of the top-rated pool
         # so the set changes with the seed but stays high quality
-        gem_base = self.apply_filters(self.df, {**(city_filter or {}), "is_hidden_gem": True})
+        gem_base = self.apply_filters(self.df, {**(city_filter or {}), "is_hidden_gem": True})  # exact bool match
         gem_pool = gem_base.sort_values(by="bayesian_rating", ascending=False).head(HIDDEN_GEMS_POOL)
         hidden_gems = (
             gem_pool
@@ -384,7 +416,7 @@ class RecommendRequest(BaseModel):
 
 
 class SearchRequest(BaseModel):
-    query:   Optional[str]            = ""       # text to search (name / city / address)
+    query:   Optional[str]            = None     # text to search; None or "" → no text filter
     filters: Optional[Dict[str, Any]] = None     # additional field filters
     page:    Optional[int]            = 1
     limit:   Optional[int]            = 10
@@ -400,6 +432,21 @@ class FilterOnlyRequest(BaseModel):
 class HomeRequest(BaseModel):
     city: Optional[str] = None    # e.g. "Cairo" — scopes all home sections
     seed: Optional[int] = None
+
+
+class GetPlacesRequest(BaseModel):
+    city:       Optional[List[str]]  = None     # e.g. ["Cairo"] or ["Cairo", "Giza"]
+    category:   Optional[List[str]]  = None     # e.g. ["food_cafes"] or ["food_cafes", "entertainment"]
+    interests:  Optional[List[str]]  = None     # e.g. ["Cafe", "Seafood"] — matches any
+    min_rating: Optional[float]      = None     # e.g. 4.0
+    max_rating: Optional[float]      = None     # e.g. 5.0
+    min_price:  Optional[int]        = None     # e.g. 0
+    max_price:  Optional[int]        = None     # e.g. 200
+    hidden_gem: Optional[bool]       = None     # true / false
+    sort_by:    Optional[str]        = "rating" # "rating" | "reviews" | "price" | "name"
+    order:      Optional[str]        = "desc"   # "asc" | "desc"
+    page:       Optional[int]        = 1
+    limit:      Optional[int]        = 10
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────
@@ -439,7 +486,7 @@ def get_home(payload: HomeRequest):
     Pass `city` to scope results to a specific city.
     """
     featured, hidden_gems, trending = engine.home(
-        city=payload.city,
+        city=payload.city or None,
         seed=payload.seed,
     )
     return {
@@ -480,7 +527,7 @@ def search_places(payload: SearchRequest):
       {"query": "Luxor"}                        → all places in Luxor
       {"query": "Khan el-Khalili"}              → specific place by name
       {"query": "cafe", "filters": {"city_en": "Cairo"}}  → Cairo cafes
-      {"query": "", "filters": {"general_category": "Food"}}  → all food places
+      {"query": "", "filters": {"category": "food_cafes"}}  → all food_cafes places
     """
     results, total = engine.text_search(
         query=payload.query or "",
@@ -496,7 +543,7 @@ def search_places(payload: SearchRequest):
 def get_top_rated(payload: FilterOnlyRequest):
     """
     Returns places sorted by rating then reviews_count.
-    Supports any filters (e.g. city_en, general_category).
+    Supports any filters (e.g. city_en, category).
     """
     results, total = engine.top_rated(
         page=payload.page,
@@ -504,6 +551,76 @@ def get_top_rated(payload: FilterOnlyRequest):
         filters=payload.filters,
     )
     return paginated_response(safe_json(results), total, payload.page, payload.limit)
+
+
+# ---------- Get places (filter via POST body) ----------
+@app.post("/places/getplaces")
+def get_places(payload: GetPlacesRequest):
+    """
+    General-purpose endpoint for fetching places with filters.
+
+    All fields are optional — sending an empty `{}` body returns all places
+    (paginated, sorted by rating desc).
+
+    **Request body examples:**
+      {"city": ["Cairo"]}
+      {"category": ["food_cafes"], "min_rating": 4}
+      {"category": ["food_cafes", "entertainment"]}
+      {"interests": ["Cafe", "Seafood"], "city": ["Alexandria"]}
+      {"hidden_gem": true, "sort_by": "reviews", "order": "desc"}
+      {"min_price": 0, "max_price": 100, "page": 2, "limit": 20}
+    """
+    # Build the filters dict expected by DataEngine.apply_filters
+    filters: Dict[str, Any] = {}
+
+    if payload.city:
+        filters["city_en"] = payload.city if len(payload.city) > 1 else payload.city[0]
+
+    if payload.category:
+        filters["category"] = payload.category if len(payload.category) > 1 else payload.category[0]
+
+    if payload.interests:
+        filters["interests"] = {"contains_any": payload.interests}
+
+    if payload.min_rating is not None or payload.max_rating is not None:
+        rating_filter: Dict[str, float] = {}
+        if payload.min_rating is not None:
+            rating_filter["gte"] = payload.min_rating
+        if payload.max_rating is not None:
+            rating_filter["lte"] = payload.max_rating
+        filters["rating"] = rating_filter
+
+    if payload.min_price is not None or payload.max_price is not None:
+        price_filter: Dict[str, int] = {}
+        if payload.min_price is not None:
+            price_filter["gte"] = payload.min_price
+        if payload.max_price is not None:
+            price_filter["lte"] = payload.max_price
+        filters["price"] = price_filter
+
+    if payload.hidden_gem is not None:
+        filters["is_hidden_gem"] = payload.hidden_gem
+
+    # Apply filters
+    result = engine.apply_filters(engine.df, filters if filters else None)
+
+    # Sort
+    sort_map = {
+        "rating":  "bayesian_rating",
+        "reviews": "reviews_count",
+        "price":   "price",
+        "name":    "name",
+    }
+    sort_col = sort_map.get(payload.sort_by, "bayesian_rating")
+    ascending = payload.order == "asc"
+    result = result.sort_values(by=sort_col, ascending=ascending)
+
+    # Paginate
+    total = len(result)
+    skip  = (payload.page - 1) * payload.limit
+    page_data = result.iloc[skip: skip + payload.limit].reset_index(drop=True)
+
+    return paginated_response(safe_json(page_data), total, payload.page, payload.limit)
 
 
 # ---------- Single place ----------
