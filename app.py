@@ -235,7 +235,7 @@ class DataEngine:
         limit: int = 10,
         filters=None,
         seed: Optional[int] = None,
-        pool_size: int = 150,
+        pool_size: int = 50,
     ):
         """
         Content-based recommendation using TF-IDF cosine similarity.
@@ -412,7 +412,7 @@ class RecommendRequest(BaseModel):
     page:      Optional[int]            = 1
     limit:     Optional[int]            = 10
     seed:      Optional[int]            = None
-    pool_size: Optional[int]            = 150
+    pool_size: Optional[int]            = 50
 
 
 class SearchRequest(BaseModel):

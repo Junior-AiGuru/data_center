@@ -1,6 +1,6 @@
 # MindTrip API Documentation
 
-Base URL: `http://<host>:<port>`
+Base URL: `https://web-production-0e223.up.railway.app/`
 
 All endpoints return JSON. All POST endpoints expect a JSON body with `Content-Type: application/json`.
 
