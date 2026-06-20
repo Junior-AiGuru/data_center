@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from typing import List, Dict, Any, Optional
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -227,6 +227,53 @@ class DataEngine:
             return None
         return result.iloc[0].to_dict()
 
+    # ── Nearby places (distance-based) ──────────────────────────────────
+    @staticmethod
+    def _haversine_km(lat1, lng1, lat2, lng2):
+        """Vectorized great-circle distance in km between (lat1,lng1) and arrays (lat2,lng2)."""
+        lat1, lng1, lat2, lng2 = map(np.radians, [lat1, lng1, lat2, lng2])
+        dlat = lat2 - lat1
+        dlng = lng2 - lng1
+        a = np.sin(dlat / 2) ** 2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlng / 2) ** 2
+        return 6371.0 * 2 * np.arcsin(np.sqrt(a))
+
+    def nearby(
+        self,
+        user_lat: float,
+        user_lng: float,
+        radius_km: Optional[float] = None,
+        page: int = 1,
+        limit: int = 10,
+        filters=None,
+    ):
+        """
+        Returns places sorted by distance from (user_lat, user_lng), nearest first.
+        No rating/hidden-gem split — a single distance-ranked list, optionally
+        scoped with the same `filters` shape used by apply_filters (e.g.
+        {"is_hidden_gem": true} or {"rating": {"gte": 4.0}}).
+        """
+        # Places with missing/invalid coordinates can't be ranked by distance
+        base = self.df[self.df["lat"].notna() & self.df["lng"].notna()]
+
+        result = self.apply_filters(base, filters)
+        if result.empty:
+            return pd.DataFrame(), 0
+
+        result = result.copy()
+        result["distance_km"] = self._haversine_km(
+            user_lat, user_lng, result["lat"].values, result["lng"].values
+        )
+
+        if radius_km is not None:
+            result = result[result["distance_km"] <= radius_km]
+            if result.empty:
+                return pd.DataFrame(), 0
+
+        sorted_df = result.sort_values(by="distance_km", ascending=True)
+        total = len(sorted_df)
+        skip = (page - 1) * limit
+        return sorted_df.iloc[skip: skip + limit].reset_index(drop=True), total
+
     # ── Recommendation engine ─────────────────────────────────────────────
     def recommend(
         self,
@@ -415,6 +462,15 @@ class RecommendRequest(BaseModel):
     pool_size: Optional[int]            = 50
 
 
+class NearbyRequest(BaseModel):
+    user_lat:  float                    = Field(..., ge=-90,  le=90)
+    user_lng:  float                    = Field(..., ge=-180, le=180)
+    radius_km: Optional[float]          = None    # None = no distance cap, just sort all by distance
+    filters:   Optional[Dict[str, Any]] = None     # same shape as other endpoints, e.g. {"is_hidden_gem": true}
+    page:      Optional[int]            = 1
+    limit:     Optional[int]            = 10
+
+
 class SearchRequest(BaseModel):
     query:   Optional[str]            = None     # text to search; None or "" → no text filter
     filters: Optional[Dict[str, Any]] = None     # additional field filters
@@ -553,7 +609,28 @@ def get_top_rated(payload: FilterOnlyRequest):
     return paginated_response(safe_json(results), total, payload.page, payload.limit)
 
 
-# ---------- Get places (filter via POST body) ----------
+# ---------- Nearby (distance-based) ----------
+@app.post("/places/nearby")
+def get_nearby(payload: NearbyRequest):
+    """
+    Returns places sorted by distance from the user's location, nearest first.
+    No rating/hidden-gem split — pass `filters` if you want to scope results
+    (e.g. {"is_hidden_gem": true} or {"rating": {"gte": 4.0}}).
+
+    **Request body examples:**
+      {"user_lat": 30.0444, "user_lng": 31.2357}
+      {"user_lat": 30.0444, "user_lng": 31.2357, "radius_km": 10}
+      {"user_lat": 30.0444, "user_lng": 31.2357, "filters": {"is_hidden_gem": true}}
+    """
+    results, total = engine.nearby(
+        user_lat=payload.user_lat,
+        user_lng=payload.user_lng,
+        radius_km=payload.radius_km,
+        page=payload.page,
+        limit=payload.limit,
+        filters=payload.filters,
+    )
+    return paginated_response(safe_json(results), total, payload.page, payload.limit)
 @app.post("/places/getplaces")
 def get_places(payload: GetPlacesRequest):
     """
