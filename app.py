@@ -511,7 +511,7 @@ def safe_json(df: pd.DataFrame):
     Internal-only columns (bayesian_rating, similarity_score) are stripped."""
     if df is None or df.empty:
         return []
-    drop_cols = [c for c in ["bayesian_rating", "similarity_score"] if c in df.columns]
+    drop_cols = [c for c in ["bayesian_rating", "similarity_score","distance_km"] if c in df.columns]
     clean = df.drop(columns=drop_cols).replace({np.nan: None})
     return clean.to_dict(orient="records")
 
