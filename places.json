@@ -28365,5 +28365,2726 @@
     "type": null,
     "cost": 0,
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7ZagTN5WRQRQsOuvIEAacc"
+  },
+  {
+    "place_id": "ChIJNSpKp5OBUhQRKH4hZf3DCgE",
+    "name": "Hilton Hurghada Plaza",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6440,
+    "rating": 4.6,
+    "reviews_count": 7227,
+    "address": "Gabal El Hareem Street, Hurghada 2, Red Sea Governorate 84511, Egypt",
+    "description": "Bright rooms & suites in a refined beachfront hotel with 10 dining options, an outdoor pool & a spa.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051495/mindtrip/places/ChIJNSpKp5OBUhQRKH4hZf3DCgE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051495/mindtrip/places/ChIJNSpKp5OBUhQRKH4hZf3DCgE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051496/mindtrip/places/ChIJNSpKp5OBUhQRKH4hZf3DCgE1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051497/mindtrip/places/ChIJNSpKp5OBUhQRKH4hZf3DCgE2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.256716,
+    "lng": 33.8305494,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6440,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSpKp5OBUhQRKH4hZf3DCgE"
+  },
+  {
+    "place_id": "ChIJd_m4VeCGUhQRSZya87Y1XOU",
+    "name": "Hurghada Marriott Beach Resort",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4393,
+    "rating": 4.5,
+    "reviews_count": 7108,
+    "address": "El Corniche Road, Hurghada, Red Sea Governorate, Egypt",
+    "description": "Upscale quarters in a chic beachfront hotel with 8 restaurants, an outdoor pool & a diving center.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051500/mindtrip/places/ChIJd_m4VeCGUhQRSZya87Y1XOU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051500/mindtrip/places/ChIJd_m4VeCGUhQRSZya87Y1XOU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051502/mindtrip/places/ChIJd_m4VeCGUhQRSZya87Y1XOU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051503/mindtrip/places/ChIJd_m4VeCGUhQRSZya87Y1XOU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.1971563,
+    "lng": 33.8443649,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4393,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_m4VeCGUhQRSZya87Y1XOU"
+  },
+  {
+    "place_id": "ChIJfwPUCMGAUhQRvVtueVteLaU",
+    "name": "Steigenberger Aqua Magic Hotel",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6390,
+    "rating": 4.8,
+    "reviews_count": 35240,
+    "address": "Youssef Affifi Rd, Hurghada 1, Red Sea Governorate 1962522, Egypt",
+    "description": "Refined resort with a water park, 5 restaurants & a dive center, plus a 9-hole golf course.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051508/mindtrip/places/ChIJfwPUCMGAUhQRvVtueVteLaU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051508/mindtrip/places/ChIJfwPUCMGAUhQRvVtueVteLaU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051509/mindtrip/places/ChIJfwPUCMGAUhQRvVtueVteLaU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051510/mindtrip/places/ChIJfwPUCMGAUhQRvVtueVteLaU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.162313,
+    "lng": 33.822763,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6390,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwPUCMGAUhQRvVtueVteLaU"
+  },
+  {
+    "place_id": "ChIJj43_6PKBNxQRrDQH28E2JWc",
+    "name": "Meraki Resort Adults Only",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6639,
+    "rating": 4.8,
+    "reviews_count": 19695,
+    "address": "EL Dahar – Down Town, El Kornesh Road, Hurghada 2, Red Sea Governorate 1973711, Egypt",
+    "description": "Lively adults-only, all-inclusive beach resort offering 4 trendy clubs & an outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051511/mindtrip/places/ChIJj43_6PKBNxQRrDQH28E2JWc.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051511/mindtrip/places/ChIJj43_6PKBNxQRrDQH28E2JWc.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051512/mindtrip/places/ChIJj43_6PKBNxQRrDQH28E2JWc1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051513/mindtrip/places/ChIJj43_6PKBNxQRrDQH28E2JWc2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.2614054,
+    "lng": 33.8146966,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6639,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj43_6PKBNxQRrDQH28E2JWc"
+  },
+  {
+    "place_id": "ChIJqX7TSuSHUhQRodVmVn8suu4",
+    "name": "SUNRISE Holidays Resort (Adults Only)",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6240,
+    "rating": 4.8,
+    "reviews_count": 28214,
+    "address": "Cornish Road, Hurghada 1, Red Sea Governorate 99999, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051515/mindtrip/places/ChIJqX7TSuSHUhQRodVmVn8suu4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051515/mindtrip/places/ChIJqX7TSuSHUhQRodVmVn8suu4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051516/mindtrip/places/ChIJqX7TSuSHUhQRodVmVn8suu41.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.2095756,
+    "lng": 33.8460807,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6240,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqX7TSuSHUhQRodVmVn8suu4"
+  },
+  {
+    "place_id": "ChIJU3SJzzOHUhQRpnwAbmMx97I",
+    "name": "Pickalbatros White Beach Resort - Hurghada",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 8387,
+    "rating": 4.8,
+    "reviews_count": 14836,
+    "address": "Mamsha Road (El, The Corniche، St, Hurghada, Red Sea Governorate, Egypt",
+    "description": "Relaxed all-inclusive resort offering dining, a spa & pools, plus a kids' club & a private beach.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051517/mindtrip/places/ChIJU3SJzzOHUhQRpnwAbmMx97I.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051517/mindtrip/places/ChIJU3SJzzOHUhQRpnwAbmMx97I.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051518/mindtrip/places/ChIJU3SJzzOHUhQRpnwAbmMx97I1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051519/mindtrip/places/ChIJU3SJzzOHUhQRpnwAbmMx97I2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.1835443,
+    "lng": 33.8255955,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 8387,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3SJzzOHUhQRpnwAbmMx97I"
+  },
+  {
+    "place_id": "ChIJzzqWpi99TRQRqnKBhphys50",
+    "name": "Pickalbatros Blu Spa Resort - Hurghada",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 7288,
+    "rating": 4.9,
+    "reviews_count": 8738,
+    "address": "Mamsha Road, The Corniche, St, Hurghada, Red Sea Governorate 84517, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051520/mindtrip/places/ChIJzzqWpi99TRQRqnKBhphys50.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051520/mindtrip/places/ChIJzzqWpi99TRQRqnKBhphys50.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051521/mindtrip/places/ChIJzzqWpi99TRQRqnKBhphys501.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051522/mindtrip/places/ChIJzzqWpi99TRQRqnKBhphys502.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.182602,
+    "lng": 33.824974,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 7288,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzqWpi99TRQRqnKBhphys50"
+  },
+  {
+    "place_id": "ChIJj2HL5cuAUhQRqm4bMDb85vg",
+    "name": "The Grand Resort, Hurghada",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5791,
+    "rating": 4.0,
+    "reviews_count": 9386,
+    "address": "Corniche Road, Touristic Villages, Hurghada 1, Red Sea Governorate 1962541, Egypt",
+    "description": "Vibrant resort with 3 lagoon-style pools & 8 dining options, including 3 buffet restaurants.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051523/mindtrip/places/ChIJj2HL5cuAUhQRqm4bMDb85vg.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051523/mindtrip/places/ChIJj2HL5cuAUhQRqm4bMDb85vg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051524/mindtrip/places/ChIJj2HL5cuAUhQRqm4bMDb85vg1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051526/mindtrip/places/ChIJj2HL5cuAUhQRqm4bMDb85vg2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.1747759,
+    "lng": 33.8235237,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5791,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2HL5cuAUhQRqm4bMDb85vg"
+  },
+  {
+    "place_id": "ChIJB9qH03J8TRQR3OrCfPfPr08",
+    "name": "JAZ Aquaviva",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 9585,
+    "rating": 4.9,
+    "reviews_count": 20189,
+    "address": "Safaga Rd, Hurghada 1, Red Sea Governorate 1960402, Egypt",
+    "description": "Upscale all-inclusive resort with a water park, elegant restaurants & swanky bars",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051527/mindtrip/places/ChIJB9qH03J8TRQR3OrCfPfPr08.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051527/mindtrip/places/ChIJB9qH03J8TRQR3OrCfPfPr08.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051528/mindtrip/places/ChIJB9qH03J8TRQR3OrCfPfPr081.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051529/mindtrip/places/ChIJB9qH03J8TRQR3OrCfPfPr082.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 26.981657,
+    "lng": 33.8742827,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 9585,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9qH03J8TRQR3OrCfPfPr08"
+  },
+  {
+    "place_id": "ChIJp-HtkUWAUhQRSK6Bv05M2mE",
+    "name": "Beach Albatros Resort",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 7688,
+    "rating": 4.7,
+    "reviews_count": 13192,
+    "address": "16 Hurghada - Safaga Rd, Hurghada 1, Red Sea Governorate 1962215, Egypt",
+    "description": "Modern accommodations at an all-inclusive resort with a spa, a diving center & 5 restaurants.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051530/mindtrip/places/ChIJp-HtkUWAUhQRSK6Bv05M2mE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051530/mindtrip/places/ChIJp-HtkUWAUhQRSK6Bv05M2mE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051531/mindtrip/places/ChIJp-HtkUWAUhQRSK6Bv05M2mE1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051532/mindtrip/places/ChIJp-HtkUWAUhQRSK6Bv05M2mE2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.1221923,
+    "lng": 33.8292083,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 7688,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-HtkUWAUhQRSK6Bv05M2mE"
+  },
+  {
+    "place_id": "ChIJ68jmEeWHUhQRx8ofz9204TA",
+    "name": "Jaz Aquamarine",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 11432,
+    "rating": 4.8,
+    "reviews_count": 31440,
+    "address": "Magawish District, South Sahl Hashish Road, Red Sea, Hurghada 1, Red Sea Governorate 1961703, Egypt",
+    "description": "Airy quarters in a polished retreat with 3 water parks & a beach, plus 11 restaurants & bars.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051533/mindtrip/places/ChIJ68jmEeWHUhQRx8ofz9204TA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051533/mindtrip/places/ChIJ68jmEeWHUhQRx8ofz9204TA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051534/mindtrip/places/ChIJ68jmEeWHUhQRx8ofz9204TA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051536/mindtrip/places/ChIJ68jmEeWHUhQRx8ofz9204TA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.0912931,
+    "lng": 33.8466096,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 11432,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68jmEeWHUhQRx8ofz9204TA"
+  },
+  {
+    "place_id": "ChIJS8VPHN6HUhQREtfifzo0oBI",
+    "name": "Bella Vista Resort Hurghada",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2845,
+    "rating": 4.2,
+    "reviews_count": 5555,
+    "address": "Sheraton Rd, Hurghada 1, Red Sea Governorate 1964528, Egypt",
+    "description": "Casual rooms & suites in a relaxed hotel, plus 5 restaurants, a swim-up bar & a private beach.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051537/mindtrip/places/ChIJS8VPHN6HUhQREtfifzo0oBI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051537/mindtrip/places/ChIJS8VPHN6HUhQREtfifzo0oBI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051538/mindtrip/places/ChIJS8VPHN6HUhQREtfifzo0oBI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051539/mindtrip/places/ChIJS8VPHN6HUhQREtfifzo0oBI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.2132717,
+    "lng": 33.841192,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2845,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8VPHN6HUhQREtfifzo0oBI"
+  },
+  {
+    "place_id": "ChIJ6QZhPeCBUhQRzrjSHMFR1qU",
+    "name": "Rixos Premium Magawish Suites & Villas",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 12879,
+    "rating": 4.9,
+    "reviews_count": 18916,
+    "address": "Km12, Safaga Road, Hurghada, Red Sea Governorate 84517, Egypt",
+    "description": "Luxe all-inclusive beachfront resort with dining & bars, plus outdoor pools, a dive center & a spa.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051540/mindtrip/places/ChIJ6QZhPeCBUhQRzrjSHMFR1qU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051540/mindtrip/places/ChIJ6QZhPeCBUhQRzrjSHMFR1qU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051541/mindtrip/places/ChIJ6QZhPeCBUhQRzrjSHMFR1qU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051542/mindtrip/places/ChIJ6QZhPeCBUhQRzrjSHMFR1qU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.1431606,
+    "lng": 33.8274311,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 12879,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QZhPeCBUhQRzrjSHMFR1qU"
+  },
+  {
+    "place_id": "ChIJVaLgTN6HUhQR-NCs0ZL2XvY",
+    "name": "Sand Beach Resort",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1248,
+    "rating": 3.4,
+    "reviews_count": 1464,
+    "address": "El Corniche Road, Hurghada 2, Red Sea Governorate 1973705, Egypt",
+    "description": "All-inclusive beachfront hotel offering buffet dining & 3 bars, plus 2 outdoor pools & a spa.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051545/mindtrip/places/ChIJVaLgTN6HUhQR-NCs0ZL2XvY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051545/mindtrip/places/ChIJVaLgTN6HUhQR-NCs0ZL2XvY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051546/mindtrip/places/ChIJVaLgTN6HUhQR-NCs0ZL2XvY1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051547/mindtrip/places/ChIJVaLgTN6HUhQR-NCs0ZL2XvY2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.2603848,
+    "lng": 33.8208132,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1248,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVaLgTN6HUhQR-NCs0ZL2XvY"
+  },
+  {
+    "place_id": "ChIJTQCNJsOBUhQRPFNhPCCVJfQ",
+    "name": "Pickalbatros Aqua Park Resort - Hurghada",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 7139,
+    "rating": 4.7,
+    "reviews_count": 12041,
+    "address": "Villages Road, Hurghada 1, Red Sea Governorate 1962021, Egypt",
+    "description": "Modest rooms in an upscale resort with a water park, dining & a spa, plus a private beach area.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051548/mindtrip/places/ChIJTQCNJsOBUhQRPFNhPCCVJfQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051548/mindtrip/places/ChIJTQCNJsOBUhQRPFNhPCCVJfQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051550/mindtrip/places/ChIJTQCNJsOBUhQRPFNhPCCVJfQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051551/mindtrip/places/ChIJTQCNJsOBUhQRPFNhPCCVJfQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.1223448,
+    "lng": 33.8226929,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 7139,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQCNJsOBUhQRPFNhPCCVJfQ"
+  },
+  {
+    "place_id": "ChIJYd-3-dyHUhQRCpC5Gf7uOVo",
+    "name": "Mercure Hurghada Hotel",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5042,
+    "rating": 4.7,
+    "reviews_count": 16056,
+    "address": "Km 12 Hurghada - Safaga Rd, Hurghada 1, Red Sea Governorate 1962222, Egypt",
+    "description": "Modern rooms in a seafront hotel with an outdoor pool, a private beach & all-inclusive dining.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051552/mindtrip/places/ChIJYd-3-dyHUhQRCpC5Gf7uOVo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051552/mindtrip/places/ChIJYd-3-dyHUhQRCpC5Gf7uOVo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051553/mindtrip/places/ChIJYd-3-dyHUhQRCpC5Gf7uOVo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051553/mindtrip/places/ChIJYd-3-dyHUhQRCpC5Gf7uOVo2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.131517,
+    "lng": 33.828283,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5042,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYd-3-dyHUhQRCpC5Gf7uOVo"
+  },
+  {
+    "place_id": "ChIJJ8bKyt-HUhQRKEj4PN_SMfw",
+    "name": "Royal Star Beach Resort",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2097,
+    "rating": 3.5,
+    "reviews_count": 2542,
+    "address": "Cornish Street El Dahar Area, Hurghada 2, Egypt",
+    "description": "Understated quarters in an all-inclusive beachfront resort offering an outdoor pool, 3 bars & a spa.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051554/mindtrip/places/ChIJJ8bKyt-HUhQRKEj4PN_SMfw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051554/mindtrip/places/ChIJJ8bKyt-HUhQRKEj4PN_SMfw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051556/mindtrip/places/ChIJJ8bKyt-HUhQRKEj4PN_SMfw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051557/mindtrip/places/ChIJJ8bKyt-HUhQRKEj4PN_SMfw2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.2612522,
+    "lng": 33.8196032,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2097,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8bKyt-HUhQRKEj4PN_SMfw"
+  },
+  {
+    "place_id": "ChIJ7Ve_YwuHUhQRlEZddYoV1nM",
+    "name": "Serry Beach Resort",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 11532,
+    "rating": 4.8,
+    "reviews_count": 4356,
+    "address": "Touristic Villages, Hurghada 1, Red Sea Governorate 84511, Egypt",
+    "description": "Minimalist rooms & suites in a polished hotel on the beach offering 4 restaurants & a pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051558/mindtrip/places/ChIJ7Ve_YwuHUhQRlEZddYoV1nM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051558/mindtrip/places/ChIJ7Ve_YwuHUhQRlEZddYoV1nM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051559/mindtrip/places/ChIJ7Ve_YwuHUhQRlEZddYoV1nM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051561/mindtrip/places/ChIJ7Ve_YwuHUhQRlEZddYoV1nM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.1874189,
+    "lng": 33.8318486,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 11532,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Ve_YwuHUhQRlEZddYoV1nM"
+  },
+  {
+    "place_id": "ChIJH_bF_CN-TRQRVx0PkFGnIpk",
+    "name": "Hurghada Long Beach Resort",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4443,
+    "rating": 4.3,
+    "reviews_count": 16551,
+    "address": "Sahl Hashish Rd, Hurghada 1, Red Sea Governorate 84511, Egypt",
+    "description": "Contemporary rooms & suites in a Bauhaus-style resort with 4 restaurants, a spa & a private beach.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051562/mindtrip/places/ChIJH_bF_CN-TRQRVx0PkFGnIpk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051562/mindtrip/places/ChIJH_bF_CN-TRQRVx0PkFGnIpk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051564/mindtrip/places/ChIJH_bF_CN-TRQRVx0PkFGnIpk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051565/mindtrip/places/ChIJH_bF_CN-TRQRVx0PkFGnIpk2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.0818239,
+    "lng": 33.858488,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4443,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_bF_CN-TRQRVx0PkFGnIpk"
+  },
+  {
+    "place_id": "ChIJj1n4CgCHUhQRMNgLCVdnQFg",
+    "name": "Seagull beach resort",
+    "city": "Hurghada",
+    "city_en": "Hurghada",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6789,
+    "rating": 4.3,
+    "reviews_count": 19210,
+    "address": "Sheraton Rd, Hurghada 1, Red Sea Governorate 1964803, Egypt",
+    "description": "Laid-back resort offering restaurants & nightclubs, plus direct beach access, pools & a water park.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051566/mindtrip/places/ChIJj1n4CgCHUhQRMNgLCVdnQFg.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051566/mindtrip/places/ChIJj1n4CgCHUhQRMNgLCVdnQFg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051568/mindtrip/places/ChIJj1n4CgCHUhQRMNgLCVdnQFg1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782051570/mindtrip/places/ChIJj1n4CgCHUhQRMNgLCVdnQFg2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.214796,
+    "lng": 33.8399209,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6789,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1n4CgCHUhQRMNgLCVdnQFg"
+  },
+  {
+    "place_id": "ChIJbT60cc9AWBQRwCWFHKKKk8Q",
+    "name": "Old Cataract, Aswan",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 22115,
+    "rating": 4.9,
+    "reviews_count": 9861,
+    "address": "Abtal El Tahrir Street, Sheyakhah Oula, Aswan 1, Aswan Governorate 81511, Egypt",
+    "description": "Elegant hotel in a Victorian palace with 4 restaurants & bars, along with a pool, a spa & a gym.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053571/mindtrip/places/ChIJbT60cc9AWBQRwCWFHKKKk8Q.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053571/mindtrip/places/ChIJbT60cc9AWBQRwCWFHKKKk8Q.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053572/mindtrip/places/ChIJbT60cc9AWBQRwCWFHKKKk8Q1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053575/mindtrip/places/ChIJbT60cc9AWBQRwCWFHKKKk8Q2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0822263,
+    "lng": 32.8879359,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 22115,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbT60cc9AWBQRwCWFHKKKk8Q"
+  },
+  {
+    "place_id": "ChIJZSoczMpkNhQRWn9m38gROnI",
+    "name": "Aswan Plaza Hotel",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2446,
+    "rating": 4.2,
+    "reviews_count": 3715,
+    "address": "Kornish Al Nile, Sheyakhah Thalethah, Aswan, Aswan Governorate 1242803, Egypt",
+    "description": "Bright rooms in a relaxed hotel with a private beach area, river views & an outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053575/mindtrip/places/ChIJZSoczMpkNhQRWn9m38gROnI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053575/mindtrip/places/ChIJZSoczMpkNhQRWn9m38gROnI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053576/mindtrip/places/ChIJZSoczMpkNhQRWn9m38gROnI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053577/mindtrip/places/ChIJZSoczMpkNhQRWn9m38gROnI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0974022,
+    "lng": 32.8983211,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2446,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZSoczMpkNhQRWn9m38gROnI"
+  },
+  {
+    "place_id": "ChIJpW4DBc57NhQRYk09EIhdsTI",
+    "name": "TOLIP Hotel Aswan",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6989,
+    "rating": 4.2,
+    "reviews_count": 516,
+    "address": "4W52+RH4, Kornish Al Nile, Sheyakhah Thalethah, Aswan, Aswan Governorate 1242875, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053579/mindtrip/places/ChIJpW4DBc57NhQRYk09EIhdsTI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053579/mindtrip/places/ChIJpW4DBc57NhQRYk09EIhdsTI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053579/mindtrip/places/ChIJpW4DBc57NhQRYk09EIhdsTI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053580/mindtrip/places/ChIJpW4DBc57NhQRYk09EIhdsTI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.1095132,
+    "lng": 32.901447,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6989,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW4DBc57NhQRYk09EIhdsTI"
+  },
+  {
+    "place_id": "ChIJ6R6s4qdkNhQRa6xhvk9PDS4",
+    "name": "Basma Hotel Aswan",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3195,
+    "rating": 3.9,
+    "reviews_count": 2257,
+    "address": "Al Fanadek, Street, Aswan Governorate, Egypt",
+    "description": "Posh quarters in a stylish property featuring a refined restaurant with river views, plus artwork.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053581/mindtrip/places/ChIJ6R6s4qdkNhQRa6xhvk9PDS4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053581/mindtrip/places/ChIJ6R6s4qdkNhQRa6xhvk9PDS4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053582/mindtrip/places/ChIJ6R6s4qdkNhQRa6xhvk9PDS41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053584/mindtrip/places/ChIJ6R6s4qdkNhQRa6xhvk9PDS42.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0779288,
+    "lng": 32.8872183,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3195,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6R6s4qdkNhQRa6xhvk9PDS4"
+  },
+  {
+    "place_id": "ChIJz2_6c057NhQRZFNYrbx7hBE",
+    "name": "Pyramisa Island Hotel Aswan",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3145,
+    "rating": 3.8,
+    "reviews_count": 2608,
+    "address": "3VHH+GW, Sheyakhah Oula, Aswan, Aswan Governorate 1231010, Egypt",
+    "description": "Polished Nile River island resort offering 3 restaurants & 4 bars, plus 2 outdoor pools & gardens.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053584/mindtrip/places/ChIJz2_6c057NhQRZFNYrbx7hBE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053584/mindtrip/places/ChIJz2_6c057NhQRZFNYrbx7hBE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053585/mindtrip/places/ChIJz2_6c057NhQRZFNYrbx7hBE1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053586/mindtrip/places/ChIJz2_6c057NhQRZFNYrbx7hBE2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0786882,
+    "lng": 32.879857,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3145,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2_6c057NhQRZFNYrbx7hBE"
+  },
+  {
+    "place_id": "ChIJPcK2sx1lNhQRRtIK7Wo4MN4",
+    "name": "Sonesta Nouba Aswan",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 8736,
+    "rating": 4.6,
+    "reviews_count": 211,
+    "address": "Abu AR Rish Qebli, Aswan, Aswan Governorate 81511, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053589/mindtrip/places/ChIJPcK2sx1lNhQRRtIK7Wo4MN4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053589/mindtrip/places/ChIJPcK2sx1lNhQRRtIK7Wo4MN4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053589/mindtrip/places/ChIJPcK2sx1lNhQRRtIK7Wo4MN41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053590/mindtrip/places/ChIJPcK2sx1lNhQRRtIK7Wo4MN42.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.159002,
+    "lng": 32.8789524,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 8736,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcK2sx1lNhQRRtIK7Wo4MN4"
+  },
+  {
+    "place_id": "ChIJAaGCb21lNhQRcTLbSWWv8oI",
+    "name": "Obelisk - Nile Hotel | فندق اوبليسك",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3145,
+    "rating": 4.1,
+    "reviews_count": 671,
+    "address": "1 Corniche El Nile St, Sheyakhah Thalethah, Aswan 1, Aswan Governorate 1240892, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053591/mindtrip/places/ChIJAaGCb21lNhQRcTLbSWWv8oI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053591/mindtrip/places/ChIJAaGCb21lNhQRcTLbSWWv8oI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053592/mindtrip/places/ChIJAaGCb21lNhQRcTLbSWWv8oI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053593/mindtrip/places/ChIJAaGCb21lNhQRcTLbSWWv8oI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0922895,
+    "lng": 32.8954931,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3145,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaGCb21lNhQRcTLbSWWv8oI"
+  },
+  {
+    "place_id": "ChIJ1YUhljR7NhQRPPEAo2tfdN0",
+    "name": "Marhaba Aswan Hotel",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2546,
+    "rating": 3.6,
+    "reviews_count": 1168,
+    "address": "Abu AR Rish Qebli, Aswan 1, Aswan Governorate 1242805, Egypt",
+    "description": "Unfussy lodging offering a pool, dining & a rooftop terrace with Nile views, plus breakfast.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053593/mindtrip/places/ChIJ1YUhljR7NhQRPPEAo2tfdN0.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053593/mindtrip/places/ChIJ1YUhljR7NhQRPPEAo2tfdN0.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053594/mindtrip/places/ChIJ1YUhljR7NhQRPPEAo2tfdN01.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053595/mindtrip/places/ChIJ1YUhljR7NhQRPPEAo2tfdN02.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0996457,
+    "lng": 32.900143,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2546,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YUhljR7NhQRPPEAo2tfdN0"
+  },
+  {
+    "place_id": "ChIJYbT0tbNkNhQR_1-6Ausrscw",
+    "name": "Philae Hotel",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2746,
+    "rating": 3.7,
+    "reviews_count": 682,
+    "address": "79 Cornish El Nil St, Sheyakhah Thalethah, Aswan 1, Aswan Governorate 81111, Egypt",
+    "description": "Simply decorated rooms & apartments in a down-to-earth hotel offering river views.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053596/mindtrip/places/ChIJYbT0tbNkNhQR_1-6Ausrscw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053596/mindtrip/places/ChIJYbT0tbNkNhQR_1-6Ausrscw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053597/mindtrip/places/ChIJYbT0tbNkNhQR_1-6Ausrscw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053597/mindtrip/places/ChIJYbT0tbNkNhQR_1-6Ausrscw2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0891273,
+    "lng": 32.8944499,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2746,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbT0tbNkNhQR_1-6Ausrscw"
+  },
+  {
+    "place_id": "ChIJH3CiZl9jNhQRpuGopkzVYtU",
+    "name": "Pyramisa Island Aswan",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4493,
+    "rating": 3.6,
+    "reviews_count": 467,
+    "address": "Corniche El Nil Aswan, 99999, Egypt",
+    "description": "Relaxed riverside lodging offering an outdoor pool, plus a restaurant with a waterfront terrace.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053598/mindtrip/places/ChIJH3CiZl9jNhQRpuGopkzVYtU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053598/mindtrip/places/ChIJH3CiZl9jNhQRpuGopkzVYtU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053599/mindtrip/places/ChIJH3CiZl9jNhQRpuGopkzVYtU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053600/mindtrip/places/ChIJH3CiZl9jNhQRpuGopkzVYtU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0921929,
+    "lng": 32.8959692,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4493,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3CiZl9jNhQRpuGopkzVYtU"
+  },
+  {
+    "place_id": "ChIJP9WKukNjNhQRDl10p0ylisE",
+    "name": "Aswan Nile Palace",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1747,
+    "rating": 4.5,
+    "reviews_count": 168,
+    "address": "3VCJ+WF, Sheyakhah Oula, Aswan 1, Aswan Governorate 1240801, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053601/mindtrip/places/ChIJP9WKukNjNhQRDl10p0ylisE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053601/mindtrip/places/ChIJP9WKukNjNhQRDl10p0ylisE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053601/mindtrip/places/ChIJP9WKukNjNhQRDl10p0ylisE1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053602/mindtrip/places/ChIJP9WKukNjNhQRDl10p0ylisE2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0728487,
+    "lng": 32.8806904,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1747,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9WKukNjNhQRDl10p0ylisE"
+  },
+  {
+    "place_id": "ChIJpeMHXLBkNhQRXTVWYhCz-J8",
+    "name": "Mango Guesthouse",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1198,
+    "rating": 4.7,
+    "reviews_count": 384,
+    "address": "Unnamed Road, Sheyakhah Oula, Aswan, Aswan Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053603/mindtrip/places/ChIJpeMHXLBkNhQRXTVWYhCz-J8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053603/mindtrip/places/ChIJpeMHXLBkNhQRXTVWYhCz-J8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053604/mindtrip/places/ChIJpeMHXLBkNhQRXTVWYhCz-J81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053606/mindtrip/places/ChIJpeMHXLBkNhQRXTVWYhCz-J82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0897141,
+    "lng": 32.8891678,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1198,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeMHXLBkNhQRXTVWYhCz-J8"
+  },
+  {
+    "place_id": "ChIJg2V9IX9jNhQR940cRZ8B-SU",
+    "name": "Kato Dool Wellness Resort",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2546,
+    "rating": 4.4,
+    "reviews_count": 221,
+    "address": "Aswan, Aswan Governorate 81128, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053607/mindtrip/places/ChIJg2V9IX9jNhQR940cRZ8B-SU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053607/mindtrip/places/ChIJg2V9IX9jNhQR940cRZ8B-SU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053607/mindtrip/places/ChIJg2V9IX9jNhQR940cRZ8B-SU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053608/mindtrip/places/ChIJg2V9IX9jNhQR940cRZ8B-SU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0719934,
+    "lng": 32.8642341,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2546,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2V9IX9jNhQR940cRZ8B-SU"
+  },
+  {
+    "place_id": "ChIJ76YgFa5kNhQROA4s2mXetMo",
+    "name": "Nile Hotel",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1997,
+    "rating": 3.7,
+    "reviews_count": 785,
+    "address": "15 Al Kornish, El-Zawya El-Hamraa El-Balad, اسوان، Cairo Governorate 1242601, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053609/mindtrip/places/ChIJ76YgFa5kNhQROA4s2mXetMo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053609/mindtrip/places/ChIJ76YgFa5kNhQROA4s2mXetMo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053610/mindtrip/places/ChIJ76YgFa5kNhQROA4s2mXetMo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053610/mindtrip/places/ChIJ76YgFa5kNhQROA4s2mXetMo2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.085847,
+    "lng": 32.8920582,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1997,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76YgFa5kNhQROA4s2mXetMo"
+  },
+  {
+    "place_id": "ChIJ4xm0CjVlNhQRYlQjy17FI-I",
+    "name": "Kafana Guest House and Resturant Nile View",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1747,
+    "rating": 4.9,
+    "reviews_count": 460,
+    "address": "Sheyakhah Oula, Aswan, Aswan Governorate 1240875, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053611/mindtrip/places/ChIJ4xm0CjVlNhQRYlQjy17FI-I.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053611/mindtrip/places/ChIJ4xm0CjVlNhQRYlQjy17FI-I.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053612/mindtrip/places/ChIJ4xm0CjVlNhQRYlQjy17FI-I1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053613/mindtrip/places/ChIJ4xm0CjVlNhQRYlQjy17FI-I2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0890804,
+    "lng": 32.8856662,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1747,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xm0CjVlNhQRYlQjy17FI-I"
+  },
+  {
+    "place_id": "ChIJP2ijM7VlNhQRc1-IF_zL2HE",
+    "name": "La Terrace Aswan",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2596,
+    "rating": 4.9,
+    "reviews_count": 95,
+    "address": "Elephantine island, Sheyakhah Oula, Aswan, Aswan Governorate 81111, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053613/mindtrip/places/ChIJP2ijM7VlNhQRc1-IF_zL2HE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053613/mindtrip/places/ChIJP2ijM7VlNhQRc1-IF_zL2HE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053614/mindtrip/places/ChIJP2ijM7VlNhQRc1-IF_zL2HE1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053615/mindtrip/places/ChIJP2ijM7VlNhQRc1-IF_zL2HE2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0891574,
+    "lng": 32.8898267,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2596,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2ijM7VlNhQRc1-IF_zL2HE"
+  },
+  {
+    "place_id": "ChIJs45z77RkNhQROnV1mZOgfWQ",
+    "name": "Hapi Hotel",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2746,
+    "rating": 3.7,
+    "reviews_count": 1492,
+    "address": "10 Abtal el Tahrir, Sheyakhah Thalethah, Aswan 1, Aswan Governorate 1242802, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053616/mindtrip/places/ChIJs45z77RkNhQROnV1mZOgfWQ1.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053616/mindtrip/places/ChIJs45z77RkNhQROnV1mZOgfWQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053617/mindtrip/places/ChIJs45z77RkNhQROnV1mZOgfWQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0927569,
+    "lng": 32.8967689,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2746,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs45z77RkNhQROnV1mZOgfWQ"
+  },
+  {
+    "place_id": "ChIJ4VpA50JjNhQR8RxFiX7Qj-Q",
+    "name": "Sara Hotel Aswan",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1947,
+    "rating": 3.2,
+    "reviews_count": 446,
+    "address": "3V9H+29M، El Fanadek، Street، Naser City, Aswan Governorate 99999, Egypt",
+    "description": "Relaxed hotel offering free Wi-Fi, an outdoor pool & a restaurant, plus a bar & Nile views.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053617/mindtrip/places/ChIJ4VpA50JjNhQR8RxFiX7Qj-Q.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053617/mindtrip/places/ChIJ4VpA50JjNhQR8RxFiX7Qj-Q.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053620/mindtrip/places/ChIJ4VpA50JjNhQR8RxFiX7Qj-Q1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053621/mindtrip/places/ChIJ4VpA50JjNhQR8RxFiX7Qj-Q2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.067586,
+    "lng": 32.8784338,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1947,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4VpA50JjNhQR8RxFiX7Qj-Q"
+  },
+  {
+    "place_id": "ChIJIeo2OTJ7NhQRrp0QDQGvzpg",
+    "name": "Tiba Hotel Aswan",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 948,
+    "rating": 3.6,
+    "reviews_count": 1017,
+    "address": "1242874 شارع عبد الشكور عبد القادر الأسمر, Atlas Area, Aswan 1, Aswan Governorate 1242874, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053623/mindtrip/places/ChIJIeo2OTJ7NhQRrp0QDQGvzpg.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053623/mindtrip/places/ChIJIeo2OTJ7NhQRrp0QDQGvzpg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053623/mindtrip/places/ChIJIeo2OTJ7NhQRrp0QDQGvzpg1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053624/mindtrip/places/ChIJIeo2OTJ7NhQRrp0QDQGvzpg2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.104781,
+    "lng": 32.9034034,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 948,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeo2OTJ7NhQRrp0QDQGvzpg"
+  },
+  {
+    "place_id": "ChIJD76bLMtkNhQRmhD9KZdmPCU",
+    "name": "Orchida St. George Hotel",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1797,
+    "rating": 3.5,
+    "reviews_count": 251,
+    "address": "9 Mohamed Khaled St, Sheyakhah Thalethah, Aswan 1, Aswan Governorate 1242606, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053625/mindtrip/places/ChIJD76bLMtkNhQRmhD9KZdmPCU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053625/mindtrip/places/ChIJD76bLMtkNhQRmhD9KZdmPCU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053626/mindtrip/places/ChIJD76bLMtkNhQRmhD9KZdmPCU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782053626/mindtrip/places/ChIJD76bLMtkNhQRmhD9KZdmPCU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 24.0876318,
+    "lng": 32.8940558,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1797,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD76bLMtkNhQRmhD9KZdmPCU"
+  },
+  {
+    "place_id": "ChIJVzzkG7xJUxQRjw4843s4kKA",
+    "name": "Four Seasons Resort Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 10333,
+    "rating": 4.7,
+    "reviews_count": 3185,
+    "address": "1 Four Seasons Boulevard, El-Salam, Sharm El Sheikh 2, Egypt",
+    "description": "Polished resort with 6 restaurants/bars & 4 pools, plus a spa, a gym & a private beach.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055233/mindtrip/places/ChIJVzzkG7xJUxQRjw4843s4kKA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055233/mindtrip/places/ChIJVzzkG7xJUxQRjw4843s4kKA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055234/mindtrip/places/ChIJVzzkG7xJUxQRjw4843s4kKA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055235/mindtrip/places/ChIJVzzkG7xJUxQRjw4843s4kKA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9564181,
+    "lng": 34.391837,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 10333,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzzkG7xJUxQRjw4843s4kKA"
+  },
+  {
+    "place_id": "ChIJA05z7zJMUxQRDQGbEhlvA3g",
+    "name": "Rixos Sharm El Sheikh Adults Only 18+",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 18321,
+    "rating": 4.9,
+    "reviews_count": 45501,
+    "address": "Nabq Bay, Sharm El Sheikh 2, South Sinai Governorate, Egypt",
+    "description": "Luxe all-inclusive beach resort offering 7 pools, a spa & multiple dining options, plus a gym.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055236/mindtrip/places/ChIJA05z7zJMUxQRDQGbEhlvA3g.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055236/mindtrip/places/ChIJA05z7zJMUxQRDQGbEhlvA3g.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055237/mindtrip/places/ChIJA05z7zJMUxQRDQGbEhlvA3g1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055238/mindtrip/places/ChIJA05z7zJMUxQRDQGbEhlvA3g2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 28.0300727,
+    "lng": 34.4363378,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 18321,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA05z7zJMUxQRDQGbEhlvA3g"
+  },
+  {
+    "place_id": "ChIJr6mSJLk7UxQRyOpaoligf5s",
+    "name": "Mövenpick Resort Sharm el Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4792,
+    "rating": 4.8,
+    "reviews_count": 18786,
+    "address": "Naama Bay 46619, Sharm El Sheikh 1, South Sinai Governorate 46619, Egypt",
+    "description": "Upmarket resort with bay views & private beaches, plus a gym, a spa & multiple dining options.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055240/mindtrip/places/ChIJr6mSJLk7UxQRyOpaoligf5s.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055240/mindtrip/places/ChIJr6mSJLk7UxQRyOpaoligf5s.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055241/mindtrip/places/ChIJr6mSJLk7UxQRyOpaoligf5s1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055242/mindtrip/places/ChIJr6mSJLk7UxQRyOpaoligf5s2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9139205,
+    "lng": 34.3404473,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4792,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6mSJLk7UxQRyOpaoligf5s"
+  },
+  {
+    "place_id": "ChIJKb-cz-tJUxQRt6hTz5J3Ht8",
+    "name": "Meraki Resort",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 14127,
+    "rating": 4.9,
+    "reviews_count": 11771,
+    "address": "96 A, Ra's Nasrani, Sharks Bay, Sharm El Sheikh 1, South Sinai Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055243/mindtrip/places/ChIJKb-cz-tJUxQRt6hTz5J3Ht8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055243/mindtrip/places/ChIJKb-cz-tJUxQRt6hTz5J3Ht8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055244/mindtrip/places/ChIJKb-cz-tJUxQRt6hTz5J3Ht81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055245/mindtrip/places/ChIJKb-cz-tJUxQRt6hTz5J3Ht82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9665067,
+    "lng": 34.4011046,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 14127,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKb-cz-tJUxQRt6hTz5J3Ht8"
+  },
+  {
+    "place_id": "ChIJhSe5-Pq1QRQRH9ax1zp1MgM",
+    "name": "DoubleTree by Hilton Sharm El Sheikh - Sharm Bay",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4393,
+    "rating": 4.4,
+    "reviews_count": 12017,
+    "address": "Ra's Nasrani, Sharks Bay, Concourd Hotel Entrance, Sharm El Sheikh 1, South Sinai Governorate 46628, Egypt",
+    "description": "Upmarket resort featuring 11 dining options, 7 bars  & a dive centre, plus beach access.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055245/mindtrip/places/ChIJhSe5-Pq1QRQRH9ax1zp1MgM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055245/mindtrip/places/ChIJhSe5-Pq1QRQRH9ax1zp1MgM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055246/mindtrip/places/ChIJhSe5-Pq1QRQRH9ax1zp1MgM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055247/mindtrip/places/ChIJhSe5-Pq1QRQRH9ax1zp1MgM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9678564,
+    "lng": 34.3993514,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4393,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSe5-Pq1QRQRH9ax1zp1MgM"
+  },
+  {
+    "place_id": "ChIJlXxhiCZIUxQRekeenKFzYXM",
+    "name": "Rixos Radamis Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 22414,
+    "rating": 4.9,
+    "reviews_count": 11783,
+    "address": "Nabq Bay, Sharm El Sheikh 2, South Sinai Governorate 8752413, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055251/mindtrip/places/ChIJlXxhiCZIUxQRekeenKFzYXM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055251/mindtrip/places/ChIJlXxhiCZIUxQRekeenKFzYXM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055251/mindtrip/places/ChIJlXxhiCZIUxQRekeenKFzYXM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055252/mindtrip/places/ChIJlXxhiCZIUxQRekeenKFzYXM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 28.0072723,
+    "lng": 34.4278437,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 22414,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXxhiCZIUxQRekeenKFzYXM"
+  },
+  {
+    "place_id": "ChIJ54gy-Ic3UxQRrvtk9hafSRI",
+    "name": "Novotel Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3794,
+    "rating": 4.8,
+    "reviews_count": 19981,
+    "address": "Naama Bay, Sharm El Sheikh 1, South Sinai Governorate 46619, Egypt",
+    "description": "Contemporary quarters in an upscale beachfront hotel with Mediterranean dining & outdoor pools.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055253/mindtrip/places/ChIJ54gy-Ic3UxQRrvtk9hafSRI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055253/mindtrip/places/ChIJ54gy-Ic3UxQRrvtk9hafSRI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055254/mindtrip/places/ChIJ54gy-Ic3UxQRrvtk9hafSRI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055254/mindtrip/places/ChIJ54gy-Ic3UxQRrvtk9hafSRI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9155784,
+    "lng": 34.3312291,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3794,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54gy-Ic3UxQRrvtk9hafSRI"
+  },
+  {
+    "place_id": "ChIJO-7TqjBMUxQRAByUMwkp4vA",
+    "name": "Club Prive By Rixos Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 193789,
+    "rating": 4.9,
+    "reviews_count": 162,
+    "address": "Nabq Bay, Sharm El Sheikh 2, South Sinai Governorate 41669, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055255/mindtrip/places/ChIJO-7TqjBMUxQRAByUMwkp4vA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055255/mindtrip/places/ChIJO-7TqjBMUxQRAByUMwkp4vA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055256/mindtrip/places/ChIJO-7TqjBMUxQRAByUMwkp4vA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055257/mindtrip/places/ChIJO-7TqjBMUxQRAByUMwkp4vA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 28.0057253,
+    "lng": 34.4298843,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 193789,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-7TqjBMUxQRAByUMwkp4vA"
+  },
+  {
+    "place_id": "ChIJWVuH7qNJUxQRvkymbMQCj0o",
+    "name": "Savoy Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 8137,
+    "rating": 4.6,
+    "reviews_count": 6167,
+    "address": "SOHO Square, El-Shaikh Zayed St, Sharm El Sheikh 1, South Sinai Governorate 8765302, Egypt",
+    "description": "Airy rooms & suites in a casual resort with restaurants & bars, plus 5 pools & beach access.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055258/mindtrip/places/ChIJWVuH7qNJUxQRvkymbMQCj0o.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055258/mindtrip/places/ChIJWVuH7qNJUxQRvkymbMQCj0o.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055259/mindtrip/places/ChIJWVuH7qNJUxQRvkymbMQCj0o1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055259/mindtrip/places/ChIJWVuH7qNJUxQRvkymbMQCj0o2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9611825,
+    "lng": 34.3952808,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 8137,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVuH7qNJUxQRvkymbMQCj0o"
+  },
+  {
+    "place_id": "ChIJ7Z4Ssyk3UxQRUo9Y6QX-joQ",
+    "name": "Swissotel Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 11881,
+    "rating": 4.9,
+    "reviews_count": 7518,
+    "address": "Sharm El Sheikh 1, South Sinai Governorate 8761442, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055260/mindtrip/places/ChIJ7Z4Ssyk3UxQRUo9Y6QX-joQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055260/mindtrip/places/ChIJ7Z4Ssyk3UxQRUo9Y6QX-joQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055261/mindtrip/places/ChIJ7Z4Ssyk3UxQRUo9Y6QX-joQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055263/mindtrip/places/ChIJ7Z4Ssyk3UxQRUo9Y6QX-joQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9203694,
+    "lng": 34.3368166,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 11881,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Z4Ssyk3UxQRUo9Y6QX-joQ"
+  },
+  {
+    "place_id": "ChIJDeDnP_c5UxQRWNQ4oOT_wY8",
+    "name": "The Grand Hotel Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6390,
+    "rating": 3.9,
+    "reviews_count": 3722,
+    "address": "Al Fanar, Sharm El Sheikh 1, South Sinai Governorate 8762641, Egypt",
+    "description": "Casual beachfront resort offering airy quarters, plus dining & multiple outdoor pools.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055264/mindtrip/places/ChIJDeDnP_c5UxQRWNQ4oOT_wY8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055264/mindtrip/places/ChIJDeDnP_c5UxQRWNQ4oOT_wY8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055265/mindtrip/places/ChIJDeDnP_c5UxQRWNQ4oOT_wY81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055266/mindtrip/places/ChIJDeDnP_c5UxQRWNQ4oOT_wY82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.8719358,
+    "lng": 34.3184286,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6390,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDeDnP_c5UxQRWNQ4oOT_wY8"
+  },
+  {
+    "place_id": "ChIJFYJ0mLpLUxQRBda14j2zD5s",
+    "name": "Baron Palms Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 7937,
+    "rating": 4.8,
+    "reviews_count": 10510,
+    "address": "Ras Nasrany Bay, South Sinai Governorate, Egypt",
+    "description": "High-end, all-inclusive resort offering a spa & outdoor pools, plus an amphitheater & live shows.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055267/mindtrip/places/ChIJFYJ0mLpLUxQRBda14j2zD5s.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055267/mindtrip/places/ChIJFYJ0mLpLUxQRBda14j2zD5s.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055268/mindtrip/places/ChIJFYJ0mLpLUxQRBda14j2zD5s1.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9745041,
+    "lng": 34.4221921,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 7937,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYJ0mLpLUxQRBda14j2zD5s"
+  },
+  {
+    "place_id": "ChIJ---6fBQ6UxQRR3OKBvafcEI",
+    "name": "Renaissance Sharm El Sheikh Golden View Beach Resort",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4892,
+    "rating": 4.5,
+    "reviews_count": 4632,
+    "address": "V827+GHJ, Al Fanar, Street, Om El Seid Hill, Sharm El Sheikh 1, South Sinai Governorate, Egypt",
+    "description": "Warm sea-view lodging offering 3 eateries & 4 bars, plus outdoor pools, a spa & a dive center.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055269/mindtrip/places/ChIJ---6fBQ6UxQRR3OKBvafcEI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055269/mindtrip/places/ChIJ---6fBQ6UxQRR3OKBvafcEI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055270/mindtrip/places/ChIJ---6fBQ6UxQRR3OKBvafcEI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055271/mindtrip/places/ChIJ---6fBQ6UxQRR3OKBvafcEI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.8515066,
+    "lng": 34.3140985,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4892,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ---6fBQ6UxQRR3OKBvafcEI"
+  },
+  {
+    "place_id": "ChIJJ1mt3IdJUxQRdibQu3hWOwQ",
+    "name": "White Hills Resort",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 12630,
+    "rating": 4.9,
+    "reviews_count": 10849,
+    "address": "Sharm El Sheikh 2, South Sinai Governorate 46619, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055272/mindtrip/places/ChIJJ1mt3IdJUxQRdibQu3hWOwQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055272/mindtrip/places/ChIJJ1mt3IdJUxQRdibQu3hWOwQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055273/mindtrip/places/ChIJJ1mt3IdJUxQRdibQu3hWOwQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055274/mindtrip/places/ChIJJ1mt3IdJUxQRdibQu3hWOwQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9665569,
+    "lng": 34.4023748,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 12630,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1mt3IdJUxQRdibQu3hWOwQ"
+  },
+  {
+    "place_id": "ChIJL74AmhY6UxQRWZkHCXfnhOQ",
+    "name": "JAZ Fanara Resort",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6789,
+    "rating": 4.9,
+    "reviews_count": 22196,
+    "address": "Ras Om El-Seid, Sharm El Sheikh 1, South Sinai Governorate 46628, Egypt",
+    "description": "Elegant all-inclusive resort with a private beach area, dining & pools, plus diving & snorkeling.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055274/mindtrip/places/ChIJL74AmhY6UxQRWZkHCXfnhOQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055274/mindtrip/places/ChIJL74AmhY6UxQRWZkHCXfnhOQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055276/mindtrip/places/ChIJL74AmhY6UxQRWZkHCXfnhOQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055276/mindtrip/places/ChIJL74AmhY6UxQRWZkHCXfnhOQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.8498641,
+    "lng": 34.3129822,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6789,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL74AmhY6UxQRWZkHCXfnhOQ"
+  },
+  {
+    "place_id": "ChIJWyM1Y6JJUxQRRaq6UPRBFHQ",
+    "name": "Royal Savoy Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 9734,
+    "rating": 4.6,
+    "reviews_count": 7244,
+    "address": "SOHO square, South Sinai Governorate 46628, Egypt",
+    "description": "Chic quarters in a luxe hotel with outdoor pools & a private beach, plus bars & free breakfast.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055277/mindtrip/places/ChIJWyM1Y6JJUxQRRaq6UPRBFHQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055277/mindtrip/places/ChIJWyM1Y6JJUxQRRaq6UPRBFHQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055278/mindtrip/places/ChIJWyM1Y6JJUxQRRaq6UPRBFHQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055279/mindtrip/places/ChIJWyM1Y6JJUxQRRaq6UPRBFHQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9620065,
+    "lng": 34.3967645,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 9734,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyM1Y6JJUxQRRaq6UPRBFHQ"
+  },
+  {
+    "place_id": "ChIJn64ZkZhJUxQRgGkjiqdtlhQ",
+    "name": "Concorde El Salam Hotel Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6190,
+    "rating": 4.4,
+    "reviews_count": 6579,
+    "address": "X96X+WPW, Sharm El Sheikh 1, South Sinai Governorate 8766101, Egypt",
+    "description": "Airy quarters in an upscale hotel with a spa, 5 pools & 4 restaurants, plus a free airport shuttle.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055280/mindtrip/places/ChIJn64ZkZhJUxQRgGkjiqdtlhQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055280/mindtrip/places/ChIJn64ZkZhJUxQRgGkjiqdtlhQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055281/mindtrip/places/ChIJn64ZkZhJUxQRgGkjiqdtlhQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055282/mindtrip/places/ChIJn64ZkZhJUxQRgGkjiqdtlhQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9623049,
+    "lng": 34.3992991,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6190,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn64ZkZhJUxQRgGkjiqdtlhQ"
+  },
+  {
+    "place_id": "ChIJGyJgzMlJUxQRVmqsFcAruLQ",
+    "name": "V Hotel Sharm El Sheikh",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 11332,
+    "rating": 4.4,
+    "reviews_count": 7352,
+    "address": "Sharks Bay 46617, South Sinai Governorate, Egypt",
+    "description": "Vibrant resort with restaurants, bars & a private beach area, plus a spa & a dive center.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055283/mindtrip/places/ChIJGyJgzMlJUxQRVmqsFcAruLQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055283/mindtrip/places/ChIJGyJgzMlJUxQRVmqsFcAruLQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055284/mindtrip/places/ChIJGyJgzMlJUxQRVmqsFcAruLQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055285/mindtrip/places/ChIJGyJgzMlJUxQRVmqsFcAruLQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9480745,
+    "lng": 34.381803,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 11332,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyJgzMlJUxQRVmqsFcAruLQ"
+  },
+  {
+    "place_id": "ChIJu_ramMg3UxQRZ7AdVKKfDRU",
+    "name": "Sheraton Sharm Hotel, Resort, Villas & Spa",
+    "city": "Aswan",
+    "city_en": "Aswan",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4443,
+    "rating": 4.2,
+    "reviews_count": 4110,
+    "address": "Al Pasha Coast, Sharm El Sheikh 1, South Sinai Governorate 8763401, Egypt",
+    "description": "High-end property with a private beach, a spa & a diving center, plus polished dining & 11 pools.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055285/mindtrip/places/ChIJu_ramMg3UxQRZ7AdVKKfDRU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055285/mindtrip/places/ChIJu_ramMg3UxQRZ7AdVKKfDRU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055286/mindtrip/places/ChIJu_ramMg3UxQRZ7AdVKKfDRU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782055287/mindtrip/places/ChIJu_ramMg3UxQRZ7AdVKKfDRU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 27.9215399,
+    "lng": 34.3675089,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4443,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_ramMg3UxQRZ7AdVKKfDRU"
+  },
+  {
+    "place_id": "ChIJCXShCEhZ-BQRb_vLoYWPtaA",
+    "name": "Mercure Ismailia Forsan Island Hotel",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2746,
+    "rating": 4.5,
+    "reviews_count": 6740,
+    "address": "Ismailia 2, Ismailia Governorate 8362104, Egypt",
+    "description": "Laid-back lakeside hotel offering an outdoor pool, 3 restaurants & 2 bars, plus a private beach.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063918/mindtrip/places/ChIJCXShCEhZ-BQRb_vLoYWPtaA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063918/mindtrip/places/ChIJCXShCEhZ-BQRb_vLoYWPtaA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063920/mindtrip/places/ChIJCXShCEhZ-BQRb_vLoYWPtaA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782064998/mindtrip/places/ChIJCXShCEhZ-BQRb_vLoYWPtaA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5908001,
+    "lng": 32.2589517,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2746,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXShCEhZ-BQRb_vLoYWPtaA"
+  },
+  {
+    "place_id": "ChIJZdQH68FZ-BQR-yJr1hQNEoo",
+    "name": "Golden Jewel Ismailia",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3594,
+    "rating": 4.2,
+    "reviews_count": 825,
+    "address": "H8Q3+68, Al Temsah, Ismailia 1, Ismailia Governorate 8367560, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063923/mindtrip/places/ChIJZdQH68FZ-BQR-yJr1hQNEoo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063923/mindtrip/places/ChIJZdQH68FZ-BQR-yJr1hQNEoo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065001/mindtrip/places/ChIJZdQH68FZ-BQR-yJr1hQNEoo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065002/mindtrip/places/ChIJZdQH68FZ-BQR-yJr1hQNEoo2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5880625,
+    "lng": 32.3033125,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3594,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdQH68FZ-BQR-yJr1hQNEoo"
+  },
+  {
+    "place_id": "ChIJV7gw7zlZ-BQRRaGfvoMUgsw",
+    "name": "Tolip Elforsan Island Hotel And Spa",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4393,
+    "rating": 4.3,
+    "reviews_count": 6517,
+    "address": "H7PV+J3H, Ismailia Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063927/mindtrip/places/ChIJV7gw7zlZ-BQRRaGfvoMUgsw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063927/mindtrip/places/ChIJV7gw7zlZ-BQRRaGfvoMUgsw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063928/mindtrip/places/ChIJV7gw7zlZ-BQRRaGfvoMUgsw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063929/mindtrip/places/ChIJV7gw7zlZ-BQRRaGfvoMUgsw2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5855504,
+    "lng": 32.2937597,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4393,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7gw7zlZ-BQRRaGfvoMUgsw"
+  },
+  {
+    "place_id": "ChIJne-bEKlZ-BQRgab-vaio-3I",
+    "name": "Solitaire Plaza Hotel",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1348,
+    "rating": 3.9,
+    "reviews_count": 155,
+    "address": "Shetet Al Seka Al Haded Sabeka, Ismailia 2, Ismailia Governorate 8363110, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063930/mindtrip/places/ChIJne-bEKlZ-BQRgab-vaio-3I.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063930/mindtrip/places/ChIJne-bEKlZ-BQRgab-vaio-3I.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063931/mindtrip/places/ChIJne-bEKlZ-BQRgab-vaio-3I1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065010/mindtrip/places/ChIJne-bEKlZ-BQRgab-vaio-3I2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5938606,
+    "lng": 32.269226,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1348,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJne-bEKlZ-BQRgab-vaio-3I"
+  },
+  {
+    "place_id": "ChIJ4fK8bRZZ-BQRPMyxFs2gERI",
+    "name": "Maison Maxim De Lesseps",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5192,
+    "rating": 4.5,
+    "reviews_count": 155,
+    "address": "دي ليسيبس، 16 شارع محمد فريد، علي, Ismailia 1, Ismailia Governorate 8361240, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065011/mindtrip/places/ChIJ4fK8bRZZ-BQRPMyxFs2gERI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065011/mindtrip/places/ChIJ4fK8bRZZ-BQRPMyxFs2gERI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065012/mindtrip/places/ChIJ4fK8bRZZ-BQRPMyxFs2gERI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063937/mindtrip/places/ChIJ4fK8bRZZ-BQRPMyxFs2gERI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5894459,
+    "lng": 32.2724732,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5192,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fK8bRZZ-BQRPMyxFs2gERI"
+  },
+  {
+    "place_id": "ChIJmWckLMZAWBQRvCC1G2qiPRk",
+    "name": "Ismailia House Hotel",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 799,
+    "rating": 3.6,
+    "reviews_count": 273,
+    "address": "8th floor, Aziz bahri, 1 El-Tahrir Square, Abdeen, Cairo Governorate 11556, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065016/mindtrip/places/ChIJmWckLMZAWBQRvCC1G2qiPRk1.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065016/mindtrip/places/ChIJmWckLMZAWBQRvCC1G2qiPRk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065018/mindtrip/places/ChIJmWckLMZAWBQRvCC1G2qiPRk2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.043958,
+    "lng": 31.2365454,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 799,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWckLMZAWBQRvCC1G2qiPRk"
+  },
+  {
+    "place_id": "ChIJWTP7-1tZ-BQRxPg-KM_L-rQ",
+    "name": "NEW PALACE",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.0,
+    "reviews_count": 507,
+    "address": "H7VC+7M4, Orabi Square, Al Temsah, Ismailia 1, Ismailia Governorate 41511, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065020/mindtrip/places/ChIJWTP7-1tZ-BQRxPg-KM_L-rQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065020/mindtrip/places/ChIJWTP7-1tZ-BQRxPg-KM_L-rQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065024/mindtrip/places/ChIJWTP7-1tZ-BQRxPg-KM_L-rQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065025/mindtrip/places/ChIJWTP7-1tZ-BQRxPg-KM_L-rQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5931468,
+    "lng": 32.2717669,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTP7-1tZ-BQRxPg-KM_L-rQ"
+  },
+  {
+    "place_id": "ChIJmXRPnltZ-BQRSKb92FvvK28",
+    "name": "Grand Hotel",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 3.7,
+    "reviews_count": 566,
+    "address": "79 Al Seka Al Hadid, st, Ismailia, Ismailia Governorate 8363133, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065028/mindtrip/places/ChIJmXRPnltZ-BQRSKb92FvvK28.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065028/mindtrip/places/ChIJmXRPnltZ-BQRSKb92FvvK28.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065031/mindtrip/places/ChIJmXRPnltZ-BQRSKb92FvvK282.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5952877,
+    "lng": 32.2735519,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXRPnltZ-BQRSKb92FvvK28"
+  },
+  {
+    "place_id": "ChIJ7fJOOnJf-BQRVzMYUedmPfY",
+    "name": "Al Norus Resort Ismailia",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 3.8,
+    "reviews_count": 50,
+    "address": "H79J+8HV, Unnamed Road, Ismailia, Ismailia Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063960/mindtrip/places/ChIJ7fJOOnJf-BQRVzMYUedmPfY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063960/mindtrip/places/ChIJ7fJOOnJf-BQRVzMYUedmPfY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063961/mindtrip/places/ChIJ7fJOOnJf-BQRVzMYUedmPfY1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782063963/mindtrip/places/ChIJ7fJOOnJf-BQRVzMYUedmPfY2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5683664,
+    "lng": 32.2814158,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fJOOnJf-BQRVzMYUedmPfY"
+  },
+  {
+    "place_id": "ChIJr1iVfVdZ-BQRPV1tk8ykutA",
+    "name": "Teba hotel",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 3.6,
+    "reviews_count": 447,
+    "address": "41511, Ismailia, Ismailia Governorate 41511, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065036/mindtrip/places/ChIJr1iVfVdZ-BQRPV1tk8ykutA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065036/mindtrip/places/ChIJr1iVfVdZ-BQRPV1tk8ykutA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065038/mindtrip/places/ChIJr1iVfVdZ-BQRPV1tk8ykutA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065039/mindtrip/places/ChIJr1iVfVdZ-BQRPV1tk8ykutA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5922173,
+    "lng": 32.2684958,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1iVfVdZ-BQRPV1tk8ykutA"
+  },
+  {
+    "place_id": "ChIJWTP7-1tZ-BQRRBq_KKiUYfc",
+    "name": "Crocodile Hotel",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 3.2,
+    "reviews_count": 163,
+    "address": "H7RG+W88, Al Temsah, Ismailia 1, Ismailia Governorate 8361252, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065041/mindtrip/places/ChIJWTP7-1tZ-BQRRBq_KKiUYfc.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065041/mindtrip/places/ChIJWTP7-1tZ-BQRRBq_KKiUYfc.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065045/mindtrip/places/ChIJWTP7-1tZ-BQRRBq_KKiUYfc1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065047/mindtrip/places/ChIJWTP7-1tZ-BQRRBq_KKiUYfc2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5922815,
+    "lng": 32.2758163,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTP7-1tZ-BQRRBq_KKiUYfc"
+  },
+  {
+    "place_id": "ChIJFeJh4K1e-BQRdCD8SAIG3jo",
+    "name": "Egyptian Youth Hostel",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.2,
+    "reviews_count": 730,
+    "address": "Ismailia, Ismailia Governorate 8357050, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065051/mindtrip/places/ChIJFeJh4K1e-BQRdCD8SAIG3jo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065051/mindtrip/places/ChIJFeJh4K1e-BQRdCD8SAIG3jo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065057/mindtrip/places/ChIJFeJh4K1e-BQRdCD8SAIG3jo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065057/mindtrip/places/ChIJFeJh4K1e-BQRdCD8SAIG3jo2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5754892,
+    "lng": 32.2754569,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeJh4K1e-BQRdCD8SAIG3jo"
+  },
+  {
+    "place_id": "ChIJcfWJoqZZ-BQRpmS0uDHKn1Y",
+    "name": "Villa",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 0.0,
+    "reviews_count": 0,
+    "address": "H7WC+HHW, Ismailia, Ismailia Governorate 8363155, Egypt",
+    "description": null,
+    "photo_url": null,
+    "image_urls": "[\"https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&place_id=ChIJcfWJoqZZ-BQRpmS0uDHKn1Y\",\"https://lh5.googleusercontent.com/p/ChIJcfWJoqZZ-BQRpmS0uDHKn1Y=w1000-h1000\",\"https://maps.google.com/maps/api/place/js/PhotoService.GetPhoto?1sChIJcfWJoqZZ-BQRpmS0uDHKn1Y\"]",
+    "opening_hours": "12am-12am",
+    "lat": 30.5964923,
+    "lng": 32.2714587,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcfWJoqZZ-BQRpmS0uDHKn1Y"
+  },
+  {
+    "place_id": "ChIJwZPFEgJZ-BQRPr2gsUoMDGY",
+    "name": "Down town",
+    "city": "Ismailia",
+    "city_en": "Ismailia",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.0,
+    "reviews_count": 2,
+    "address": "H7V9+3J8, Ismailia 1, Ismailia Governorate 8361260, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065064/mindtrip/places/ChIJwZPFEgJZ-BQRPr2gsUoMDGY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065064/mindtrip/places/ChIJwZPFEgJZ-BQRPr2gsUoMDGY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065070/mindtrip/places/ChIJwZPFEgJZ-BQRPr2gsUoMDGY1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782065072/mindtrip/places/ChIJwZPFEgJZ-BQRPr2gsUoMDGY2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.5926696,
+    "lng": 32.2690697,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwZPFEgJZ-BQRPr2gsUoMDGY"
+  },
+  {
+    "place_id": "ChIJ188R9SgUSRQRtrTuK4ZEWNM",
+    "name": "Steigenberger Nile Palace",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2696,
+    "rating": 4.6,
+    "reviews_count": 4192,
+    "address": "Khaled Ben El-Waleed Street, Gazirat Al Awameyah, Luxor, Luxor Governorate 85111, Egypt",
+    "description": "Unpretentious rooms in a formal hotel with 4 restaurants, 3 bars & a cafe, plus an outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069237/mindtrip/places/ChIJ188R9SgUSRQRtrTuK4ZEWNM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069237/mindtrip/places/ChIJ188R9SgUSRQRtrTuK4ZEWNM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069240/mindtrip/places/ChIJ188R9SgUSRQRtrTuK4ZEWNM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069241/mindtrip/places/ChIJ188R9SgUSRQRtrTuK4ZEWNM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6876113,
+    "lng": 32.6312413,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2696,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ188R9SgUSRQRtrTuK4ZEWNM"
+  },
+  {
+    "place_id": "ChIJk-IqHikUSRQRT8QknuYzu6E",
+    "name": "Sonesta St. George Hotel",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3195,
+    "rating": 4.5,
+    "reviews_count": 4421,
+    "address": "Khaled Ibn Al Walid, Gazirat Al Awameyah, Luxor, Luxor Governorate 1362003, Egypt",
+    "description": "Polished hotel with restaurants, a pool & a health club, plus understated quarters with river views.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069244/mindtrip/places/ChIJk-IqHikUSRQRT8QknuYzu6E.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069244/mindtrip/places/ChIJk-IqHikUSRQRT8QknuYzu6E.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069246/mindtrip/places/ChIJk-IqHikUSRQRT8QknuYzu6E1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069247/mindtrip/places/ChIJk-IqHikUSRQRT8QknuYzu6E2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6885519,
+    "lng": 32.6313945,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3195,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-IqHikUSRQRT8QknuYzu6E"
+  },
+  {
+    "place_id": "ChIJWeQ_lLg3WBQRJXi1HzwKulA",
+    "name": "Winter Palace Luxor",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.8,
+    "reviews_count": 6144,
+    "address": "17 Cornish El Nile Street, Luxor City, Luxor, Luxor Governorate 11432, Egypt",
+    "description": "Refined rooms in an upscale 19th-century hotel with multiple bars & restaurants, plus river views.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069250/mindtrip/places/ChIJWeQ_lLg3WBQRJXi1HzwKulA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069250/mindtrip/places/ChIJWeQ_lLg3WBQRJXi1HzwKulA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069256/mindtrip/places/ChIJWeQ_lLg3WBQRJXi1HzwKulA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069259/mindtrip/places/ChIJWeQ_lLg3WBQRJXi1HzwKulA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6966811,
+    "lng": 32.6371333,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeQ_lLg3WBQRJXi1HzwKulA"
+  },
+  {
+    "place_id": "ChIJX_kRxywUSRQRJHy8rkoPTuc",
+    "name": "Iberotel Luxor By JAZ",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2746,
+    "rating": 4.3,
+    "reviews_count": 3311,
+    "address": "Khaled Ibn Al Walid, Gazirat Al Awameyah, Luxor, Luxor Governorate 1362010, Egypt",
+    "description": "Airy rooms in a relaxed hotel offering Chinese & Italian dining, plus a riverside cafe & a pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069261/mindtrip/places/ChIJX_kRxywUSRQRJHy8rkoPTuc.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069261/mindtrip/places/ChIJX_kRxywUSRQRJHy8rkoPTuc.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069262/mindtrip/places/ChIJX_kRxywUSRQRJHy8rkoPTuc1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069265/mindtrip/places/ChIJX_kRxywUSRQRJHy8rkoPTuc2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6946153,
+    "lng": 32.6350732,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2746,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_kRxywUSRQRJHy8rkoPTuc"
+  },
+  {
+    "place_id": "ChIJEaxc9p0WSRQRJIdt3kc8jA8",
+    "name": "Steigenberger Resort Achti",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2196,
+    "rating": 4.6,
+    "reviews_count": 6562,
+    "address": "Khaled Ibn El Waleed, Gazirat Al Awameyah, Luxor, Luxor Governorate 85951, Egypt",
+    "description": "Elegant quarters in a genteel resort offering 3 restaurants, 3 pools & a bar, plus Nile River views.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069268/mindtrip/places/ChIJEaxc9p0WSRQRJIdt3kc8jA8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069268/mindtrip/places/ChIJEaxc9p0WSRQRJIdt3kc8jA8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069272/mindtrip/places/ChIJEaxc9p0WSRQRJIdt3kc8jA81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069275/mindtrip/places/ChIJEaxc9p0WSRQRJIdt3kc8jA82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6825714,
+    "lng": 32.627716,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2196,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEaxc9p0WSRQRJIdt3kc8jA8"
+  },
+  {
+    "place_id": "ChIJ7SFQjCgUSRQRfL9MXRJBniY",
+    "name": "Pyramisa Hotel Luxor",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2147,
+    "rating": 4.0,
+    "reviews_count": 2395,
+    "address": "1 Khaled Ibn Al Walid, Gazirat Al Awameyah, Luxor, Luxor Governorate 1362002, Egypt",
+    "description": "Laid-back hotel along the Nile River with dining & 2 outdoor pools, plus tennis & squash courts.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069285/mindtrip/places/ChIJ7SFQjCgUSRQRfL9MXRJBniY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069285/mindtrip/places/ChIJ7SFQjCgUSRQRfL9MXRJBniY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069287/mindtrip/places/ChIJ7SFQjCgUSRQRfL9MXRJBniY1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069289/mindtrip/places/ChIJ7SFQjCgUSRQRfL9MXRJBniY2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6865649,
+    "lng": 32.6306535,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2147,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SFQjCgUSRQRfL9MXRJBniY"
+  },
+  {
+    "place_id": "ChIJJQHbPXkVSRQRNVDyPUB9V-Y",
+    "name": "Nefertiti Hotel Luxor",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1348,
+    "rating": 4.3,
+    "reviews_count": 1410,
+    "address": "temple street, Al-Sahaby Street, Luxor City, Luxor, Luxor Governorate 85951, Egypt",
+    "description": "Laid-back hotel offering cozy rooms & a refined restaurant, plus a rooftop terrace with a snack bar.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069291/mindtrip/places/ChIJJQHbPXkVSRQRNVDyPUB9V-Y.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069291/mindtrip/places/ChIJJQHbPXkVSRQRNVDyPUB9V-Y.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069293/mindtrip/places/ChIJJQHbPXkVSRQRNVDyPUB9V-Y1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069295/mindtrip/places/ChIJJQHbPXkVSRQRNVDyPUB9V-Y2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.7015514,
+    "lng": 32.6422653,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1348,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQHbPXkVSRQRNVDyPUB9V-Y"
+  },
+  {
+    "place_id": "ChIJtaYXncUVSRQRMFONqIlQUfo",
+    "name": "Aracan Eatabe Luxor Hotel",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1997,
+    "rating": 4.1,
+    "reviews_count": 2961,
+    "address": "Cornish El Nile Street, Luxor City, Luxor, Luxor Governorate 1362502, Egypt",
+    "description": "Polished hotel along the River Nile with an outdoor pool & open-air dining, plus bars & live music.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069297/mindtrip/places/ChIJtaYXncUVSRQRMFONqIlQUfo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069297/mindtrip/places/ChIJtaYXncUVSRQRMFONqIlQUfo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069301/mindtrip/places/ChIJtaYXncUVSRQRMFONqIlQUfo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069303/mindtrip/places/ChIJtaYXncUVSRQRMFONqIlQUfo2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.7050154,
+    "lng": 32.6426258,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1997,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtaYXncUVSRQRMFONqIlQUfo"
+  },
+  {
+    "place_id": "ChIJPS2SZbUVSRQR2E0UEwsylRg",
+    "name": "Mara House Luxor",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4044,
+    "rating": 4.3,
+    "reviews_count": 227,
+    "address": "Salah Al Din Al Ayoubi, Luxor City, Luxor, Luxor Governorate 1364225, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069307/mindtrip/places/ChIJPS2SZbUVSRQR2E0UEwsylRg.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069307/mindtrip/places/ChIJPS2SZbUVSRQR2E0UEwsylRg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069309/mindtrip/places/ChIJPS2SZbUVSRQR2E0UEwsylRg1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069311/mindtrip/places/ChIJPS2SZbUVSRQR2E0UEwsylRg2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6932929,
+    "lng": 32.6508851,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4044,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPS2SZbUVSRQR2E0UEwsylRg"
+  },
+  {
+    "place_id": "ChIJg0kz6c0VSRQR1OashLA55-Y",
+    "name": "Lotus Hotel",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2396,
+    "rating": 4.0,
+    "reviews_count": 665,
+    "address": "MJQJ+5F4, Al Gwazat, Gazirat Al Awameyah, Luxor, Luxor Governorate 1362002, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069314/mindtrip/places/ChIJg0kz6c0VSRQR1OashLA55-Y.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069314/mindtrip/places/ChIJg0kz6c0VSRQR1OashLA55-Y.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069315/mindtrip/places/ChIJg0kz6c0VSRQR1OashLA55-Y1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069318/mindtrip/places/ChIJg0kz6c0VSRQR1OashLA55-Y2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6878941,
+    "lng": 32.6311942,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2396,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0kz6c0VSRQR1OashLA55-Y"
+  },
+  {
+    "place_id": "ChIJk3hWE9YXSRQRonZsaCLCKoQ",
+    "name": "Djorff Palace",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4193,
+    "rating": 4.3,
+    "reviews_count": 261,
+    "address": "Unnamed Road, Al Aqaletah, Al Qarna, Luxor Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069319/mindtrip/places/ChIJk3hWE9YXSRQRonZsaCLCKoQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069319/mindtrip/places/ChIJk3hWE9YXSRQRonZsaCLCKoQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069325/mindtrip/places/ChIJk3hWE9YXSRQRonZsaCLCKoQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069327/mindtrip/places/ChIJk3hWE9YXSRQRonZsaCLCKoQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.687458,
+    "lng": 32.621849,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4193,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3hWE9YXSRQRonZsaCLCKoQ"
+  },
+  {
+    "place_id": "ChIJXR50kOoVSRQRKAbQcss1lUM",
+    "name": "Jewel Luxor Hotel Nile View",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1897,
+    "rating": 4.1,
+    "reviews_count": 747,
+    "address": "Kornish Al Nile, Karnak, Luxor, Luxor Governorate 1363002, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069329/mindtrip/places/ChIJXR50kOoVSRQRKAbQcss1lUM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069329/mindtrip/places/ChIJXR50kOoVSRQRKAbQcss1lUM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069331/mindtrip/places/ChIJXR50kOoVSRQRKAbQcss1lUM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069335/mindtrip/places/ChIJXR50kOoVSRQRKAbQcss1lUM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.7137514,
+    "lng": 32.6483417,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1897,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXR50kOoVSRQRKAbQcss1lUM"
+  },
+  {
+    "place_id": "ChIJKTJTjCgUSRQRzzpNf0DmaOI",
+    "name": "Isis louxor",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2396,
+    "rating": 4.3,
+    "reviews_count": 92,
+    "address": "Khalid Abn El-Waled st. - Luxury, Luxor, 11432, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069335/mindtrip/places/ChIJKTJTjCgUSRQRzzpNf0DmaOI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069335/mindtrip/places/ChIJKTJTjCgUSRQRzzpNf0DmaOI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069338/mindtrip/places/ChIJKTJTjCgUSRQRzzpNf0DmaOI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069339/mindtrip/places/ChIJKTJTjCgUSRQRzzpNf0DmaOI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.68593,
+    "lng": 32.6308,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2396,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTJTjCgUSRQRzzpNf0DmaOI"
+  },
+  {
+    "place_id": "ChIJtauVR4gVSRQRqlpAPj3ZRNg",
+    "name": "The Temple Hotel & SPA Luxor",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1747,
+    "rating": 4.4,
+    "reviews_count": 201,
+    "address": "El Horya, from Khaled Ibn Al Walid, St, Luxor, Luxor Governorate 85951, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069341/mindtrip/places/ChIJtauVR4gVSRQRqlpAPj3ZRNg.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069341/mindtrip/places/ChIJtauVR4gVSRQRqlpAPj3ZRNg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069344/mindtrip/places/ChIJtauVR4gVSRQRqlpAPj3ZRNg1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069346/mindtrip/places/ChIJtauVR4gVSRQRqlpAPj3ZRNg2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6911736,
+    "lng": 32.634869,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1747,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtauVR4gVSRQRqlpAPj3ZRNg"
+  },
+  {
+    "place_id": "ChIJv816ELsVSRQRb-yDTr2jqhQ",
+    "name": "Embrace hotel Luxor",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1747,
+    "rating": 4.5,
+    "reviews_count": 189,
+    "address": "West bank - Gezerat, Al Bairat, Luxor, Luxor Governorate 85111, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069349/mindtrip/places/ChIJv816ELsVSRQRb-yDTr2jqhQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069349/mindtrip/places/ChIJv816ELsVSRQRb-yDTr2jqhQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069351/mindtrip/places/ChIJv816ELsVSRQRb-yDTr2jqhQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069355/mindtrip/places/ChIJv816ELsVSRQRb-yDTr2jqhQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.7088314,
+    "lng": 32.6292718,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1747,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv816ELsVSRQRb-yDTr2jqhQ"
+  },
+  {
+    "place_id": "ChIJN74g1DIVSRQRHDUvejfTcB0",
+    "name": "Steigenberger Resort ACHTI",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2696,
+    "rating": 4.5,
+    "reviews_count": 73,
+    "address": "MJMH+239، فندق شيراتون الأقصر، جزيرة العوامية، قسم الأقصر،, Luxor, Luxor Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069358/mindtrip/places/ChIJN74g1DIVSRQRHDUvejfTcB0.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069358/mindtrip/places/ChIJN74g1DIVSRQRHDUvejfTcB0.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069366/mindtrip/places/ChIJN74g1DIVSRQRHDUvejfTcB01.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069372/mindtrip/places/ChIJN74g1DIVSRQRHDUvejfTcB02.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6825263,
+    "lng": 32.6277242,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2696,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN74g1DIVSRQRHDUvejfTcB0"
+  },
+  {
+    "place_id": "ChIJtYr_pk0VSRQRZk7eLUxBsNY",
+    "name": "Grand Cleopatra Hotel-Luxor",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1597,
+    "rating": 3.9,
+    "reviews_count": 16,
+    "address": "opposite Abu El Hajjaj Primary School، Salah El Din Street, Luxor City, Luxor, Luxor Governorate 1362404, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069377/mindtrip/places/ChIJtYr_pk0VSRQRZk7eLUxBsNY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069377/mindtrip/places/ChIJtYr_pk0VSRQRZk7eLUxBsNY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069379/mindtrip/places/ChIJtYr_pk0VSRQRZk7eLUxBsNY1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069381/mindtrip/places/ChIJtYr_pk0VSRQRZk7eLUxBsNY2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6949661,
+    "lng": 32.6371745,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1597,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYr_pk0VSRQRZk7eLUxBsNY"
+  },
+  {
+    "place_id": "ChIJDa8WpwcVSRQR9Tf9pTq1C3U",
+    "name": "Spirit luxor luxury",
+    "city": "Luxor",
+    "city_en": "Luxor",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4443,
+    "rating": 5.0,
+    "reviews_count": 43,
+    "address": "الرملة، 17111, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069383/mindtrip/places/ChIJDa8WpwcVSRQR9Tf9pTq1C3U.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069383/mindtrip/places/ChIJDa8WpwcVSRQR9Tf9pTq1C3U.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069386/mindtrip/places/ChIJDa8WpwcVSRQR9Tf9pTq1C3U1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782069387/mindtrip/places/ChIJDa8WpwcVSRQR9Tf9pTq1C3U2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 25.6995635,
+    "lng": 32.6312645,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4443,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDa8WpwcVSRQR9Tf9pTq1C3U"
   }
 ]
