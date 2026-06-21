@@ -25771,5 +25771,2599 @@
     "type": null,
     "cost": 4592,
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJScYAWldv5kcRBlw9N9LwfCI"
+  },
+  {
+    "place_id": "ChIJ3_GqMC7F9RQR0qMr6ijU0sk",
+    "name": "Four Seasons Hotel Alexandria at San Stefano, Egypt",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 12580,
+    "rating": 4.7,
+    "reviews_count": 14996,
+    "address": "399 El El-Gaish Rd, San Stefano, El Raml 1, Alexandria Governorate 21599, Egypt",
+    "description": "High-end lodging offering chic rooms & suites with balconies, plus a spa & a private beach.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976284/mindtrip/places/ChIJ3_GqMC7F9RQR0qMr6ijU0sk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976284/mindtrip/places/ChIJ3_GqMC7F9RQR0qMr6ijU0sk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976285/mindtrip/places/ChIJ3_GqMC7F9RQR0qMr6ijU0sk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976286/mindtrip/places/ChIJ3_GqMC7F9RQR0qMr6ijU0sk2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2455623,
+    "lng": 29.9671317,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 12580,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_GqMC7F9RQR0qMr6ijU0sk"
+  },
+  {
+    "place_id": "ChIJBfyCPbDa9RQRUX-TBYjWfjk",
+    "name": "Hilton Alexandria Corniche",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6240,
+    "rating": 4.5,
+    "reviews_count": 11636,
+    "address": "544 El-Gaish Rd, Sidi Beshr Bahri, Montaza 1, Alexandria Governorate 21611, Egypt",
+    "description": "Upmarket property with chic dining & a nightclub, plus a private beach, a spa & an infinity pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976286/mindtrip/places/ChIJBfyCPbDa9RQRUX-TBYjWfjk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976286/mindtrip/places/ChIJBfyCPbDa9RQRUX-TBYjWfjk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976287/mindtrip/places/ChIJBfyCPbDa9RQRUX-TBYjWfjk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976288/mindtrip/places/ChIJBfyCPbDa9RQRUX-TBYjWfjk2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2616309,
+    "lng": 29.9837591,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6240,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfyCPbDa9RQRUX-TBYjWfjk"
+  },
+  {
+    "place_id": "ChIJjeK0EObE9RQRvgBKBmzn4FU",
+    "name": "Tolip Hotel Alexandria",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3694,
+    "rating": 4.3,
+    "reviews_count": 18598,
+    "address": "El-Gaish Rd, Mustafa Kamel WA Bolkli, Sidi Gaber, Alexandria Governorate 5434044, Egypt",
+    "description": "Sophisticated hotel offering restaurants, a chic spa & a fitness center, plus sea views.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976289/mindtrip/places/ChIJjeK0EObE9RQRvgBKBmzn4FU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976289/mindtrip/places/ChIJjeK0EObE9RQRvgBKBmzn4FU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976290/mindtrip/places/ChIJjeK0EObE9RQRvgBKBmzn4FU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976291/mindtrip/places/ChIJjeK0EObE9RQRvgBKBmzn4FU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2316262,
+    "lng": 29.9461081,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3694,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeK0EObE9RQRvgBKBmzn4FU"
+  },
+  {
+    "place_id": "ChIJQWFW1rHE9RQREXduO7MbUN8",
+    "name": "Hilton Alexandria Green Plaza",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3894,
+    "rating": 4.4,
+    "reviews_count": 12140,
+    "address": "14th of May Bridge Rd, Ezbet El-Nozha, Sidi Gaber, Alexandria Governorate 21648, Egypt",
+    "description": "Upscale hotel offering a spa, a gym & pools, plus multiple bars & dining options.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976292/mindtrip/places/ChIJQWFW1rHE9RQREXduO7MbUN8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976292/mindtrip/places/ChIJQWFW1rHE9RQREXduO7MbUN8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976293/mindtrip/places/ChIJQWFW1rHE9RQREXduO7MbUN81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976293/mindtrip/places/ChIJQWFW1rHE9RQREXduO7MbUN82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2065093,
+    "lng": 29.9655222,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3894,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWFW1rHE9RQREXduO7MbUN8"
+  },
+  {
+    "place_id": "ChIJtdVYZfLD9RQRXNqgSXw7Q28",
+    "name": "Steigenberger Cecil Alexandria",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6390,
+    "rating": 4.6,
+    "reviews_count": 8325,
+    "address": "Raml Station، 16 Saad Zaghloul Square, Al Mesallah Gharb WA Sharif Basha, Al Attarin, Alexandria Governorate 21500, Egypt",
+    "description": "Warmly decorated rooms in a refined hotel featuring sea views, an elegant restaurant & a nightclub.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976294/mindtrip/places/ChIJtdVYZfLD9RQRXNqgSXw7Q28.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976294/mindtrip/places/ChIJtdVYZfLD9RQRXNqgSXw7Q28.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976295/mindtrip/places/ChIJtdVYZfLD9RQRXNqgSXw7Q281.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976296/mindtrip/places/ChIJtdVYZfLD9RQRXNqgSXw7Q282.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.200791,
+    "lng": 29.8983938,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6390,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdVYZfLD9RQRXNqgSXw7Q28"
+  },
+  {
+    "place_id": "ChIJTWDJZejE9RQR89zgBvw1IPk",
+    "name": "Sheraton Montazah Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4393,
+    "rating": 4.3,
+    "reviews_count": 11707,
+    "address": "Corniche Road, Al Mandarah Bahri, Montaza 2, Alexandria Governorate 21923, Egypt",
+    "description": "Modest quarters in a choice business lodging with 3 chic restaurants, a nightclub & a sea-view pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976297/mindtrip/places/ChIJTWDJZejE9RQR89zgBvw1IPk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976297/mindtrip/places/ChIJTWDJZejE9RQR89zgBvw1IPk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976298/mindtrip/places/ChIJTWDJZejE9RQR89zgBvw1IPk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976299/mindtrip/places/ChIJTWDJZejE9RQR89zgBvw1IPk2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2811595,
+    "lng": 30.0114834,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4393,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWDJZejE9RQR89zgBvw1IPk"
+  },
+  {
+    "place_id": "ChIJod7GsOrE9RQRFRnbcRYTF0c",
+    "name": "Plaza Hotel Alexandria",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2796,
+    "rating": 3.9,
+    "reviews_count": 2898,
+    "address": "394 El Gaish Ave, Zizinia - Alexandria - Egypt Ave, Egypt",
+    "description": "Understated rooms & suites in a warm property featuring sea views, a cocktail lounge & a brasserie.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976300/mindtrip/places/ChIJod7GsOrE9RQRFRnbcRYTF0c.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976300/mindtrip/places/ChIJod7GsOrE9RQRFRnbcRYTF0c.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976301/mindtrip/places/ChIJod7GsOrE9RQRFRnbcRYTF0c1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976302/mindtrip/places/ChIJod7GsOrE9RQRFRnbcRYTF0c2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.244509,
+    "lng": 29.9650089,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2796,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJod7GsOrE9RQRFRnbcRYTF0c"
+  },
+  {
+    "place_id": "ChIJAbIa2LDF9RQRgk8HTX5XHWk",
+    "name": "SUNRISE Alex Avenue Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6190,
+    "rating": 4.5,
+    "reviews_count": 13792,
+    "address": "Elkornesh road, Roushdy, Alexandria Governorate, Egypt",
+    "description": "Warmly decorated rooms & suites in a high-end beachfront resort with dining, a spa & a pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976303/mindtrip/places/ChIJAbIa2LDF9RQRgk8HTX5XHWk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976303/mindtrip/places/ChIJAbIa2LDF9RQRgk8HTX5XHWk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976304/mindtrip/places/ChIJAbIa2LDF9RQRgk8HTX5XHWk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976305/mindtrip/places/ChIJAbIa2LDF9RQRgk8HTX5XHWk2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2340656,
+    "lng": 29.94576,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6190,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAbIa2LDF9RQRgk8HTX5XHWk"
+  },
+  {
+    "place_id": "ChIJSaBTn1bF9RQRdO2royOQ5lM",
+    "name": "Crowne Plaza Alexandria Mirage by IHG",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4892,
+    "rating": 4.4,
+    "reviews_count": 757,
+    "address": "Victor Emanuel Square, Ezbet Saad, Sidi Gaber, Alexandria Governorate 5432080, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976307/mindtrip/places/ChIJSaBTn1bF9RQRdO2royOQ5lM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976307/mindtrip/places/ChIJSaBTn1bF9RQRdO2royOQ5lM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976308/mindtrip/places/ChIJSaBTn1bF9RQRdO2royOQ5lM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976309/mindtrip/places/ChIJSaBTn1bF9RQRdO2royOQ5lM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2150728,
+    "lng": 29.9467928,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4892,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSaBTn1bF9RQRdO2royOQ5lM"
+  },
+  {
+    "place_id": "ChIJhxpR9O3D9RQR87-1JLhO3hs",
+    "name": "Paradise Inn - Le Metropole Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5142,
+    "rating": 4.3,
+    "reviews_count": 4181,
+    "address": "52 Saad Zaglol، Street, Raml Station, Al Mesallah Sharq, Al Attarin, Alexandria Governorate, Egypt",
+    "description": "Antique-filled rooms & suites, some with sea views, in an elegant hotel offering French dining.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976310/mindtrip/places/ChIJhxpR9O3D9RQR87-1JLhO3hs.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976310/mindtrip/places/ChIJhxpR9O3D9RQR87-1JLhO3hs.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976311/mindtrip/places/ChIJhxpR9O3D9RQR87-1JLhO3hs1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976313/mindtrip/places/ChIJhxpR9O3D9RQR87-1JLhO3hs2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2005214,
+    "lng": 29.9004181,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5142,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxpR9O3D9RQR87-1JLhO3hs"
+  },
+  {
+    "place_id": "ChIJtdVYZfLD9RQRzfQfsB4-zkA",
+    "name": "Paradise Inn - Windsor Palace Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3794,
+    "rating": 4.2,
+    "reviews_count": 5422,
+    "address": "El-Gaish Rd المنشية, El-Shohada, بحر, Al Attarin, Egypt",
+    "description": "Grand, turn-of-the-century hotel offering posh quarters, a genteel restaurant & a rooftop terrace.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976313/mindtrip/places/ChIJtdVYZfLD9RQRzfQfsB4-zkA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976313/mindtrip/places/ChIJtdVYZfLD9RQRzfQfsB4-zkA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976314/mindtrip/places/ChIJtdVYZfLD9RQRzfQfsB4-zkA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976315/mindtrip/places/ChIJtdVYZfLD9RQRzfQfsB4-zkA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2004695,
+    "lng": 29.896755,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3794,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdVYZfLD9RQRzfQfsB4-zkA"
+  },
+  {
+    "place_id": "ChIJ8dPJRu_Q9RQRve_my1Kv9mI",
+    "name": "Paradise Inn Beach Resort Maamoura",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6040,
+    "rating": 4.1,
+    "reviews_count": 6648,
+    "address": "El-Shaheed Youssef El-Sebaey, Al Mandarah Bahri, Montaza 2, Alexandria Governorate 21915, Egypt",
+    "description": "Bright beach venue with understated rooms offering free breakfast, an open-air restaurant & 2 pools.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976316/mindtrip/places/ChIJ8dPJRu_Q9RQRve_my1Kv9mI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976316/mindtrip/places/ChIJ8dPJRu_Q9RQRve_my1Kv9mI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976317/mindtrip/places/ChIJ8dPJRu_Q9RQRve_my1Kv9mI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976318/mindtrip/places/ChIJ8dPJRu_Q9RQRve_my1Kv9mI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2889188,
+    "lng": 30.025028,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6040,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8dPJRu_Q9RQRve_my1Kv9mI"
+  },
+  {
+    "place_id": "ChIJk0-vTd7E9RQRujbBRXW09AI",
+    "name": "Romance Hotel Alexandria",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3694,
+    "rating": 4.0,
+    "reviews_count": 3953,
+    "address": "303 El-Gaish Rd, Fleming, El Raml 1, Alexandria Governorate 5452021, Egypt",
+    "description": "Relaxed hotel offering sea views, plus a formal restaurant, a nightclub & a fitness room.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976319/mindtrip/places/ChIJk0-vTd7E9RQRujbBRXW09AI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976319/mindtrip/places/ChIJk0-vTd7E9RQRujbBRXW09AI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976322/mindtrip/places/ChIJk0-vTd7E9RQRujbBRXW09AI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976323/mindtrip/places/ChIJk0-vTd7E9RQRujbBRXW09AI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2366782,
+    "lng": 29.9529328,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3694,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0-vTd7E9RQRujbBRXW09AI"
+  },
+  {
+    "place_id": "ChIJS968X17Q9RQRLbKT7qC0e4g",
+    "name": "Rixos Montaza Alexandria",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 8586,
+    "rating": 4.8,
+    "reviews_count": 3274,
+    "address": "El Montaza Palace Gardens, Montaza 2, Alexandria Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976324/mindtrip/places/ChIJS968X17Q9RQRLbKT7qC0e4g.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976324/mindtrip/places/ChIJS968X17Q9RQRLbKT7qC0e4g.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976325/mindtrip/places/ChIJS968X17Q9RQRLbKT7qC0e4g1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976326/mindtrip/places/ChIJS968X17Q9RQRLbKT7qC0e4g2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2879816,
+    "lng": 30.0209911,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 8586,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS968X17Q9RQRLbKT7qC0e4g"
+  },
+  {
+    "place_id": "ChIJHZsmoQnD9RQR0SxRnSbWY50",
+    "name": "Royal Jewel Al-Raml Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2796,
+    "rating": 4.3,
+    "reviews_count": 1112,
+    "address": "Station, Alexandar Akbar St. - Al Kaed, Ibrahim Mosque, El Raml 2, Alexandria Governorate 21563, Egypt",
+    "description": "Laid-back hotel offering a gym & a rooftop garden, plus a restaurant, a bar & 2 coffee shops.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976326/mindtrip/places/ChIJHZsmoQnD9RQR0SxRnSbWY50.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976326/mindtrip/places/ChIJHZsmoQnD9RQR0SxRnSbWY50.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976327/mindtrip/places/ChIJHZsmoQnD9RQR0SxRnSbWY501.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976328/mindtrip/places/ChIJHZsmoQnD9RQR0SxRnSbWY502.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2024532,
+    "lng": 29.9032615,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2796,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZsmoQnD9RQR0SxRnSbWY50"
+  },
+  {
+    "place_id": "ChIJLVgR_GHQ9RQRbOoJ1QNxZRI",
+    "name": "Palestine Montaza Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5092,
+    "rating": 4.4,
+    "reviews_count": 5448,
+    "address": "Montazah Park, El Saa Square, Al Mandarah Bahri, Qesm Al Montazah, Alexandria Governorate 5527001, Egypt",
+    "description": "Polished quarters in an upmarket hotel offering a private beach, a bar & 6 restaurants.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976329/mindtrip/places/ChIJLVgR_GHQ9RQRbOoJ1QNxZRI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976329/mindtrip/places/ChIJLVgR_GHQ9RQRbOoJ1QNxZRI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976330/mindtrip/places/ChIJLVgR_GHQ9RQRbOoJ1QNxZRI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976331/mindtrip/places/ChIJLVgR_GHQ9RQRbOoJ1QNxZRI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2883843,
+    "lng": 30.018137,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5092,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVgR_GHQ9RQRbOoJ1QNxZRI"
+  },
+  {
+    "place_id": "ChIJod7GsOrE9RQR8BbW-E7XMpU",
+    "name": "San Giovanni Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3794,
+    "rating": 4.3,
+    "reviews_count": 2255,
+    "address": "205 El-Gaish Road, Stanley Bridge, Fleming, El Raml 2, Alexandria Governorate, Egypt",
+    "description": "Casual quarters in a cozy seaside hotel offering 2 refined restaurants & 3 cafes.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976332/mindtrip/places/ChIJod7GsOrE9RQR8BbW-E7XMpU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976332/mindtrip/places/ChIJod7GsOrE9RQR8BbW-E7XMpU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976333/mindtrip/places/ChIJod7GsOrE9RQR8BbW-E7XMpU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976334/mindtrip/places/ChIJod7GsOrE9RQR8BbW-E7XMpU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2339694,
+    "lng": 29.947752,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3794,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJod7GsOrE9RQR8BbW-E7XMpU"
+  },
+  {
+    "place_id": "ChIJt84C4jHb9RQRqPQ-Ma1znBQ",
+    "name": "Amoun Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 998,
+    "rating": 3.9,
+    "reviews_count": 4331,
+    "address": "32 El-Nasr, Al Mansheyah Al Kubra, Mansheya, Alexandria Governorate 5361003, Egypt",
+    "description": "Simple rooms with balconies in a low-key hotel offering a restaurant & a cafe with outdoor seating.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976336/mindtrip/places/ChIJt84C4jHb9RQRqPQ-Ma1znBQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976336/mindtrip/places/ChIJt84C4jHb9RQRqPQ-Ma1znBQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976337/mindtrip/places/ChIJt84C4jHb9RQRqPQ-Ma1znBQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976338/mindtrip/places/ChIJt84C4jHb9RQRqPQ-Ma1znBQ2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.1984737,
+    "lng": 29.8879399,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 998,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt84C4jHb9RQRqPQ-Ma1znBQ"
+  },
+  {
+    "place_id": "ChIJP6z4lx7F9RQRHC9YKBQXFDo",
+    "name": "Helnan Antoniades Palace Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5841,
+    "rating": 4.6,
+    "reviews_count": 283,
+    "address": "Albert, Al Awl, Alexandria Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976339/mindtrip/places/ChIJP6z4lx7F9RQRHC9YKBQXFDo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976339/mindtrip/places/ChIJP6z4lx7F9RQRHC9YKBQXFDo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976339/mindtrip/places/ChIJP6z4lx7F9RQRHC9YKBQXFDo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976340/mindtrip/places/ChIJP6z4lx7F9RQRHC9YKBQXFDo2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2032377,
+    "lng": 29.9504499,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5841,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6z4lx7F9RQRHC9YKBQXFDo"
+  },
+  {
+    "place_id": "ChIJIxknjzHF9RQRi2guAksuFZ4",
+    "name": "Jewel San Stefano Hotel",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2396,
+    "rating": 3.9,
+    "reviews_count": 6286,
+    "address": "El-Gaish Rd, San Stefano, El Raml 2، Alexandria Governorate 5452054, Egypt",
+    "description": "Casual rooms & suites in a low-key hotel offering a restaurant, a gym & Mediterranean Sea views.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976341/mindtrip/places/ChIJIxknjzHF9RQRi2guAksuFZ4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976341/mindtrip/places/ChIJIxknjzHF9RQRi2guAksuFZ4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976342/mindtrip/places/ChIJIxknjzHF9RQRi2guAksuFZ41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976343/mindtrip/places/ChIJIxknjzHF9RQRi2guAksuFZ42.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.2480211,
+    "lng": 29.9679057,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2396,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxknjzHF9RQRi2guAksuFZ4"
+  },
+  {
+    "place_id": "ChIJJR2S8ZKxt4kREUs4FV-AxsA",
+    "name": "The Satire, Autograph Collection",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 24860,
+    "rating": 4.6,
+    "reviews_count": 400,
+    "address": "625 First St, Alexandria, VA 22314",
+    "description": "Elegant rooms & suites, some with balconies, in an upmarket hotel offering a cocktail bar & a gym.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976344/mindtrip/places/ChIJJR2S8ZKxt4kREUs4FV-AxsA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976344/mindtrip/places/ChIJJR2S8ZKxt4kREUs4FV-AxsA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976345/mindtrip/places/ChIJJR2S8ZKxt4kREUs4FV-AxsA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976346/mindtrip/places/ChIJJR2S8ZKxt4kREUs4FV-AxsA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8154508,
+    "lng": -77.0432235,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 24860,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJR2S8ZKxt4kREUs4FV-AxsA"
+  },
+  {
+    "place_id": "ChIJK_B3CqKxt4kR2Pkid4QvVJk",
+    "name": "Courtyard by Marriott Alexandria Old Town/Southwest",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.1,
+    "reviews_count": 1057,
+    "address": "2700 Eisenhower Ave, Alexandria, VA 22314",
+    "description": "Modern hotel with an American restaurant & an exercise room, plus free Wi-Fi access.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976347/mindtrip/places/ChIJK_B3CqKxt4kR2Pkid4QvVJk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976347/mindtrip/places/ChIJK_B3CqKxt4kR2Pkid4QvVJk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976348/mindtrip/places/ChIJK_B3CqKxt4kR2Pkid4QvVJk2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8019141,
+    "lng": -77.0792617,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_B3CqKxt4kR2Pkid4QvVJk"
+  },
+  {
+    "place_id": "ChIJ0bn_aZmxt4kR_X2xKhqGtVU",
+    "name": "SpringHill Suites by Marriott Alexandria Old Town/Southwest",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.4,
+    "reviews_count": 1254,
+    "address": "2950 Eisenhower Ave, Alexandria, VA 22314",
+    "description": "Stylish studios in a modern hotel offering free breakfast & an area shuttle, plus a fitness center.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976349/mindtrip/places/ChIJ0bn_aZmxt4kR_X2xKhqGtVU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976349/mindtrip/places/ChIJ0bn_aZmxt4kR_X2xKhqGtVU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976349/mindtrip/places/ChIJ0bn_aZmxt4kR_X2xKhqGtVU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976350/mindtrip/places/ChIJ0bn_aZmxt4kR_X2xKhqGtVU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8024656,
+    "lng": -77.083816,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bn_aZmxt4kR_X2xKhqGtVU"
+  },
+  {
+    "place_id": "ChIJHxjyHvuzt4kRnuy8GdnPEzc",
+    "name": "Hampton Inn Alexandria/Pentagon South",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 11382,
+    "rating": 4.4,
+    "reviews_count": 1002,
+    "address": "4800 Leesburg Pike, Alexandria, VA 22302",
+    "description": "Laid-back lodging with an outdoor pool & a fitness center, plus free hot breakfast & Wi-Fi.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976351/mindtrip/places/ChIJHxjyHvuzt4kRnuy8GdnPEzc.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976351/mindtrip/places/ChIJHxjyHvuzt4kRnuy8GdnPEzc.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976352/mindtrip/places/ChIJHxjyHvuzt4kRnuy8GdnPEzc1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976352/mindtrip/places/ChIJHxjyHvuzt4kRnuy8GdnPEzc2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8442994,
+    "lng": -77.1109314,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 11382,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxjyHvuzt4kRnuy8GdnPEzc"
+  },
+  {
+    "place_id": "ChIJK_Oz6qyzt4kRaCr1UlCLTJs",
+    "name": "Fairfield by Marriott Inn & Suites Alexandria West/Mark Center",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 10134,
+    "rating": 3.8,
+    "reviews_count": 889,
+    "address": "6254 Duke St, Alexandria, VA 22312",
+    "description": "Straightforward lodging with a pool & 24-hour restaurant, plus free WiFi, area shuttle & breakfast.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976353/mindtrip/places/ChIJK_Oz6qyzt4kRaCr1UlCLTJs.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976353/mindtrip/places/ChIJK_Oz6qyzt4kRaCr1UlCLTJs.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976354/mindtrip/places/ChIJK_Oz6qyzt4kRaCr1UlCLTJs1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976355/mindtrip/places/ChIJK_Oz6qyzt4kRaCr1UlCLTJs2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8166608,
+    "lng": -77.1411736,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 10134,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_Oz6qyzt4kRaCr1UlCLTJs"
+  },
+  {
+    "place_id": "ChIJcUn8XACxt4kRG0SGbbLKHT8",
+    "name": "Club Wyndham Old Town Alexandria",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.4,
+    "reviews_count": 1207,
+    "address": "1757 King St, Alexandria, VA 22314",
+    "description": "Understated all-suite hotel offering free parking, plus a fitness center & a game room.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976356/mindtrip/places/ChIJcUn8XACxt4kRG0SGbbLKHT8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976356/mindtrip/places/ChIJcUn8XACxt4kRG0SGbbLKHT8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976357/mindtrip/places/ChIJcUn8XACxt4kRG0SGbbLKHT81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976358/mindtrip/places/ChIJcUn8XACxt4kRG0SGbbLKHT82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8075407,
+    "lng": -77.0587358,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUn8XACxt4kRG0SGbbLKHT8"
+  },
+  {
+    "place_id": "ChIJI_NAVN2xt4kRYqGGsOF_hhU",
+    "name": "Fairfield by Marriott Inn & Suites Alexandria",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 9784,
+    "rating": 4.2,
+    "reviews_count": 546,
+    "address": "6421 Richmond Hwy, Alexandria, VA 22306",
+    "description": "Low-key quarters in a casual hotel offering an indoor pool & a hot tub, plus free hot breakfast.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976359/mindtrip/places/ChIJI_NAVN2xt4kRYqGGsOF_hhU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976359/mindtrip/places/ChIJI_NAVN2xt4kRYqGGsOF_hhU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976360/mindtrip/places/ChIJI_NAVN2xt4kRYqGGsOF_hhU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976361/mindtrip/places/ChIJI_NAVN2xt4kRYqGGsOF_hhU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.7773709,
+    "lng": -77.0793124,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 9784,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_NAVN2xt4kRYqGGsOF_hhU"
+  },
+  {
+    "place_id": "ChIJ964SKh2xt4kRcdbdz1TziAk",
+    "name": "Hyatt Centric Old Town Alexandria",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.2,
+    "reviews_count": 403,
+    "address": "1625 King St, Alexandria, VA 22314",
+    "description": "Relaxed rooms & suites in a trendy hotel offering a restaurant & a bar, plus complimentary Wi-Fi.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976362/mindtrip/places/ChIJ964SKh2xt4kRcdbdz1TziAk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976362/mindtrip/places/ChIJ964SKh2xt4kRcdbdz1TziAk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976363/mindtrip/places/ChIJ964SKh2xt4kRcdbdz1TziAk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976364/mindtrip/places/ChIJ964SKh2xt4kRcdbdz1TziAk2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8065371,
+    "lng": -77.0576588,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ964SKh2xt4kRcdbdz1TziAk"
+  },
+  {
+    "place_id": "ChIJh-JU-Mext4kRfac0OV0J-hM",
+    "name": "Holiday Inn Express & Suites Alexandria - Fort Belvoir by IHG",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 10383,
+    "rating": 4.2,
+    "reviews_count": 771,
+    "address": "6055 Richmond Hwy, Alexandria, VA 22303",
+    "description": "Relaxed hotel with a fitness center & meeting spaces, plus free breakfast & a metro station shuttle.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976365/mindtrip/places/ChIJh-JU-Mext4kRfac0OV0J-hM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976365/mindtrip/places/ChIJh-JU-Mext4kRfac0OV0J-hM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976366/mindtrip/places/ChIJh-JU-Mext4kRfac0OV0J-hM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976367/mindtrip/places/ChIJh-JU-Mext4kRfac0OV0J-hM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.785662,
+    "lng": -77.068564,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 10383,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-JU-Mext4kRfac0OV0J-hM"
+  },
+  {
+    "place_id": "ChIJA0_oc8ext4kR4q9zPDnapy4",
+    "name": "Days Inn by Wyndham Alexandria South",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3395,
+    "rating": 3.4,
+    "reviews_count": 1093,
+    "address": "6100 Richmond Hwy, Alexandria, VA 22303",
+    "description": "Straightforward hotel offering free continental breakfast, RV parking & Wi-Fi, plus an outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976368/mindtrip/places/ChIJA0_oc8ext4kR4q9zPDnapy4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976368/mindtrip/places/ChIJA0_oc8ext4kR4q9zPDnapy4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976369/mindtrip/places/ChIJA0_oc8ext4kR4q9zPDnapy41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976370/mindtrip/places/ChIJA0_oc8ext4kR4q9zPDnapy42.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.785836,
+    "lng": -77.0712417,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3395,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0_oc8ext4kR4q9zPDnapy4"
+  },
+  {
+    "place_id": "ChIJ9dU_r6ixt4kRZgxsHtGW3Q4",
+    "name": "Residence Inn by Marriott Alexandria Old Town South at Carlyle",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 10433,
+    "rating": 4.2,
+    "reviews_count": 762,
+    "address": "2345 Mill Rd, Alexandria, VA 22314",
+    "description": "Relaxed all-suite hotel offering quarters with kitchens, plus a 24-hour gym & free breakfast.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976372/mindtrip/places/ChIJ9dU_r6ixt4kRZgxsHtGW3Q4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976372/mindtrip/places/ChIJ9dU_r6ixt4kRZgxsHtGW3Q4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976372/mindtrip/places/ChIJ9dU_r6ixt4kRZgxsHtGW3Q41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976373/mindtrip/places/ChIJ9dU_r6ixt4kRZgxsHtGW3Q42.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8027195,
+    "lng": -77.0677201,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 10433,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dU_r6ixt4kRZgxsHtGW3Q4"
+  },
+  {
+    "place_id": "ChIJ7UEG7Uest4kRkGXBp13feG0",
+    "name": "Best Western Plus Alexandria / Fort Belvoir",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5841,
+    "rating": 4.1,
+    "reviews_count": 888,
+    "address": "8751 Richmond Hwy, Alexandria, VA 22309",
+    "description": "Straightforward property with an exercise room, plus free continental breakfast and Wi-Fi.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976374/mindtrip/places/ChIJ7UEG7Uest4kRkGXBp13feG0.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976374/mindtrip/places/ChIJ7UEG7Uest4kRkGXBp13feG0.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976375/mindtrip/places/ChIJ7UEG7Uest4kRkGXBp13feG01.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976376/mindtrip/places/ChIJ7UEG7Uest4kRkGXBp13feG02.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.719263,
+    "lng": -77.1262002,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5841,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UEG7Uest4kRkGXBp13feG0"
+  },
+  {
+    "place_id": "ChIJ1aT1sEKyt4kRKjJxSi_LyE8",
+    "name": "Comfort Inn & Suites Alexandria West",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5292,
+    "rating": 3.9,
+    "reviews_count": 1037,
+    "address": "5716 S Van Dorn St, Alexandria, VA 22310",
+    "description": "Contemporary hotel with free Wi-Fi & a breakfast buffet, plus a gym & a seasonal outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976377/mindtrip/places/ChIJ1aT1sEKyt4kRKjJxSi_LyE8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976377/mindtrip/places/ChIJ1aT1sEKyt4kRKjJxSi_LyE8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976378/mindtrip/places/ChIJ1aT1sEKyt4kRKjJxSi_LyE81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976378/mindtrip/places/ChIJ1aT1sEKyt4kRKjJxSi_LyE82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.795103,
+    "lng": -77.136894,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5292,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aT1sEKyt4kRKjJxSi_LyE8"
+  },
+  {
+    "place_id": "ChIJ7bfo6fqzt4kR2pMM_wG9g3U",
+    "name": "Homewood Suites by Hilton Alexandria/Pentagon South, VA",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 14227,
+    "rating": 4.4,
+    "reviews_count": 843,
+    "address": "4850 Leesburg Pike, Alexandria, VA 22302",
+    "description": "Relaxed all-suite hotel with an outdoor pool & a gym, plus free breakfast & area shuttle services.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976379/mindtrip/places/ChIJ7bfo6fqzt4kR2pMM_wG9g3U.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976379/mindtrip/places/ChIJ7bfo6fqzt4kR2pMM_wG9g3U.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976379/mindtrip/places/ChIJ7bfo6fqzt4kR2pMM_wG9g3U1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976380/mindtrip/places/ChIJ7bfo6fqzt4kR2pMM_wG9g3U2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8444798,
+    "lng": -77.111886,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 14227,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bfo6fqzt4kR2pMM_wG9g3U"
+  },
+  {
+    "place_id": "ChIJjdPlgkOst4kRc2q5izWKA3M",
+    "name": "Hampton Inn & Suites Fort Belvoir Alexandria South",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 11881,
+    "rating": 4.4,
+    "reviews_count": 959,
+    "address": "8843 Richmond Hwy, Alexandria, VA 22309",
+    "description": "Contemporary hotel with free parking & breakfast, plus an indoor pool & a fitness center.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976381/mindtrip/places/ChIJjdPlgkOst4kRc2q5izWKA3M.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976381/mindtrip/places/ChIJjdPlgkOst4kRc2q5izWKA3M.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976382/mindtrip/places/ChIJjdPlgkOst4kRc2q5izWKA3M1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976382/mindtrip/places/ChIJjdPlgkOst4kRc2q5izWKA3M2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.7173228,
+    "lng": -77.1298143,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 11881,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjdPlgkOst4kRc2q5izWKA3M"
+  },
+  {
+    "place_id": "ChIJBcTNx6qtt4kRX1hWnhBMRRg",
+    "name": "stayAPT Suites Alexandria-Fort Belvoir",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5940,
+    "rating": 4.4,
+    "reviews_count": 170,
+    "address": "8849 Richmond Hwy, Alexandria, VA 22309",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976383/mindtrip/places/ChIJBcTNx6qtt4kRX1hWnhBMRRg.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976383/mindtrip/places/ChIJBcTNx6qtt4kRX1hWnhBMRRg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976384/mindtrip/places/ChIJBcTNx6qtt4kRX1hWnhBMRRg1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976384/mindtrip/places/ChIJBcTNx6qtt4kRX1hWnhBMRRg2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.7168755,
+    "lng": -77.1310025,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5940,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcTNx6qtt4kRX1hWnhBMRRg"
+  },
+  {
+    "place_id": "ChIJ1ykblkZLJYYR3G8dDQSRq1A",
+    "name": "Holiday Inn Alexandria - Downtown by IHG",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5341,
+    "rating": 4.1,
+    "reviews_count": 829,
+    "address": "701 4th St, Alexandria, LA 71301",
+    "description": "Casual hotel featuring indoor tennis courts & an outdoor pool, plus a gym & a modern restaurant.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976386/mindtrip/places/ChIJ1ykblkZLJYYR3G8dDQSRq1A.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976386/mindtrip/places/ChIJ1ykblkZLJYYR3G8dDQSRq1A.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976387/mindtrip/places/ChIJ1ykblkZLJYYR3G8dDQSRq1A1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976388/mindtrip/places/ChIJ1ykblkZLJYYR3G8dDQSRq1A2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3129215,
+    "lng": -92.4466522,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5341,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ykblkZLJYYR3G8dDQSRq1A"
+  },
+  {
+    "place_id": "ChIJ15oxz6yzt4kRiOf3l2yHDak",
+    "name": "Super 8 by Wyndham Alexandria/Washington D.C. Area",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3544,
+    "rating": 3.2,
+    "reviews_count": 701,
+    "address": "110 B S Bragg St, Alexandria, VA 22312",
+    "description": "Relaxed rooms in an unassuming hotel offering free breakfast, parking & an area shuttle.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976389/mindtrip/places/ChIJ15oxz6yzt4kRiOf3l2yHDak.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976389/mindtrip/places/ChIJ15oxz6yzt4kRiOf3l2yHDak.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976390/mindtrip/places/ChIJ15oxz6yzt4kRiOf3l2yHDak1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976390/mindtrip/places/ChIJ15oxz6yzt4kRiOf3l2yHDak2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 38.8153512,
+    "lng": -77.1411039,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3544,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15oxz6yzt4kRiOf3l2yHDak"
+  },
+  {
+    "place_id": "ChIJDSsld5UNylIRw23G_i2jq5I",
+    "name": "Holiday Inn Alexandria - (We are now Alexandria Hotel & Conference Center)",
+    "city": "Alexandria",
+    "city_en": "Alexandria",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 12580,
+    "rating": 4.0,
+    "reviews_count": 949,
+    "address": "5637 MN-29, Alexandria, MN 56308",
+    "description": "Laid-back rooms in a relaxed hotel offering a steakhouse, pools & an indoor sports area.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976392/mindtrip/places/ChIJDSsld5UNylIRw23G_i2jq5I.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976392/mindtrip/places/ChIJDSsld5UNylIRw23G_i2jq5I.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976392/mindtrip/places/ChIJDSsld5UNylIRw23G_i2jq5I1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781976394/mindtrip/places/ChIJDSsld5UNylIRw23G_i2jq5I2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 45.84251,
+    "lng": -95.38551,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 12580,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSsld5UNylIRw23G_i2jq5I"
+  },
+  {
+    "place_id": "ChIJiQ9Hr-1GWBQR75dAwTwpZMw",
+    "name": "Barcelo Cairo Pyramids",
+    "city": "Giza",
+    "city_en": "Giza",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2646,
+    "rating": 4.4,
+    "reviews_count": 8345,
+    "address": "229, Al Haram, At Talbeyah Al Qebleyah, El Talbia, Giza Governorate 12111, Egypt",
+    "description": "Elegant rooms & suites in a modern hotel with 3 restaurants, a 24-hour bar & a heated outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981181/mindtrip/places/ChIJiQ9Hr-1GWBQR75dAwTwpZMw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981181/mindtrip/places/ChIJiQ9Hr-1GWBQR75dAwTwpZMw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981182/mindtrip/places/ChIJiQ9Hr-1GWBQR75dAwTwpZMw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981183/mindtrip/places/ChIJiQ9Hr-1GWBQR75dAwTwpZMw2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.9996657,
+    "lng": 31.1763313,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2646,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQ9Hr-1GWBQR75dAwTwpZMw"
+  },
+  {
+    "place_id": "ChIJP5IAFc1FWBQR2l9oBf1D6ec",
+    "name": "Best View Pyramids Hotel",
+    "city": "Giza",
+    "city_en": "Giza",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 349,
+    "rating": 4.3,
+    "reviews_count": 2356,
+    "address": "Address:, 13 Gamal Abd El-Nasir, Nazlet El-Semman, Al Haram, Giza Governorate, Egypt",
+    "description": "Laid-back rooms in a hip hotel with views of the Pyramids of Khufu, plus a rooftop bar & restaurant.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981183/mindtrip/places/ChIJP5IAFc1FWBQR2l9oBf1D6ec.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981183/mindtrip/places/ChIJP5IAFc1FWBQR2l9oBf1D6ec.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981185/mindtrip/places/ChIJP5IAFc1FWBQR2l9oBf1D6ec1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981186/mindtrip/places/ChIJP5IAFc1FWBQR2l9oBf1D6ec2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.9735945,
+    "lng": 31.1419799,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 349,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5IAFc1FWBQR2l9oBf1D6ec"
+  },
+  {
+    "place_id": "ChIJWarC9txFWBQRauVE2C_v93I",
+    "name": "Amarante Pyramids Hotel Cairo",
+    "city": "Giza",
+    "city_en": "Giza",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1647,
+    "rating": 3.9,
+    "reviews_count": 3710,
+    "address": "29 Abou Hazem, Street Of Pyrmids Road, Al Omraneyah Al Gharbeyah, El Omraniya, Giza Governorate 3546209, Egypt",
+    "description": "Warm country-style rooms in a laid-back lodging offering upmarket dining, 2 bars & an outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981187/mindtrip/places/ChIJWarC9txFWBQRauVE2C_v93I.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981187/mindtrip/places/ChIJWarC9txFWBQRauVE2C_v93I.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981187/mindtrip/places/ChIJWarC9txFWBQRauVE2C_v93I1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981188/mindtrip/places/ChIJWarC9txFWBQRauVE2C_v93I2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.0061619,
+    "lng": 31.1848291,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1647,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWarC9txFWBQRauVE2C_v93I"
+  },
+  {
+    "place_id": "ChIJcZtJsHlGWBQRoOzE73wm-J8",
+    "name": "Azal Pyramids Hotel",
+    "city": "Giza",
+    "city_en": "Giza",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2696,
+    "rating": 4.4,
+    "reviews_count": 3404,
+    "address": "252 Pyramids Road, 252 Square, El Talbia, Giza Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981189/mindtrip/places/ChIJcZtJsHlGWBQRoOzE73wm-J8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981189/mindtrip/places/ChIJcZtJsHlGWBQRoOzE73wm-J8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981190/mindtrip/places/ChIJcZtJsHlGWBQRoOzE73wm-J81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981191/mindtrip/places/ChIJcZtJsHlGWBQRoOzE73wm-J82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.9997099,
+    "lng": 31.1743949,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2696,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZtJsHlGWBQRoOzE73wm-J8"
+  },
+  {
+    "place_id": "ChIJv3MchetFWBQRocziT3uNuhk",
+    "name": "Grand Pyramids Hotel",
+    "city": "Giza",
+    "city_en": "Giza",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3644,
+    "rating": 3.9,
+    "reviews_count": 3709,
+    "address": "or Studio Masr 53 Studio, Al Haram, Nazlet Al Batran, Al Haram, Giza Governorate 12552, Egypt",
+    "description": "Casual rooms, some with pyramid views, in a laid-back hotel featuring pools, dining & a spa.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981192/mindtrip/places/ChIJv3MchetFWBQRocziT3uNuhk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981192/mindtrip/places/ChIJv3MchetFWBQRocziT3uNuhk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981193/mindtrip/places/ChIJv3MchetFWBQRocziT3uNuhk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981193/mindtrip/places/ChIJv3MchetFWBQRocziT3uNuhk2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.9883966,
+    "lng": 31.1509282,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3644,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3MchetFWBQRocziT3uNuhk"
+  },
+  {
+    "place_id": "ChIJ80Mf4w5aWBQRPnocTTshP6s",
+    "name": "Giza Palace",
+    "city": "Giza",
+    "city_en": "Giza",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 8087,
+    "rating": 4.7,
+    "reviews_count": 643,
+    "address": "First Al Sheikh Zayed, Giza Governorate 12588, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981194/mindtrip/places/ChIJ80Mf4w5aWBQRPnocTTshP6s.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981194/mindtrip/places/ChIJ80Mf4w5aWBQRPnocTTshP6s.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981195/mindtrip/places/ChIJ80Mf4w5aWBQRPnocTTshP6s1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981196/mindtrip/places/ChIJ80Mf4w5aWBQRPnocTTshP6s2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.0184702,
+    "lng": 31.0021501,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 8087,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80Mf4w5aWBQRPnocTTshP6s"
+  },
+  {
+    "place_id": "ChIJcyOeoGJAWBQRjA64QUTDT04",
+    "name": "Safir Hotel Cairo",
+    "city": "Giza",
+    "city_en": "Giza",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2945,
+    "rating": 4.4,
+    "reviews_count": 13490,
+    "address": "22 Al Mesaha, Sq، Dokki, Giza Governorate 3750303, Egypt",
+    "description": "Upscale rooms & suites with balconies, plus 8 restaurants, an outdoor pool & a spa.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981197/mindtrip/places/ChIJcyOeoGJAWBQRjA64QUTDT04.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981197/mindtrip/places/ChIJcyOeoGJAWBQRjA64QUTDT04.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981198/mindtrip/places/ChIJcyOeoGJAWBQRjA64QUTDT041.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981199/mindtrip/places/ChIJcyOeoGJAWBQRjA64QUTDT042.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.0352247,
+    "lng": 31.2137474,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2945,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyOeoGJAWBQRjA64QUTDT04"
+  },
+  {
+    "place_id": "ChIJvzcBDNZAWBQRCFdL_qmnPvo",
+    "name": "Indiana Hotel Cairo",
+    "city": "Giza",
+    "city_en": "Giza",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 849,
+    "rating": 3.1,
+    "reviews_count": 1273,
+    "address": "16 Adel Hussein Rostom, Ad Doqi A, Dokki, Giza Governorate 3753421, Egypt",
+    "description": "Relaxed rooms in a cozy property featuring an outdoor pool, 2 restaurants & a rooftop cafe.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981200/mindtrip/places/ChIJvzcBDNZAWBQRCFdL_qmnPvo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981200/mindtrip/places/ChIJvzcBDNZAWBQRCFdL_qmnPvo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981201/mindtrip/places/ChIJvzcBDNZAWBQRCFdL_qmnPvo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981202/mindtrip/places/ChIJvzcBDNZAWBQRCFdL_qmnPvo2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 30.043692,
+    "lng": 31.2169391,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 849,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzcBDNZAWBQRCFdL_qmnPvo"
+  },
+  {
+    "place_id": "ChIJtQOIi8FHWBQR1jwumxtS_h4",
+    "name": "Hilton Cairo Nile Maadi",
+    "city": "Giza",
+    "city_en": "Giza",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5441,
+    "rating": 4.6,
+    "reviews_count": 1262,
+    "address": "47-B Nile Corniche, Athar an Nabi, Maadi, Cairo Governorate 11431, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981202/mindtrip/places/ChIJtQOIi8FHWBQR1jwumxtS_h4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981202/mindtrip/places/ChIJtQOIi8FHWBQR1jwumxtS_h4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981204/mindtrip/places/ChIJtQOIi8FHWBQR1jwumxtS_h41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781981205/mindtrip/places/ChIJtQOIi8FHWBQR1jwumxtS_h42.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.98617,
+    "lng": 31.2298577,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5441,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQOIi8FHWBQR1jwumxtS_h4"
+  },
+  {
+    "place_id": "ChIJadclILn_YRQRq4oh-3n6a2c",
+    "name": "Safir Marsa Matrouh Resort",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 14327,
+    "rating": 4.3,
+    "reviews_count": 427,
+    "address": "Cleopatra Beach, Mersa Matruh, Marsa Matrouh Governorate 51511, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985066/mindtrip/places/ChIJadclILn_YRQRq4oh-3n6a2c.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985066/mindtrip/places/ChIJadclILn_YRQRq4oh-3n6a2c.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985067/mindtrip/places/ChIJadclILn_YRQRq4oh-3n6a2c1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985068/mindtrip/places/ChIJadclILn_YRQRq4oh-3n6a2c2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3718931,
+    "lng": 27.2005518,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 14327,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJadclILn_YRQRq4oh-3n6a2c"
+  },
+  {
+    "place_id": "ChIJg7X4VKYGYhQRS01UY9baAy4",
+    "name": "Carols Beau Rivage Hotel - فندق كارولز بوريفاج",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 32598,
+    "rating": 4.3,
+    "reviews_count": 1643,
+    "address": "El Obayed Bay, 51512, Marsa Matrouh Governorate, Egypt",
+    "description": "Bright quarters, some with sea views, in a refined all-inclusive beach resort featuring a chic spa.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985069/mindtrip/places/ChIJg7X4VKYGYhQRS01UY9baAy4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985069/mindtrip/places/ChIJg7X4VKYGYhQRS01UY9baAy4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985070/mindtrip/places/ChIJg7X4VKYGYhQRS01UY9baAy41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985070/mindtrip/places/ChIJg7X4VKYGYhQRS01UY9baAy42.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3930931,
+    "lng": 27.0644493,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 32598,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7X4VKYGYhQRS01UY9baAy4"
+  },
+  {
+    "place_id": "ChIJPc6Yrn3_YRQRwCsjVtn88iI",
+    "name": "Triumph White Sands Hotel",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 10483,
+    "rating": 4.4,
+    "reviews_count": 204,
+    "address": "El Corniche Street, Mersa Matruh, Marsa Matrouh Governorate 51511, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985071/mindtrip/places/ChIJPc6Yrn3_YRQRwCsjVtn88iI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985071/mindtrip/places/ChIJPc6Yrn3_YRQRwCsjVtn88iI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985072/mindtrip/places/ChIJPc6Yrn3_YRQRwCsjVtn88iI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985073/mindtrip/places/ChIJPc6Yrn3_YRQRwCsjVtn88iI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3626605,
+    "lng": 27.2211251,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 10483,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPc6Yrn3_YRQRwCsjVtn88iI"
+  },
+  {
+    "place_id": "ChIJST5UBwD_YRQROZkr5Gl3OCw",
+    "name": "فندق الحسيني ( شركة مصيفنا للسياحة )",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 19968,
+    "rating": 3.9,
+    "reviews_count": 54,
+    "address": "963Q+9QM, Mersa Matruh, Marsa Matrouh Governorate 5057002, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985074/mindtrip/places/ChIJST5UBwD_YRQROZkr5Gl3OCw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985074/mindtrip/places/ChIJST5UBwD_YRQROZkr5Gl3OCw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985075/mindtrip/places/ChIJST5UBwD_YRQROZkr5Gl3OCw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985077/mindtrip/places/ChIJST5UBwD_YRQROZkr5Gl3OCw2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3534614,
+    "lng": 27.2394431,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 19968,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJST5UBwD_YRQROZkr5Gl3OCw"
+  },
+  {
+    "place_id": "ChIJR2a8HQD_YRQRWyn5UIprGSA",
+    "name": "Hostmark Blue Beach Hotel Marsa Matrouh",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 7288,
+    "rating": 4.2,
+    "reviews_count": 45,
+    "address": "شارع البوسيت, Mersa Matruh, Marsa Matrouh Governorate 5053261, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985078/mindtrip/places/ChIJR2a8HQD_YRQRWyn5UIprGSA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985078/mindtrip/places/ChIJR2a8HQD_YRQRWyn5UIprGSA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985078/mindtrip/places/ChIJR2a8HQD_YRQRWyn5UIprGSA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985079/mindtrip/places/ChIJR2a8HQD_YRQRWyn5UIprGSA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3607943,
+    "lng": 27.2223881,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 7288,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR2a8HQD_YRQRWyn5UIprGSA"
+  },
+  {
+    "place_id": "ChIJr0u-ITr5YRQRDXB6NNZt6BU",
+    "name": "فندق ديلمار مطروح - Delmar Matrouh Hotel",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3994,
+    "rating": 4.0,
+    "reviews_count": 1645,
+    "address": "27 Corniche Street, Mersa Matruh, Marsa Matrouh Governorate 51515, Egypt",
+    "description": "Relaxed quarters in an unassuming hotel across from the sea offering a bright restaurant.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985080/mindtrip/places/ChIJr0u-ITr5YRQRDXB6NNZt6BU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985080/mindtrip/places/ChIJr0u-ITr5YRQRDXB6NNZt6BU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985080/mindtrip/places/ChIJr0u-ITr5YRQRDXB6NNZt6BU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985081/mindtrip/places/ChIJr0u-ITr5YRQRDXB6NNZt6BU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3570759,
+    "lng": 27.2320199,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3994,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0u-ITr5YRQRDXB6NNZt6BU"
+  },
+  {
+    "place_id": "ChIJaYgHLBz_YRQR7jZaBK4O1-4",
+    "name": "Jewel Matrouh Hotel",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5990,
+    "rating": 4.1,
+    "reviews_count": 1921,
+    "address": "كورنيش مطروح منطقة البوسيت, Mersa Matruh, Marsa Matrouh Governorate 51151, Egypt",
+    "description": "Laid-back hotel featuring a restaurant, a cafe & an outdoor pool, plus a private beach area.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985082/mindtrip/places/ChIJaYgHLBz_YRQR7jZaBK4O1-4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985082/mindtrip/places/ChIJaYgHLBz_YRQR7jZaBK4O1-4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985082/mindtrip/places/ChIJaYgHLBz_YRQR7jZaBK4O1-41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985083/mindtrip/places/ChIJaYgHLBz_YRQR7jZaBK4O1-42.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3589634,
+    "lng": 27.2216758,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5990,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYgHLBz_YRQR7jZaBK4O1-4"
+  },
+  {
+    "place_id": "ChIJnV6w8tP-YRQRXrlv2YBI0MM",
+    "name": "Negresco Hotel",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5990,
+    "rating": 4.1,
+    "reviews_count": 915,
+    "address": "965G+4R7, Al Korneash, الليدو، Mersa Matruh, Marsa Matrouh Governorate 5052943, Egypt",
+    "description": "Unfussy rooms in an informal hotel with a French-style cafe, a private beach area & sea views.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985084/mindtrip/places/ChIJnV6w8tP-YRQRXrlv2YBI0MM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985084/mindtrip/places/ChIJnV6w8tP-YRQRXrlv2YBI0MM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985085/mindtrip/places/ChIJnV6w8tP-YRQRXrlv2YBI0MM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985085/mindtrip/places/ChIJnV6w8tP-YRQRXrlv2YBI0MM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3577908,
+    "lng": 27.2270469,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5990,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnV6w8tP-YRQRXrlv2YBI0MM"
+  },
+  {
+    "place_id": "ChIJ9em-SGf_YRQR-xkS6G9IkiY",
+    "name": "Blue beach house hotel",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 8237,
+    "rating": 4.0,
+    "reviews_count": 66,
+    "address": "966C+2XQ, Mersa Matruh, Marsa Matrouh Governorate 5053261, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985086/mindtrip/places/ChIJ9em-SGf_YRQR-xkS6G9IkiY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985086/mindtrip/places/ChIJ9em-SGf_YRQR-xkS6G9IkiY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985087/mindtrip/places/ChIJ9em-SGf_YRQR-xkS6G9IkiY2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3606036,
+    "lng": 27.2224028,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 8237,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9em-SGf_YRQR-xkS6G9IkiY"
+  },
+  {
+    "place_id": "ChIJs0rHYij_YRQREhGJDBSZ5rA",
+    "name": "Jewel Beach Hotel & Resort",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 10234,
+    "rating": 3.7,
+    "reviews_count": 55,
+    "address": "965F+V6J, Mersa Matruh, Marsa Matrouh Governorate 5053261, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985088/mindtrip/places/ChIJs0rHYij_YRQREhGJDBSZ5rA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985088/mindtrip/places/ChIJs0rHYij_YRQREhGJDBSZ5rA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985089/mindtrip/places/ChIJs0rHYij_YRQREhGJDBSZ5rA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985090/mindtrip/places/ChIJs0rHYij_YRQREhGJDBSZ5rA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3597144,
+    "lng": 27.2230086,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 10234,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0rHYij_YRQREhGJDBSZ5rA"
+  },
+  {
+    "place_id": "ChIJSeQBJbb_YRQRTfxz7ffsaWs",
+    "name": "Hotel 59 Beausite",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 19968,
+    "rating": 4.7,
+    "reviews_count": 136,
+    "address": "El Cornish, Street, Mersa Matruh, Marsa Matrouh Governorate 5053262, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985090/mindtrip/places/ChIJSeQBJbb_YRQRTfxz7ffsaWs1.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985090/mindtrip/places/ChIJSeQBJbb_YRQRTfxz7ffsaWs1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985091/mindtrip/places/ChIJSeQBJbb_YRQRTfxz7ffsaWs2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.360856,
+    "lng": 27.2222126,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 19968,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeQBJbb_YRQRTfxz7ffsaWs"
+  },
+  {
+    "place_id": "ChIJOX6uQqf_YRQRwcfzVyOuLn0",
+    "name": "هلا مطروح - Halla Matrouh",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2446,
+    "rating": 4.4,
+    "reviews_count": 290,
+    "address": "خلف كنتاكي, Al Korneash, Mersa Matruh, Marsa Matrouh Governorate 51511, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985092/mindtrip/places/ChIJOX6uQqf_YRQRwcfzVyOuLn0.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985092/mindtrip/places/ChIJOX6uQqf_YRQRwcfzVyOuLn0.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985093/mindtrip/places/ChIJOX6uQqf_YRQRwcfzVyOuLn01.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985094/mindtrip/places/ChIJOX6uQqf_YRQRwcfzVyOuLn02.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3564289,
+    "lng": 27.2338945,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2446,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOX6uQqf_YRQRwcfzVyOuLn0"
+  },
+  {
+    "place_id": "ChIJG4d5ws3-YRQRD8gKJmoBdqM",
+    "name": "Arous El Bahr Hotel",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2995,
+    "rating": 3.9,
+    "reviews_count": 472,
+    "address": "964M+PGQ, 19 Al Korneash, وسط البلد، Mersa Matruh, Marsa Matrouh Governorate 5052952, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985094/mindtrip/places/ChIJG4d5ws3-YRQRD8gKJmoBdqM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985094/mindtrip/places/ChIJG4d5ws3-YRQRD8gKJmoBdqM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985095/mindtrip/places/ChIJG4d5ws3-YRQRD8gKJmoBdqM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985097/mindtrip/places/ChIJG4d5ws3-YRQRD8gKJmoBdqM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3566589,
+    "lng": 27.2339903,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2995,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4d5ws3-YRQRD8gKJmoBdqM"
+  },
+  {
+    "place_id": "ChIJGxSQIsz-YRQRlkr8oKghJL8",
+    "name": "Semiramis Hotel Royal Palace",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1198,
+    "rating": 3.3,
+    "reviews_count": 19,
+    "address": "Al Korneish Road, Mersa Matruh, Marsa Matrouh Governorate 51512, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985097/mindtrip/places/ChIJGxSQIsz-YRQRlkr8oKghJL8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985097/mindtrip/places/ChIJGxSQIsz-YRQRlkr8oKghJL8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985098/mindtrip/places/ChIJGxSQIsz-YRQRlkr8oKghJL81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985099/mindtrip/places/ChIJGxSQIsz-YRQRlkr8oKghJL82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.356502,
+    "lng": 27.236696,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1198,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxSQIsz-YRQRlkr8oKghJL8"
+  },
+  {
+    "place_id": "ChIJyQmW8f8BYhQRCUURj6tXND8",
+    "name": "PORTO MATROUH beach resort",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4742,
+    "rating": 4.9,
+    "reviews_count": 67,
+    "address": "طريق الغرام - كيلوباترا, Mersa Matruh, Marsa Matrouh Governorate 5053291, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985099/mindtrip/places/ChIJyQmW8f8BYhQRCUURj6tXND8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985099/mindtrip/places/ChIJyQmW8f8BYhQRCUURj6tXND8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985100/mindtrip/places/ChIJyQmW8f8BYhQRCUURj6tXND81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985101/mindtrip/places/ChIJyQmW8f8BYhQRCUURj6tXND82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3745882,
+    "lng": 27.1700805,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4742,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQmW8f8BYhQRCUURj6tXND8"
+  },
+  {
+    "place_id": "ChIJacs_H_P_YRQRXK8xz4VyuYU",
+    "name": "بورتو فيو (روفي لاند)",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4543,
+    "rating": 4.2,
+    "reviews_count": 61,
+    "address": "ش التطبيقيين, Mersa Matruh, Marsa Matrouh Governorate 5057005, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985103/mindtrip/places/ChIJacs_H_P_YRQRXK8xz4VyuYU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985103/mindtrip/places/ChIJacs_H_P_YRQRXK8xz4VyuYU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985103/mindtrip/places/ChIJacs_H_P_YRQRXK8xz4VyuYU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985104/mindtrip/places/ChIJacs_H_P_YRQRXK8xz4VyuYU2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3543445,
+    "lng": 27.2373159,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4543,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJacs_H_P_YRQRXK8xz4VyuYU"
+  },
+  {
+    "place_id": "ChIJfXck88v-YRQR6gE3d4s5p7Y",
+    "name": "Gewan Resort New Alamein",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 13528,
+    "rating": 3.0,
+    "reviews_count": 2,
+    "address": "964Q+4FH, El Salloum Road, Mersa Matruh, Governorate 5057006, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985105/mindtrip/places/ChIJfXck88v-YRQR6gE3d4s5p7Y.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985105/mindtrip/places/ChIJfXck88v-YRQR6gE3d4s5p7Y.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985106/mindtrip/places/ChIJfXck88v-YRQR6gE3d4s5p7Y1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985106/mindtrip/places/ChIJfXck88v-YRQR6gE3d4s5p7Y2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.355316,
+    "lng": 27.238736,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 13528,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXck88v-YRQR6gE3d4s5p7Y"
+  },
+  {
+    "place_id": "ChIJITiXQrcBYhQRJEYS5TQjo3Q",
+    "name": "بورتو مطروح",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3145,
+    "rating": 4.1,
+    "reviews_count": 470,
+    "address": "بورتو مطروح, مرسي, Marsa Matrouh Governorate 51511, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985107/mindtrip/places/ChIJITiXQrcBYhQRJEYS5TQjo3Q.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985107/mindtrip/places/ChIJITiXQrcBYhQRJEYS5TQjo3Q.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985108/mindtrip/places/ChIJITiXQrcBYhQRJEYS5TQjo3Q1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985109/mindtrip/places/ChIJITiXQrcBYhQRJEYS5TQjo3Q2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.3688436,
+    "lng": 27.1703392,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3145,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJITiXQrcBYhQRJEYS5TQjo3Q"
+  },
+  {
+    "place_id": "ChIJc4tVpTn_YRQR9AR52OE2D9U",
+    "name": "San Giovanni Cleopatra Hotel",
+    "city": "Marsa Matrouh",
+    "city_en": "Marsa Matrouh",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.5,
+    "reviews_count": 129,
+    "address": "96C2+R73, Qesm, Mersa Matruh, Marsa Matrouh Governorate 5053281, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985110/mindtrip/places/ChIJc4tVpTn_YRQR9AR52OE2D9U.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985110/mindtrip/places/ChIJc4tVpTn_YRQR9AR52OE2D9U.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985111/mindtrip/places/ChIJc4tVpTn_YRQR9AR52OE2D9U1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781985111/mindtrip/places/ChIJc4tVpTn_YRQR9AR52OE2D9U2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 31.372018,
+    "lng": 27.200674,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4tVpTn_YRQR9AR52OE2D9U"
+  },
+  {
+    "place_id": "ChIJv8SpistxWRQRhjKopLPob3c",
+    "name": "Helnan Auberge Fayoum",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4692,
+    "rating": 4.1,
+    "reviews_count": 2374,
+    "address": "مدخل السعيديه, As Saeedeyah, Sinnuris, Faiyum Governorate 2955740, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHkkd_AhVkygJI_37MFTo-Tecztq7MX4G288Bh1Rqov_HnogQVLQmdG6G8QACLf8_dvtkVMnW8cG64d753u3Kx59xz0F1JT0-5M2aOD6cEFpg65B0egCdVq1psTzXEtJUEYpF0l=w500-h240-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987286/mindtrip/places/ChIJv8SpistxWRQRhjKopLPob3c.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987287/mindtrip/places/ChIJv8SpistxWRQRhjKopLPob3c1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987288/mindtrip/places/ChIJv8SpistxWRQRhjKopLPob3c2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.4688768,
+    "lng": 30.7706059,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4692,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8SpistxWRQRhjKopLPob3c"
+  },
+  {
+    "place_id": "ChIJl2905s1dWRQR97KqYy1cM40",
+    "name": "Lazib Inn Boutique Hotel",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 5841,
+    "rating": 4.5,
+    "reviews_count": 1292,
+    "address": "Youssef El Sedeeq Center, Tunis Village, Fayoum، قرية, Faiyum Governorate 63511, Egypt",
+    "description": "Sophisticated suites with fireplaces & balconies in a posh resort with a pool, a spa & a restaurant.",
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxsaI8Xk-KBELHjVA_TBRfobd-HGJXHSIWCbPk2mGY0D0KHijGv4NQhPMZD2FW7FiUXm0dlxO-TOj9fbEnMJi9TZQ4CgmeEv-fVXR27aimpZvuynLsCa5XAXOoeJxoQBAhaGxc2_qap--6=w408-h271-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987289/mindtrip/places/ChIJl2905s1dWRQR97KqYy1cM40.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987290/mindtrip/places/ChIJl2905s1dWRQR97KqYy1cM401.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.4036602,
+    "lng": 30.4880847,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 5841,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2905s1dWRQR97KqYy1cM40"
+  },
+  {
+    "place_id": "ChIJpSmnnZVxWRQR9eR0fJuOmyw",
+    "name": "Armed Forces Hotel in Fayoum",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3145,
+    "rating": 4.0,
+    "reviews_count": 1330,
+    "address": "Shakshouk, Sinnuris, Faiyum Governorate 2955456, Egypt",
+    "description": null,
+    "photo_url": "https://images.trvl-media.com/lodging/30000000/29830000/29826600/29826599/9c3c89ef_z.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987292/mindtrip/places/ChIJpSmnnZVxWRQR9eR0fJuOmyw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987294/mindtrip/places/ChIJpSmnnZVxWRQR9eR0fJuOmyw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987295/mindtrip/places/ChIJpSmnnZVxWRQR9eR0fJuOmyw2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.4740951,
+    "lng": 30.7379829,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3145,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSmnnZVxWRQR9eR0fJuOmyw"
+  },
+  {
+    "place_id": "ChIJbWdYA5FdWRQRWovsolj8NEw",
+    "name": "قرية تونس السياحية بالفيوم",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 11681,
+    "rating": 4.5,
+    "reviews_count": 1348,
+    "address": "9FXQ+QMJ, Qaroun, Youssef Al Seddik, Faiyum Governorate 2822613, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH9fP43rpoa0TTkfuh3Lsrg19MlnDtlBHphYguOob6VuxGqtLkTiTCu8yl4Fpcq5hYceTiZZohJMH2f5PoZCrMyzkm33vsX3Q0T5GlL_VWvjn8r84V-e1J5BX7lHwGlEMH-LzEq=w408-h272-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987296/mindtrip/places/ChIJbWdYA5FdWRQRWovsolj8NEw.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.3997894,
+    "lng": 30.4902824,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 11681,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWdYA5FdWRQRWovsolj8NEw"
+  },
+  {
+    "place_id": "ChIJ2aBlIeF5WRQRzbrV55U9e6A",
+    "name": "Queen hotel",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3994,
+    "rating": 3.7,
+    "reviews_count": 241,
+    "address": "Qesm Al Fayoum, First Al Faiyum, Faiyum Governorate 2933183, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHadraJ_5fqz4mSwlgl6aYm9R97R_xyZyhBMP6_8naKmgBti1IJc8s7tZCIRE6kiwCXYPrbkE5QcVdlooYOdTptLAS9zU1REEI3y2OG6je2fcTZv8XCV105Yj74zE28uPNwweMOeC7QjjwX=w446-h240-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987296/mindtrip/places/ChIJ2aBlIeF5WRQRzbrV55U9e6A.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987297/mindtrip/places/ChIJ2aBlIeF5WRQRzbrV55U9e6A1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987298/mindtrip/places/ChIJ2aBlIeF5WRQRzbrV55U9e6A2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.313381,
+    "lng": 30.8414169,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3994,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aBlIeF5WRQRzbrV55U9e6A"
+  },
+  {
+    "place_id": "ChIJf7aYSYNdWRQR944BGGb1DI0",
+    "name": "Tzila Lodge",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 7837,
+    "rating": 4.5,
+    "reviews_count": 205,
+    "address": "Qaroun, مركز أبشواى، Faiyum Governorate 2822651, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDLJAQzat4CU5HOFcD6DooCDHSF39e5boXKu6SAYIx0JD2LFQTLKICcoJcA_SOXFjU5Kljs3T-Vg3h6Abjcu__EsKP1oFIxnWvlmVP2HiORQ5SPTeu-jYRIYs6aPDdK8RU4bjHzA=w408-h272-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987299/mindtrip/places/ChIJf7aYSYNdWRQR944BGGb1DI0.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987300/mindtrip/places/ChIJf7aYSYNdWRQR944BGGb1DI01.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987301/mindtrip/places/ChIJf7aYSYNdWRQR944BGGb1DI02.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.394995,
+    "lng": 30.497292,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 7837,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7aYSYNdWRQR944BGGb1DI0"
+  },
+  {
+    "place_id": "ChIJRWd3DABbWRQRkvIGqeWpaWg",
+    "name": "Lodge Northern Lake",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2346,
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "Qarun lake, Youssef Al Seddik, Faiyum Governorate 63511, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEkCG_wfyhKjLLJ8jFnDQph2phrKy2J-AcF3anJ-XU5nK2Mg6QMd71uLIFpubn2RmXPoih8De8rB-Ckd5KyeH8v4o1h53nsXAoMLwqtmSMjbBu72mat5QsKLO5i4NF57vClP30nFHt21eE=w408-h408-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987302/mindtrip/places/ChIJRWd3DABbWRQRkvIGqeWpaWg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987302/mindtrip/places/ChIJRWd3DABbWRQRkvIGqeWpaWg1.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.451966,
+    "lng": 30.3963965,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2346,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWd3DABbWRQRkvIGqeWpaWg"
+  },
+  {
+    "place_id": "ChIJ3XJQfMRdWRQRNv-T1JiGFs8",
+    "name": "Hoopoe lodge",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1897,
+    "rating": 5.0,
+    "reviews_count": 41,
+    "address": "village، Youssef Al Seddik, Faiyum Governorate 63626, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFyeVyX28Oveu_vWrRW5-tMldzV3WIvKCPkNQke4i7haNowuyT7PlHJMiZBdUWXC5i_K7gn6PEsZXb2Or2dILNp-enmMAozNvzqsvtIJOC-RQnuIOSosGI4LFdEDLF7HLK6Fv_dLEC4jK79=w475-h240-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987303/mindtrip/places/ChIJ3XJQfMRdWRQRNv-T1JiGFs8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987304/mindtrip/places/ChIJ3XJQfMRdWRQRNv-T1JiGFs81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987305/mindtrip/places/ChIJ3XJQfMRdWRQRNv-T1JiGFs82.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.4050337,
+    "lng": 30.483523,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1897,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XJQfMRdWRQRNv-T1JiGFs8"
+  },
+  {
+    "place_id": "ChIJWWxYQiR5WRQRLMGWXNlZZFI",
+    "name": "Montazah Hotel",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 699,
+    "rating": 3.2,
+    "reviews_count": 138,
+    "address": "Qesm Al Fayoum, First Al Faiyum, Faiyum Governorate 2933184, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGoAeqcDSrTlM4yPvJpA3hU4FhY6slUSP1GO6jiZgQ0rnqylCcAr2ACA95A7PfZuZaYincgPSZkoXxOXueXHdEmdt0Md0ZrvDB-CcJnx2yatY-EN3tnrl_5j3IEy3w_DLV2yiCx=w408-h546-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987305/mindtrip/places/ChIJWWxYQiR5WRQRLMGWXNlZZFI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987306/mindtrip/places/ChIJWWxYQiR5WRQRLMGWXNlZZFI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987307/mindtrip/places/ChIJWWxYQiR5WRQRLMGWXNlZZFI2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.3143473,
+    "lng": 30.8422768,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 699,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWxYQiR5WRQRLMGWXNlZZFI"
+  },
+  {
+    "place_id": "ChIJO6VG_UtxWRQRgcq5ezKsTZA",
+    "name": "شاليهات البرج شقق فندقيه",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2246,
+    "rating": 5.0,
+    "reviews_count": 5,
+    "address": "FP77+5P8، شكشوك، الظهير الصحراوى لمحافظة الفيوم، الفيوم 2867107، الفيوم, Faiyum Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHp9RcAvosL7gxfGw6Wy8AUnVXL5gMoysPVk9O8gvaMh2GaCxQvPqp_rXOeHswObuq3tzbuArUEaJln3ll1GWhgKSp0Cy2QGKOTCtALDg-ZtT05q02D7atM1skfUENPztSYyY9A=w408-h408-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987308/mindtrip/places/ChIJO6VG_UtxWRQRgcq5ezKsTZA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987309/mindtrip/places/ChIJO6VG_UtxWRQRgcq5ezKsTZA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987309/mindtrip/places/ChIJO6VG_UtxWRQRgcq5ezKsTZA2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.4629018,
+    "lng": 30.7143133,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2246,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6VG_UtxWRQRgcq5ezKsTZA"
+  },
+  {
+    "place_id": "ChIJL8JomPNdWRQRivCLa4M16Jg",
+    "name": "Lac Moeris Fayoum",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.5,
+    "reviews_count": 92,
+    "address": "Byoum, Youssef Al Seddik, Faiyum Governorate 2823301, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEgABtFVQbf9NwCG9DujhV6tFqOTQliOQ4Ss2ImCJM_yfLfkv0a1izQ3LqVfyykNh-rMjS8aIwsYHS6sdTvwzJUSygUfo8dXg2eJigSh8uNWTJjoKi1T85YMtuLLCWoLlkCFDX3=w408-h544-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987310/mindtrip/places/ChIJL8JomPNdWRQRivCLa4M16Jg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987312/mindtrip/places/ChIJL8JomPNdWRQRivCLa4M16Jg1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987313/mindtrip/places/ChIJL8JomPNdWRQRivCLa4M16Jg2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.4238734,
+    "lng": 30.4565388,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8JomPNdWRQRivCLa4M16Jg"
+  },
+  {
+    "place_id": "ChIJ2_q0tyh5WRQRNiA_b7sIB6U",
+    "name": "Tache By The Lake",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 5.0,
+    "reviews_count": 2,
+    "address": "Wadi Alrayan, Fayoum governorate 2812001, Faiyum Governorate 63511, Egypt",
+    "description": null,
+    "photo_url": "https://images.trvl-media.com/lodging/115000000/114490000/114488300/114488206/f9d3273f_z.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987313/mindtrip/places/ChIJ2_q0tyh5WRQRNiA_b7sIB6U.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987314/mindtrip/places/ChIJ2_q0tyh5WRQRNiA_b7sIB6U1.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.3086891,
+    "lng": 30.8446611,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_q0tyh5WRQRNiA_b7sIB6U"
+  },
+  {
+    "place_id": "ChIJt4tF6HF5WRQRxvO1ukM1z9M",
+    "name": "فندق قارون Qarun Hotel",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.2,
+    "reviews_count": 314,
+    "address": "٢ ميدان قارون, Qesm Al Fayoum, First Al Faiyum, Faiyum Governorate 63513, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOBnDZMDJQrBbOVW0gqPhUrCGrV2Zawnino6VYzCT7GDqILKCNZlQb1JFFWk4rGpOXryr4PNfM4U5woHapYa-L95xiZXYoa7NhGfoetuufJRbQf8kJtnjcOqyx9WPhi_i6AhvZcg=w426-h240-k-no",
+    "image_urls": "[\"https://lh3.googleusercontent.com/gps-cs-s/APNQkAHOBnDZMDJQrBbOVW0gqPhUrCGrV2Zawnino6VYzCT7GDqILKCNZlQb1JFFWk4rGpOXryr4PNfM4U5woHapYa-L95xiZXYoa7NhGfoetuufJRbQf8kJtnjcOqyx9WPhi_i6AhvZcg=w426-h240-k-no\",\"https://lh5.googleusercontent.com/p/ChIJt4tF6HF5WRQRxvO1ukM1z9M=w1000-h1000\",\"https://maps.google.com/maps/api/place/js/PhotoService.GetPhoto?1sChIJt4tF6HF5WRQRxvO1ukM1z9M\"]",
+    "opening_hours": "12am-12am",
+    "lat": 29.3087569,
+    "lng": 30.8446873,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4tF6HF5WRQRxvO1ukM1z9M"
+  },
+  {
+    "place_id": "ChIJKXr1wX9eWRQRsBZVNHiM-I4",
+    "name": "Oasis Resort and Hotel",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 3.9,
+    "reviews_count": 725,
+    "address": "FPFG+543, Qaroun, Ibsheway, Faiyum Governorate 2867301, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHSlXmH92ZWQyI2_42M_CsGWzGy-rMdJ3-ZtNcq_6wgfaaDC3rFRI-jr4pqsj7NyKXl_Iq2ksmD3DHetizFMYEeWHFktj2sWbASUFD0Xlw03EdiNM4GT7qLlsiwQ2U_zFzkKMDa8T0QSKa6=w408-h306-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987316/mindtrip/places/ChIJKXr1wX9eWRQRsBZVNHiM-I4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987317/mindtrip/places/ChIJKXr1wX9eWRQRsBZVNHiM-I41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987317/mindtrip/places/ChIJKXr1wX9eWRQRsBZVNHiM-I42.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.4728975,
+    "lng": 30.7252954,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXr1wX9eWRQRsBZVNHiM-I4"
+  },
+  {
+    "place_id": "ChIJ9ZINREBcWRQReJCtBoD6A90",
+    "name": "Byoum Lakeside Hotel",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.3,
+    "reviews_count": 676,
+    "address": "Qarun Lake Touristic Rd, village, Faiyum Governorate 2823301, Egypt",
+    "description": "Polished lakeside hotel offering an outdoor pool, dining & 2 bars, plus direct beach access.",
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHH_ShLJo00nUBhZHCrVo6_WJJiweQ4dtARASOxNpFn-g4_ysOESm7gbVGUe9MMC6Rjiq2QxVHgnaId0K1TcVxYq4UlwgGR3ejI5-DzOXKgkpvQ5cIXSiJmuSzMSsPMCDPkWAqz=w408-h271-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987318/mindtrip/places/ChIJ9ZINREBcWRQReJCtBoD6A90.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987319/mindtrip/places/ChIJ9ZINREBcWRQReJCtBoD6A901.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987320/mindtrip/places/ChIJ9ZINREBcWRQReJCtBoD6A902.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.4192364,
+    "lng": 30.4607405,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZINREBcWRQReJCtBoD6A90"
+  },
+  {
+    "place_id": "ChIJHZe9v6ZdWRQRVnFtzy-vgPM",
+    "name": "Bequest",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "عزبة تونسي، قارون، إبشواى, Youssef Al Seddik, Faiyum Governorate 2822612, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGIDPAUjVDTVrdPs1d7gshw6BY_9S3iA-wJwTV5Y04a6HXGqhY1rp38_7jANQB_pWrMDA-fkGICyXg-4bQn92zOenLqe4BB_kNJaaVpsyeuzKi8LlUVSo7Fqoess1CvubZgurm_0A=w408-h544-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987321/mindtrip/places/ChIJHZe9v6ZdWRQRVnFtzy-vgPM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987322/mindtrip/places/ChIJHZe9v6ZdWRQRVnFtzy-vgPM2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.4001875,
+    "lng": 30.4851875,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZe9v6ZdWRQRVnFtzy-vgPM"
+  },
+  {
+    "place_id": "ChIJq6IZwT15WRQRMg1cJOinUj0",
+    "name": "Faculty of Tourism and Hotels, Fayoum",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 3.8,
+    "reviews_count": 144,
+    "address": "Haye El Gamaa next to Faculty of Tourism & Hotels, 99999, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG6UT1vPkEzPsD4QEkYELSUpNn09qiW4BHmnAwKGXFy4qQ17tOgTEp8_Z6lHcBJOr-tDQvcOK4nKceBh-GhS2UOFkc7YiDlgRSNekUIXBTACsM6fK9n9I4gmXEJqm5DrR9UAaaX=w408-h699-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987323/mindtrip/places/ChIJq6IZwT15WRQRMg1cJOinUj0.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.3216026,
+    "lng": 30.8343805,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6IZwT15WRQRMg1cJOinUj0"
+  },
+  {
+    "place_id": "ChIJRQ8aTX55WRQR24uKm5NgJsg",
+    "name": "اوتيل Honey Day Hotel",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 3.5,
+    "reviews_count": 646,
+    "address": "8R6X+PWR, Gamal Abd El-Nasir, Qesm Al Fayoum, First Al Faiyum, Faiyum Governorate 2934202, Egypt",
+    "description": null,
+    "photo_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/0f/fd/d1/honey-day-hotel-from.jpg?w=1000&h=800&s=1",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987324/mindtrip/places/ChIJRQ8aTX55WRQR24uKm5NgJsg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987325/mindtrip/places/ChIJRQ8aTX55WRQR24uKm5NgJsg1.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.3118713,
+    "lng": 30.8497556,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQ8aTX55WRQR24uKm5NgJsg"
+  },
+  {
+    "place_id": "ChIJ5Zw86SR5WRQRRXDMY4uKJZs",
+    "name": "El Moalemeen Hotel",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 3.4,
+    "reviews_count": 534,
+    "address": "8R7R+R36, El Nadi El Riyadi Street, Qesm Al Fayoum, First Al Faiyum, Faiyum Governorate 2933143, Egypt",
+    "description": null,
+    "photo_url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfpD96l6YTDOwTfjmsd0xTjTqTxUx5nd04EP7mY8b0gCjhvQEtWFjMrP9jx0ZdbNIa1eyB95_TUocB-YWKSbTgQx_RRwfitNlOKBAPEpOb3KILOorRh9d7q4Lqy5iWPkeb_h4=w408-h544-k-no",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987326/mindtrip/places/ChIJ5Zw86SR5WRQRRXDMY4uKJZs.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987326/mindtrip/places/ChIJ5Zw86SR5WRQRRXDMY4uKJZs1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987327/mindtrip/places/ChIJ5Zw86SR5WRQRRXDMY4uKJZs2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.3145425,
+    "lng": 30.8401358,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Zw86SR5WRQRRXDMY4uKJZs"
+  },
+  {
+    "place_id": "ChIJB7ZagTN5WRQRQsOuvIEAacc",
+    "name": "تازيلا لوتش",
+    "city": "Fayoum",
+    "city_en": "Fayoum",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 0,
+    "rating": 0.0,
+    "reviews_count": 0,
+    "address": "8R5V+949, Qesm Al Fayoum, Second Al Faiyum, Faiyum Governorate 2922443, Egypt",
+    "description": null,
+    "photo_url": null,
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987328/mindtrip/places/ChIJB7ZagTN5WRQRQsOuvIEAacc.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987328/mindtrip/places/ChIJB7ZagTN5WRQRQsOuvIEAacc1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781987329/mindtrip/places/ChIJB7ZagTN5WRQRQsOuvIEAacc2.jpg"
+    ],
+    "opening_hours": "12am-12am",
+    "lat": 29.3084021,
+    "lng": 30.8428497,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7ZagTN5WRQRQsOuvIEAacc"
   }
 ]
