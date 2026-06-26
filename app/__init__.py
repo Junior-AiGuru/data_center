@@ -1,0 +1,1 @@
+# MindTrip Recommendation API package
