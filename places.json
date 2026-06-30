@@ -5034,37 +5034,6 @@
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW-DagBHWBQRgJBQ-_LHj-w"
   },
   {
-    "place_id": "ChIJ_dGzEalbWBQR5ZoOeuHhpVQ",
-    "name": "Zayed mountain",
-    "city": "Giza",
-    "city_en": "Giza",
-    "interests": [
-      "Nature",
-      "Outdoor",
-      "Park"
-    ],
-    "category": "nature",
-    "price": 100,
-    "rating": 5.0,
-    "reviews_count": 6,
-    "address": "New Giza Rd, First 6th of October, Giza Governorate 3293101",
-    "description": "",
-    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781173694/mindtrip/places/ChIJ_dGzEalbWBQR5ZoOeuHhpVQ.jpg",
-    "image_urls": [
-      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781173694/mindtrip/places/ChIJ_dGzEalbWBQR5ZoOeuHhpVQ.jpg",
-      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781173695/mindtrip/places/ChIJ_dGzEalbWBQR5ZoOeuHhpVQ1.jpg"
-    ],
-    "opening_hours": "9am-9pm",
-    "lat": 30.0178063,
-    "lng": 31.0466294,
-    "is_hidden_gem": true,
-    "day": "",
-    "is_opened": "",
-    "type": "",
-    "cost": 100,
-    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dGzEalbWBQR5ZoOeuHhpVQ"
-  },
-  {
     "place_id": "ChIJnYSG8Aw4WBQRmUmvh85VEpk",
     "name": "AGYAD POOL",
     "city": "Giza",
@@ -9752,37 +9721,6 @@
     "type": "",
     "cost": 200,
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0tZTcdPWBQRGyil-Qf6RyI"
-  },
-  {
-    "place_id": "ChIJV0SuPbVHWBQRs-sDx6PdUsI",
-    "name": "Cairo, Egito.",
-    "city": "Giza",
-    "city_en": "Giza",
-    "interests": [
-      "History & Antiquities",
-      "Outdoor",
-      "Entertainment"
-    ],
-    "category": "historical_sites",
-    "price": 120,
-    "rating": 4.0,
-    "reviews_count": 4,
-    "address": "2675+6GH, Al Omraneyah Ash Sharqeyah, El Omraniya, Giza Governorate 3724113",
-    "description": "",
-    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781173036/mindtrip/places/ChIJV0SuPbVHWBQRs-sDx6PdUsI.jpg",
-    "image_urls": [
-      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781173036/mindtrip/places/ChIJV0SuPbVHWBQRs-sDx6PdUsI.jpg",
-      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1781173037/mindtrip/places/ChIJV0SuPbVHWBQRs-sDx6PdUsI1.jpg"
-    ],
-    "opening_hours": "9am-9pm",
-    "lat": 30.0130557,
-    "lng": 31.2088526,
-    "is_hidden_gem": true,
-    "day": "",
-    "is_opened": "",
-    "type": "",
-    "cost": 120,
-    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0SuPbVHWBQRs-sDx6PdUsI"
   },
   {
     "place_id": "ChIJh5hK3_ZPWBQR50Q8-yBf3UQ",
@@ -34464,5 +34402,1410 @@
     "type": null,
     "cost": 200,
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UAv4jpZ-BQRo5N1-9TyidY"
+  },
+  {
+    "place_id": "ChIJCdePAS9LqxURRqfA7zu7qAU",
+    "name": "Lindy's Dahab Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 600.0,
+    "rating": 4.6,
+    "reviews_count": 421,
+    "address": "El Masbat St, Dahab, South Sinai Governorate 8772517, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831582/mindtrip/places/ChIJCdePAS9LqxURRqfA7zu7qAU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831582/mindtrip/places/ChIJCdePAS9LqxURRqfA7zu7qAU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831584/mindtrip/places/ChIJCdePAS9LqxURRqfA7zu7qAU2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4945392,
+    "lng": 34.5175285,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 600.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdePAS9LqxURRqfA7zu7qAU"
+  },
+  {
+    "place_id": "ChIJ168pNDBLqxUR9STtLTHLw6g",
+    "name": "Nemo Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 1200.0,
+    "rating": 4.3,
+    "reviews_count": 1043,
+    "address": "المسبط، المشايه, Dahab, South Sinai Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831585/mindtrip/places/ChIJ168pNDBLqxUR9STtLTHLw6g.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831585/mindtrip/places/ChIJ168pNDBLqxUR9STtLTHLw6g.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831586/mindtrip/places/ChIJ168pNDBLqxUR9STtLTHLw6g1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831587/mindtrip/places/ChIJ168pNDBLqxUR9STtLTHLw6g2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4980462,
+    "lng": 34.5175619,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 1200.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ168pNDBLqxUR9STtLTHLw6g"
+  },
+  {
+    "place_id": "ChIJn5rXfSVLqxUR9D59rXijUKs",
+    "name": "ZANOOBA Slow Cooking",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 1200.0,
+    "rating": 4.8,
+    "reviews_count": 2106,
+    "address": "Zanooba Slow Cooking, El Malel St, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831590/mindtrip/places/ChIJn5rXfSVLqxUR9D59rXijUKs1.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831590/mindtrip/places/ChIJn5rXfSVLqxUR9D59rXijUKs1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831590/mindtrip/places/ChIJn5rXfSVLqxUR9D59rXijUKs2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5005105,
+    "lng": 34.5197157,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 1200.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5rXfSVLqxUR9D59rXijUKs"
+  },
+  {
+    "place_id": "ChIJi9j1SphLqxURukwIII6n0l0",
+    "name": "The Breakfast Cafe Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.6,
+    "reviews_count": 683,
+    "address": "Alf Leila Hotel, El Fanar street Lighthouse area Peace road and El Fanar corner, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831591/mindtrip/places/ChIJi9j1SphLqxURukwIII6n0l0.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831591/mindtrip/places/ChIJi9j1SphLqxURukwIII6n0l0.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831593/mindtrip/places/ChIJi9j1SphLqxURukwIII6n0l01.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5001764,
+    "lng": 34.5161172,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9j1SphLqxURukwIII6n0l0"
+  },
+  {
+    "place_id": "ChIJVb3UmPJLqxUR4M5U41iKM68",
+    "name": "Ena's Table",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.9,
+    "reviews_count": 133,
+    "address": "GG77+J7, Zarnooq, Dahab Dahab South Sinai Governorate EG, Dahab, South Sinai Governorate 8772627, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831595/mindtrip/places/ChIJVb3UmPJLqxUR4M5U41iKM68.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831595/mindtrip/places/ChIJVb3UmPJLqxUR4M5U41iKM68.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831596/mindtrip/places/ChIJVb3UmPJLqxUR4M5U41iKM681.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831597/mindtrip/places/ChIJVb3UmPJLqxUR4M5U41iKM682.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5140625,
+    "lng": 34.5131875,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVb3UmPJLqxUR4M5U41iKM68"
+  },
+  {
+    "place_id": "ChIJVz8LGsVLqxURDmZz_CU0eW8",
+    "name": "Nawaem Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 600.0,
+    "rating": 4.8,
+    "reviews_count": 810,
+    "address": "El Fanar St, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831597/mindtrip/places/ChIJVz8LGsVLqxURDmZz_CU0eW8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831597/mindtrip/places/ChIJVz8LGsVLqxURDmZz_CU0eW8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831598/mindtrip/places/ChIJVz8LGsVLqxURDmZz_CU0eW81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831599/mindtrip/places/ChIJVz8LGsVLqxURDmZz_CU0eW82.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5003416,
+    "lng": 34.5174732,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 600.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVz8LGsVLqxURDmZz_CU0eW8"
+  },
+  {
+    "place_id": "ChIJQ5FeJDBLqxURg7vMNirN5BA",
+    "name": "Shark Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 800.0,
+    "rating": 4.5,
+    "reviews_count": 1617,
+    "address": "المسبط, Dahab, South Sinai Governorate 8772523, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831600/mindtrip/places/ChIJQ5FeJDBLqxURg7vMNirN5BA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831600/mindtrip/places/ChIJQ5FeJDBLqxURg7vMNirN5BA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831601/mindtrip/places/ChIJQ5FeJDBLqxURg7vMNirN5BA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831602/mindtrip/places/ChIJQ5FeJDBLqxURg7vMNirN5BA2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4983144,
+    "lng": 34.5177961,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 800.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5FeJDBLqxURg7vMNirN5BA"
+  },
+  {
+    "place_id": "ChIJh7UOn1RLqxURf6jiBOSJCUw",
+    "name": "Ali Baba Restaurant Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 1600.0,
+    "rating": 4.5,
+    "reviews_count": 2613,
+    "address": "El Masbat St, Dahab, South Sinai Governorate 8772523, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831603/mindtrip/places/ChIJh7UOn1RLqxURf6jiBOSJCUw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831603/mindtrip/places/ChIJh7UOn1RLqxURf6jiBOSJCUw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831604/mindtrip/places/ChIJh7UOn1RLqxURf6jiBOSJCUw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831605/mindtrip/places/ChIJh7UOn1RLqxURf6jiBOSJCUw2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4977065,
+    "lng": 34.5171351,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 1600.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7UOn1RLqxURf6jiBOSJCUw"
+  },
+  {
+    "place_id": "ChIJq0Gs2yVLqxURYe067obywpw",
+    "name": "Bayside Eatery",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.7,
+    "reviews_count": 905,
+    "address": "78 El Fanar St, قسم سانت كاترين،, South Sinai Governorate 8772524, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831606/mindtrip/places/ChIJq0Gs2yVLqxURYe067obywpw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831606/mindtrip/places/ChIJq0Gs2yVLqxURYe067obywpw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831607/mindtrip/places/ChIJq0Gs2yVLqxURYe067obywpw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831608/mindtrip/places/ChIJq0Gs2yVLqxURYe067obywpw2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4991432,
+    "lng": 34.5191345,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0Gs2yVLqxURYe067obywpw"
+  },
+  {
+    "place_id": "ChIJmT6epWNLqxURLWD2Pin96a8",
+    "name": "Friends Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 1000.0,
+    "rating": 4.4,
+    "reviews_count": 582,
+    "address": "قسم, South Sinai Governorate 8772523, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831609/mindtrip/places/ChIJmT6epWNLqxURLWD2Pin96a8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831609/mindtrip/places/ChIJmT6epWNLqxURLWD2Pin96a8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831610/mindtrip/places/ChIJmT6epWNLqxURLWD2Pin96a81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831611/mindtrip/places/ChIJmT6epWNLqxURLWD2Pin96a82.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4979858,
+    "lng": 34.5174255,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 1000.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmT6epWNLqxURLWD2Pin96a8"
+  },
+  {
+    "place_id": "ChIJoazCgV61VBQRT2u-C09iDRk",
+    "name": "JAZ Dahabeya",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 121.0,
+    "rating": 4.9,
+    "reviews_count": 10966,
+    "address": "Sharm El Sheikh Dahab Red Sea Governorate, Egypt",
+    "description": "Laid-back hotel featuring restaurants, outdoor pools & a poolside bar, plus a private beach area.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831614/mindtrip/places/ChIJoazCgV61VBQRT2u-C09iDRk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831614/mindtrip/places/ChIJoazCgV61VBQRT2u-C09iDRk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831615/mindtrip/places/ChIJoazCgV61VBQRT2u-C09iDRk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831616/mindtrip/places/ChIJoazCgV61VBQRT2u-C09iDRk2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4798697,
+    "lng": 34.490572,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 121.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoazCgV61VBQRT2u-C09iDRk"
+  },
+  {
+    "place_id": "ChIJMTxcKaVLqxURAfHQ_bK76LQ",
+    "name": "Tim’s Munch",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.6,
+    "reviews_count": 1060,
+    "address": "Ontop of Ali Baba (Hotel, El Fanar St, Dahab, South Sinai Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831617/mindtrip/places/ChIJMTxcKaVLqxURAfHQ_bK76LQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831617/mindtrip/places/ChIJMTxcKaVLqxURAfHQ_bK76LQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831618/mindtrip/places/ChIJMTxcKaVLqxURAfHQ_bK76LQ1.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4978408,
+    "lng": 34.5170306,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTxcKaVLqxURAfHQ_bK76LQ"
+  },
+  {
+    "place_id": "ChIJGwjY-NZLqxURriyyyCTXLtE",
+    "name": "Tota Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 1000.0,
+    "rating": 4.5,
+    "reviews_count": 484,
+    "address": "El Fanar St, Dahab, South Sinai Governorate 8772524, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831619/mindtrip/places/ChIJGwjY-NZLqxURriyyyCTXLtE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831619/mindtrip/places/ChIJGwjY-NZLqxURriyyyCTXLtE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831622/mindtrip/places/ChIJGwjY-NZLqxURriyyyCTXLtE2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5000533,
+    "lng": 34.5177013,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 1000.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwjY-NZLqxURriyyyCTXLtE"
+  },
+  {
+    "place_id": "ChIJr4RWQwBLqxUR8MYkdDrdEA8",
+    "name": "Chillax Cafe & Restaurant Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.6,
+    "reviews_count": 317,
+    "address": "المسبط, Dahab, South Sinai Governorate 8772523, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831623/mindtrip/places/ChIJr4RWQwBLqxUR8MYkdDrdEA8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831623/mindtrip/places/ChIJr4RWQwBLqxUR8MYkdDrdEA8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831624/mindtrip/places/ChIJr4RWQwBLqxUR8MYkdDrdEA81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831625/mindtrip/places/ChIJr4RWQwBLqxUR8MYkdDrdEA82.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4982421,
+    "lng": 34.5177057,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4RWQwBLqxUR8MYkdDrdEA8"
+  },
+  {
+    "place_id": "ChIJ1-hVXwBLqxURf_OgdeV3Clg",
+    "name": "Mojito Cafe and Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants",
+      "Cafe"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.6,
+    "reviews_count": 42,
+    "address": "FGW8+8RR, Mamsha, Dahab, South Sinai Governorate 8772518, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831626/mindtrip/places/ChIJ1-hVXwBLqxURf_OgdeV3Clg.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831626/mindtrip/places/ChIJ1-hVXwBLqxURf_OgdeV3Clg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831628/mindtrip/places/ChIJ1-hVXwBLqxURf_OgdeV3Clg2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4958602,
+    "lng": 34.5170055,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-hVXwBLqxURf_OgdeV3Clg"
+  },
+  {
+    "place_id": "ChIJPdjpXLxLqxUR5xxsQ7rCRD4",
+    "name": "Isfahan Slow-cooked tajines and grill’s",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 600.0,
+    "rating": 4.5,
+    "reviews_count": 1006,
+    "address": "Lighthouse Rd, Dahab, South Sinai Governorate 8772602, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831629/mindtrip/places/ChIJPdjpXLxLqxUR5xxsQ7rCRD4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831629/mindtrip/places/ChIJPdjpXLxLqxUR5xxsQ7rCRD4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831629/mindtrip/places/ChIJPdjpXLxLqxUR5xxsQ7rCRD41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831630/mindtrip/places/ChIJPdjpXLxLqxUR5xxsQ7rCRD42.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5000673,
+    "lng": 34.519665,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 600.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdjpXLxLqxUR5xxsQ7rCRD4"
+  },
+  {
+    "place_id": "ChIJYx160DBLqxURm4CwBlzTXvI",
+    "name": "Red Cat",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.5,
+    "reviews_count": 738,
+    "address": "46617, Lighthouse Rd, area, قسم سانت كاترين, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831631/mindtrip/places/ChIJYx160DBLqxURm4CwBlzTXvI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831631/mindtrip/places/ChIJYx160DBLqxURm4CwBlzTXvI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831632/mindtrip/places/ChIJYx160DBLqxURm4CwBlzTXvI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831633/mindtrip/places/ChIJYx160DBLqxURm4CwBlzTXvI2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4998835,
+    "lng": 34.519734,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYx160DBLqxURm4CwBlzTXvI"
+  },
+  {
+    "place_id": "ChIJoaJcHb5LqxURnIzUQmAvnrY",
+    "name": "Pattaya Thai Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.5,
+    "reviews_count": 405,
+    "address": "ايل جردن, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831633/mindtrip/places/ChIJoaJcHb5LqxURnIzUQmAvnrY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831633/mindtrip/places/ChIJoaJcHb5LqxURnIzUQmAvnrY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831634/mindtrip/places/ChIJoaJcHb5LqxURnIzUQmAvnrY1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831635/mindtrip/places/ChIJoaJcHb5LqxURnIzUQmAvnrY2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5056731,
+    "lng": 34.51986,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaJcHb5LqxURnIzUQmAvnrY"
+  },
+  {
+    "place_id": "ChIJu6cjUcm0VBQRx4V0KzpurbA",
+    "name": "Safir Dahab Resort",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 88.0,
+    "rating": 4.9,
+    "reviews_count": 5274,
+    "address": "El Nasr Rd, قسم سانت كاترين، South Sinai Governorate 8771401, Egypt",
+    "description": "Elegant rooms & suites in an upscale beachfront resort with a diving center & multiple restaurants.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831636/mindtrip/places/ChIJu6cjUcm0VBQRx4V0KzpurbA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831636/mindtrip/places/ChIJu6cjUcm0VBQRx4V0KzpurbA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831637/mindtrip/places/ChIJu6cjUcm0VBQRx4V0KzpurbA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831637/mindtrip/places/ChIJu6cjUcm0VBQRx4V0KzpurbA2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4811585,
+    "lng": 34.4962419,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 88.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6cjUcm0VBQRx4V0KzpurbA"
+  },
+  {
+    "place_id": "ChIJv3sgKaS0VBQRWgNdpiEOvTE",
+    "name": "Swiss Inn Resort Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 278.0,
+    "rating": 4.4,
+    "reviews_count": 2042,
+    "address": "El Tahrer St, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": "Informal hotel offering a private beach, 2 restaurants & an outdoor pool, plus bars & a spa.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831638/mindtrip/places/ChIJv3sgKaS0VBQRWgNdpiEOvTE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831638/mindtrip/places/ChIJv3sgKaS0VBQRWgNdpiEOvTE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831639/mindtrip/places/ChIJv3sgKaS0VBQRWgNdpiEOvTE1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831640/mindtrip/places/ChIJv3sgKaS0VBQRWgNdpiEOvTE2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4800332,
+    "lng": 34.4941232,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 278.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3sgKaS0VBQRWgNdpiEOvTE"
+  },
+  {
+    "place_id": "ChIJ5SUNGK-0VBQRb1y_dpGucJo",
+    "name": "Dahab Lagoon Club & Resort",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 136.0,
+    "rating": 4.3,
+    "reviews_count": 3162,
+    "address": "23, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": "Modern rooms, some with sea views, in an upmarket beachfront hotel offering a pool & a dive center.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831641/mindtrip/places/ChIJ5SUNGK-0VBQRb1y_dpGucJo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831641/mindtrip/places/ChIJ5SUNGK-0VBQRb1y_dpGucJo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831642/mindtrip/places/ChIJ5SUNGK-0VBQRb1y_dpGucJo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831643/mindtrip/places/ChIJ5SUNGK-0VBQRb1y_dpGucJo2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.479716,
+    "lng": 34.500759,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 136.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5SUNGK-0VBQRb1y_dpGucJo"
+  },
+  {
+    "place_id": "ChIJ48iXlPC1VBQR2c2kv8wg2IY",
+    "name": "Circle Divers Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.9,
+    "reviews_count": 186,
+    "address": "Jaz Dahabeya hotel, Dahab, South Sinai Governorate 8771302, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831643/mindtrip/places/ChIJ48iXlPC1VBQR2c2kv8wg2IY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831643/mindtrip/places/ChIJ48iXlPC1VBQR2c2kv8wg2IY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831644/mindtrip/places/ChIJ48iXlPC1VBQR2c2kv8wg2IY1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831645/mindtrip/places/ChIJ48iXlPC1VBQR2c2kv8wg2IY2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.479434,
+    "lng": 34.4910069,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48iXlPC1VBQR2c2kv8wg2IY"
+  },
+  {
+    "place_id": "ChIJzbiWiG-zVBQRRsZmsvXYlKQ",
+    "name": "Vie Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "South Sinai, Red Sea, PO Box 2, 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831646/mindtrip/places/ChIJzbiWiG-zVBQRRsZmsvXYlKQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831646/mindtrip/places/ChIJzbiWiG-zVBQRRsZmsvXYlKQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831647/mindtrip/places/ChIJzbiWiG-zVBQRRsZmsvXYlKQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831647/mindtrip/places/ChIJzbiWiG-zVBQRRsZmsvXYlKQ2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.469899,
+    "lng": 34.478188,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbiWiG-zVBQRRsZmsvXYlKQ"
+  },
+  {
+    "place_id": "ChIJ10Zr0xqzVBQRpikZ1_4sV9c",
+    "name": "Dahab Heights Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 64.0,
+    "rating": 3.9,
+    "reviews_count": 44,
+    "address": "Le Meridian Road, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831648/mindtrip/places/ChIJ10Zr0xqzVBQRpikZ1_4sV9c.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831648/mindtrip/places/ChIJ10Zr0xqzVBQRpikZ1_4sV9c.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831649/mindtrip/places/ChIJ10Zr0xqzVBQRpikZ1_4sV9c1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831650/mindtrip/places/ChIJ10Zr0xqzVBQRpikZ1_4sV9c2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4760318,
+    "lng": 34.4810388,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 64.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10Zr0xqzVBQRpikZ1_4sV9c"
+  },
+  {
+    "place_id": "ChIJvznlVKG0VBQR_xfgDQ8L3dU",
+    "name": "Speed Bar",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 5.0,
+    "reviews_count": 1,
+    "address": "FFJR+6P6, Dahab, South Sinai Governorate 8771303, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831651/mindtrip/places/ChIJvznlVKG0VBQR_xfgDQ8L3dU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831651/mindtrip/places/ChIJvznlVKG0VBQR_xfgDQ8L3dU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831651/mindtrip/places/ChIJvznlVKG0VBQR_xfgDQ8L3dU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831652/mindtrip/places/ChIJvznlVKG0VBQR_xfgDQ8L3dU2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.480543,
+    "lng": 34.491772,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvznlVKG0VBQR_xfgDQ8L3dU"
+  },
+  {
+    "place_id": "ChIJz5KoaaG0VBQRsX6NhahWzzc",
+    "name": "Aqua Bar",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "قسم سانت كاترين، South Sinai Governorate 8771302, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831653/mindtrip/places/ChIJz5KoaaG0VBQRsX6NhahWzzc.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831653/mindtrip/places/ChIJz5KoaaG0VBQRsX6NhahWzzc.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831654/mindtrip/places/ChIJz5KoaaG0VBQRsX6NhahWzzc1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831654/mindtrip/places/ChIJz5KoaaG0VBQRsX6NhahWzzc2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.479636,
+    "lng": 34.4905814,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5KoaaG0VBQRsX6NhahWzzc"
+  },
+  {
+    "place_id": "ChIJz5KoaaG0VBQRR1qT3c60TkM",
+    "name": "Aqua Bar",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "قسم سانت كاترين، South Sinai Governorate 8771302, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831655/mindtrip/places/ChIJz5KoaaG0VBQRR1qT3c60TkM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831655/mindtrip/places/ChIJz5KoaaG0VBQRR1qT3c60TkM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831656/mindtrip/places/ChIJz5KoaaG0VBQRR1qT3c60TkM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831657/mindtrip/places/ChIJz5KoaaG0VBQRR1qT3c60TkM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4803715,
+    "lng": 34.4904023,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5KoaaG0VBQRR1qT3c60TkM"
+  },
+  {
+    "place_id": "ChIJDdAeLqS0VBQRpuwwDEo_R3U",
+    "name": "El Khaima Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "FFJV+7M5، .، لاجونا, Dahab, South Sinai Governorate 8771303, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831658/mindtrip/places/ChIJDdAeLqS0VBQRpuwwDEo_R3U.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831658/mindtrip/places/ChIJDdAeLqS0VBQRpuwwDEo_R3U.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831658/mindtrip/places/ChIJDdAeLqS0VBQRpuwwDEo_R3U1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831659/mindtrip/places/ChIJDdAeLqS0VBQRpuwwDEo_R3U2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.480646,
+    "lng": 34.49425,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdAeLqS0VBQRpuwwDEo_R3U"
+  },
+  {
+    "place_id": "ChIJ03xkRty1VBQRxbssz6ZhEJI",
+    "name": "The Wind Farm",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 42.0,
+    "rating": 4.7,
+    "reviews_count": 232,
+    "address": "Jaz Dahabia hotel and Dahab public beach، Unnamed Between, Dahab, South Sinai Governorate 8771302, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831660/mindtrip/places/ChIJ03xkRty1VBQRxbssz6ZhEJI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831660/mindtrip/places/ChIJ03xkRty1VBQRxbssz6ZhEJI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831661/mindtrip/places/ChIJ03xkRty1VBQRxbssz6ZhEJI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831661/mindtrip/places/ChIJ03xkRty1VBQRxbssz6ZhEJI2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4794882,
+    "lng": 34.4897705,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 42.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03xkRty1VBQRxbssz6ZhEJI"
+  },
+  {
+    "place_id": "ChIJzbiWiG-zVBQRit2toE4UCQQ",
+    "name": "Sails Restaurant & Bar",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 5.0,
+    "reviews_count": 4,
+    "address": "FF9G+PWF، ش التحرير, Dahab, South Sinai Governorate 8771205, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831662/mindtrip/places/ChIJzbiWiG-zVBQRit2toE4UCQQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831662/mindtrip/places/ChIJzbiWiG-zVBQRit2toE4UCQQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831663/mindtrip/places/ChIJzbiWiG-zVBQRit2toE4UCQQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831664/mindtrip/places/ChIJzbiWiG-zVBQRit2toE4UCQQ2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.469318,
+    "lng": 34.47729,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbiWiG-zVBQRit2toE4UCQQ"
+  },
+  {
+    "place_id": "ChIJQdOfIa-0VBQRS6SRzt-usUw",
+    "name": "Zeitouna",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.0,
+    "reviews_count": 1,
+    "address": "FFHX+RX4، .، LAGUNA، DAHAB, South Sinai Governorate 8771501, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831665/mindtrip/places/ChIJQdOfIa-0VBQRS6SRzt-usUw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831665/mindtrip/places/ChIJQdOfIa-0VBQRS6SRzt-usUw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831666/mindtrip/places/ChIJQdOfIa-0VBQRS6SRzt-usUw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831666/mindtrip/places/ChIJQdOfIa-0VBQRS6SRzt-usUw2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.479506,
+    "lng": 34.499941,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdOfIa-0VBQRS6SRzt-usUw"
+  },
+  {
+    "place_id": "ChIJNds6Nqy0VBQRBNTTWeWUVhQ",
+    "name": "Canion Camp",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.6,
+    "reviews_count": 40,
+    "address": "Unnamed Road,, قسم سانت كاترين، South Sinai Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831667/mindtrip/places/ChIJNds6Nqy0VBQRBNTTWeWUVhQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831667/mindtrip/places/ChIJNds6Nqy0VBQRBNTTWeWUVhQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831668/mindtrip/places/ChIJNds6Nqy0VBQRBNTTWeWUVhQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831669/mindtrip/places/ChIJNds6Nqy0VBQRBNTTWeWUVhQ2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4786425,
+    "lng": 34.5024039,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNds6Nqy0VBQRBNTTWeWUVhQ"
+  },
+  {
+    "place_id": "ChIJNZOfCwBLqxURLgZ7fsQD7O8",
+    "name": "Alva Restaurant & Cafe",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 5.0,
+    "reviews_count": 5,
+    "address": "FFPX+29V Workers Garden, Dahab, South Sinai Governorate 8771614, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831670/mindtrip/places/ChIJNZOfCwBLqxURLgZ7fsQD7O8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831670/mindtrip/places/ChIJNZOfCwBLqxURLgZ7fsQD7O8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831671/mindtrip/places/ChIJNZOfCwBLqxURLgZ7fsQD7O81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831671/mindtrip/places/ChIJNZOfCwBLqxURLgZ7fsQD7O82.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4851185,
+    "lng": 34.4984325,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZOfCwBLqxURLgZ7fsQD7O8"
+  },
+  {
+    "place_id": "ChIJaWZ2fhdLqxURrWH9qYfyObM",
+    "name": "Fresh fish restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.3,
+    "reviews_count": 531,
+    "address": "Lighthouse Area،, قسم سانت كاترين، South Sinai Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831672/mindtrip/places/ChIJaWZ2fhdLqxURrWH9qYfyObM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831672/mindtrip/places/ChIJaWZ2fhdLqxURrWH9qYfyObM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831673/mindtrip/places/ChIJaWZ2fhdLqxURrWH9qYfyObM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831674/mindtrip/places/ChIJaWZ2fhdLqxURrWH9qYfyObM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4989947,
+    "lng": 34.5190351,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWZ2fhdLqxURrWH9qYfyObM"
+  },
+  {
+    "place_id": "ChIJ45HvPQC1VBQRrnHt4gNXwXE",
+    "name": "Chef's Grilled Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 5.0,
+    "reviews_count": 11,
+    "address": "امام بوابه الجمعية, Dahab, South Sinai Governorate 8771624, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831675/mindtrip/places/ChIJ45HvPQC1VBQRrnHt4gNXwXE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831675/mindtrip/places/ChIJ45HvPQC1VBQRrnHt4gNXwXE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831676/mindtrip/places/ChIJ45HvPQC1VBQRrnHt4gNXwXE1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831677/mindtrip/places/ChIJ45HvPQC1VBQRrnHt4gNXwXE2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4893872,
+    "lng": 34.4995186,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45HvPQC1VBQRrnHt4gNXwXE"
+  },
+  {
+    "place_id": "ChIJI-zRA8O1VBQRBMiXnYHJ514",
+    "name": "LaFontana Pizza & Pasta",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.0,
+    "reviews_count": 4,
+    "address": "Square, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831678/mindtrip/places/ChIJI-zRA8O1VBQRBMiXnYHJ514.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831678/mindtrip/places/ChIJI-zRA8O1VBQRBMiXnYHJ514.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831678/mindtrip/places/ChIJI-zRA8O1VBQRBMiXnYHJ5141.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831679/mindtrip/places/ChIJI-zRA8O1VBQRBMiXnYHJ5142.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4899963,
+    "lng": 34.4997294,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-zRA8O1VBQRBMiXnYHJ514"
+  },
+  {
+    "place_id": "ChIJgQ-OY6W0VBQRFxAN4fEPHa0",
+    "name": "Neptune's Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "قسم سانت كاترين، South Sinai Governorate 8771401, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831680/mindtrip/places/ChIJgQ-OY6W0VBQRFxAN4fEPHa0.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831680/mindtrip/places/ChIJgQ-OY6W0VBQRFxAN4fEPHa0.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831681/mindtrip/places/ChIJgQ-OY6W0VBQRFxAN4fEPHa01.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831682/mindtrip/places/ChIJgQ-OY6W0VBQRFxAN4fEPHa02.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4824887,
+    "lng": 34.4970381,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQ-OY6W0VBQRFxAN4fEPHa0"
+  },
+  {
+    "place_id": "ChIJ7Qz_NDBLqxUR_ZygmTH_gn4",
+    "name": "El Khadawy Restaurant and BBQ",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.7,
+    "reviews_count": 99,
+    "address": "FGV7+PR9 Peace Rd, سانت كاترين، جنوب سيناء،, Dahab, South Sinai Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831682/mindtrip/places/ChIJ7Qz_NDBLqxUR_ZygmTH_gn4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831682/mindtrip/places/ChIJ7Qz_NDBLqxUR_ZygmTH_gn4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831683/mindtrip/places/ChIJ7Qz_NDBLqxUR_ZygmTH_gn41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831684/mindtrip/places/ChIJ7Qz_NDBLqxUR_ZygmTH_gn42.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4942484,
+    "lng": 34.5145734,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Qz_NDBLqxUR_ZygmTH_gn4"
+  },
+  {
+    "place_id": "ChIJWdyK2axLqxURI3pkTU5n3cw",
+    "name": "Jomo Al Forno Restaurant Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.7,
+    "reviews_count": 84,
+    "address": "Mashraba St, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831684/mindtrip/places/ChIJWdyK2axLqxURI3pkTU5n3cw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831684/mindtrip/places/ChIJWdyK2axLqxURI3pkTU5n3cw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831686/mindtrip/places/ChIJWdyK2axLqxURI3pkTU5n3cw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831686/mindtrip/places/ChIJWdyK2axLqxURI3pkTU5n3cw2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4886738,
+    "lng": 34.5144441,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdyK2axLqxURI3pkTU5n3cw"
+  },
+  {
+    "place_id": "ChIJhUIOdABLqxUR7dLmaE4MWRE",
+    "name": "上海餐厅",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 600.0,
+    "rating": 4.6,
+    "reviews_count": 44,
+    "address": "FGW8+J9, Dahab, South Sinai Governorate 8772518, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831687/mindtrip/places/ChIJhUIOdABLqxUR7dLmaE4MWRE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831687/mindtrip/places/ChIJhUIOdABLqxUR7dLmaE4MWRE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831688/mindtrip/places/ChIJhUIOdABLqxUR7dLmaE4MWRE1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831689/mindtrip/places/ChIJhUIOdABLqxUR7dLmaE4MWRE2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4963437,
+    "lng": 34.5161443,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 600.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUIOdABLqxUR7dLmaE4MWRE"
+  },
+  {
+    "place_id": "ChIJizwgewBLqxUR4muxjnndhso",
+    "name": "Antika cafe",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.7,
+    "reviews_count": 46,
+    "address": "FGR8+2C2, Dahab, South Sinai Governorate 8772509, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831689/mindtrip/places/ChIJizwgewBLqxUR4muxjnndhso.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831689/mindtrip/places/ChIJizwgewBLqxUR4muxjnndhso.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831690/mindtrip/places/ChIJizwgewBLqxUR4muxjnndhso1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831691/mindtrip/places/ChIJizwgewBLqxUR4muxjnndhso2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4900173,
+    "lng": 34.5160241,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJizwgewBLqxUR4muxjnndhso"
+  },
+  {
+    "place_id": "ChIJmZDFBSpLqxUR0mJcyGgxstY",
+    "name": "Golden Smash Burgers",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 400.0,
+    "rating": 4.7,
+    "reviews_count": 64,
+    "address": "المشايه, Dahab, South Sinai Governorate 8772514, Dahab, 00000, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831692/mindtrip/places/ChIJmZDFBSpLqxUR0mJcyGgxstY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831692/mindtrip/places/ChIJmZDFBSpLqxUR0mJcyGgxstY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831693/mindtrip/places/ChIJmZDFBSpLqxUR0mJcyGgxstY1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831694/mindtrip/places/ChIJmZDFBSpLqxUR0mJcyGgxstY2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4932007,
+    "lng": 34.5170662,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 400.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZDFBSpLqxUR0mJcyGgxstY"
+  },
+  {
+    "place_id": "ChIJebGqfTZLqxURQxkL_yaZJ5o",
+    "name": "Sheikh Ali Dahab Resort",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 100.0,
+    "rating": 4.7,
+    "reviews_count": 448,
+    "address": "Mashraba,South Sinai, South Sinai Governorate, Egypt",
+    "description": "Bright suites in a sleek hotel with a dive center, outdoor pool & restaurant, plus Bedouin dinners.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831695/mindtrip/places/ChIJebGqfTZLqxURQxkL_yaZJ5o.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831695/mindtrip/places/ChIJebGqfTZLqxURQxkL_yaZJ5o.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831696/mindtrip/places/ChIJebGqfTZLqxURQxkL_yaZJ5o1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831696/mindtrip/places/ChIJebGqfTZLqxURQxkL_yaZJ5o2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.491674,
+    "lng": 34.51383,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 100.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJebGqfTZLqxURQxkL_yaZJ5o"
+  },
+  {
+    "place_id": "ChIJe5ojVQ9LqxURNIT4t9RVZpQ",
+    "name": "Lidia restaurant Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "El Mashraba, Dahab, South Sinai Governorate 8772509, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831698/mindtrip/places/ChIJe5ojVQ9LqxURNIT4t9RVZpQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831698/mindtrip/places/ChIJe5ojVQ9LqxURNIT4t9RVZpQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831698/mindtrip/places/ChIJe5ojVQ9LqxURNIT4t9RVZpQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831700/mindtrip/places/ChIJe5ojVQ9LqxURNIT4t9RVZpQ2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4908213,
+    "lng": 34.5162423,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5ojVQ9LqxURNIT4t9RVZpQ"
+  },
+  {
+    "place_id": "ChIJGVQ_JjdLqxURu3L1a8YpsBI",
+    "name": "Kung Fu Pasta",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 4.5,
+    "reviews_count": 440,
+    "address": "El Mamsha ElSeahy، قسم سانت كاترين, South Sinai Governorate 8772514, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831701/mindtrip/places/ChIJGVQ_JjdLqxURu3L1a8YpsBI.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831701/mindtrip/places/ChIJGVQ_JjdLqxURu3L1a8YpsBI.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831702/mindtrip/places/ChIJGVQ_JjdLqxURu3L1a8YpsBI1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831703/mindtrip/places/ChIJGVQ_JjdLqxURu3L1a8YpsBI2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4934368,
+    "lng": 34.517189,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVQ_JjdLqxURu3L1a8YpsBI"
+  },
+  {
+    "place_id": "ChIJ1bp5fwNLqxURTtpfKRYJLpw",
+    "name": "Ghazala Beach Lounge",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": null,
+    "rating": 5.0,
+    "reviews_count": 3,
+    "address": "Near FGP8+X66 دهب فندق غزاله, Best place to watch sunrise, Dahab, South Sinai Governorate 8772508, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831704/mindtrip/places/ChIJ1bp5fwNLqxURTtpfKRYJLpw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831704/mindtrip/places/ChIJ1bp5fwNLqxURTtpfKRYJLpw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831704/mindtrip/places/ChIJ1bp5fwNLqxURTtpfKRYJLpw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831705/mindtrip/places/ChIJ1bp5fwNLqxURTtpfKRYJLpw2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4874236,
+    "lng": 34.515562,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": null,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bp5fwNLqxURTtpfKRYJLpw"
+  },
+  {
+    "place_id": "ChIJrROC6TZLqxURx4e5U2ZqsB0",
+    "name": "King Chicken",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Restaurants"
+    ],
+    "category": "food",
+    "price": 0.0,
+    "rating": 4.2,
+    "reviews_count": 3484,
+    "address": "46617, قسم سانت كاترين, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831706/mindtrip/places/ChIJrROC6TZLqxURx4e5U2ZqsB0.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831706/mindtrip/places/ChIJrROC6TZLqxURx4e5U2ZqsB0.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831707/mindtrip/places/ChIJrROC6TZLqxURx4e5U2ZqsB01.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782831708/mindtrip/places/ChIJrROC6TZLqxURx4e5U2ZqsB02.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4929523,
+    "lng": 34.5159142,
+    "is_hidden_gem": false,
+    "day": null,
+    "is_opened": true,
+    "type": null,
+    "cost": 0.0,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrROC6TZLqxURx4e5U2ZqsB0"
   }
 ]
