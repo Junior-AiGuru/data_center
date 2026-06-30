@@ -35807,5 +35807,1355 @@
     "type": null,
     "cost": 0.0,
     "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrROC6TZLqxURx4e5U2ZqsB0"
+  },
+  {
+    "place_id": "ChIJmTYYSxyzVBQRIVun0ggu8Vo",
+    "name": "Retac Qunay Resort & spa",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4200,
+    "rating": 4.6,
+    "reviews_count": 1678,
+    "address": "1 Al Tahrir Street, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839732/mindtrip/places/ChIJmTYYSxyzVBQRIVun0ggu8Vo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839732/mindtrip/places/ChIJmTYYSxyzVBQRIVun0ggu8Vo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839733/mindtrip/places/ChIJmTYYSxyzVBQRIVun0ggu8Vo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839734/mindtrip/places/ChIJmTYYSxyzVBQRIVun0ggu8Vo2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4696875,
+    "lng": 34.4790625,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4200,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTYYSxyzVBQRIVun0ggu8Vo"
+  },
+  {
+    "place_id": "ChIJFwGQrClLqxURH2qe1AUpQds",
+    "name": "Red Sea Relax Resort",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3200,
+    "rating": 4.4,
+    "reviews_count": 625,
+    "address": "Lighthouse Rd, قسم سانت كاترين، South Sinai Governorate 46617, Egypt",
+    "description": "Unpretentious rooms in a simple hotel with a bar, an outdoor pool & a dive center.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839746/mindtrip/places/ChIJFwGQrClLqxURH2qe1AUpQds.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839746/mindtrip/places/ChIJFwGQrClLqxURH2qe1AUpQds.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839747/mindtrip/places/ChIJFwGQrClLqxURH2qe1AUpQds1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839748/mindtrip/places/ChIJFwGQrClLqxURH2qe1AUpQds2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4994449,
+    "lng": 34.5187759,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3200,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwGQrClLqxURH2qe1AUpQds"
+  },
+  {
+    "place_id": "ChIJG25OwjZLqxURCiu9epRrvhM",
+    "name": "Nesima Resort",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3900,
+    "rating": 3.8,
+    "reviews_count": 590,
+    "address": "المشربة، المسبط, Dahab, South Sinai Governorate 8772514, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839748/mindtrip/places/ChIJG25OwjZLqxURCiu9epRrvhM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839748/mindtrip/places/ChIJG25OwjZLqxURCiu9epRrvhM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839749/mindtrip/places/ChIJG25OwjZLqxURCiu9epRrvhM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839750/mindtrip/places/ChIJG25OwjZLqxURCiu9epRrvhM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4926751,
+    "lng": 34.5163598,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3900,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG25OwjZLqxURCiu9epRrvhM"
+  },
+  {
+    "place_id": "ChIJb9tEACZLqxURefA15-9uoWs",
+    "name": "Coral Coast Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 4500,
+    "rating": 4.2,
+    "reviews_count": 648,
+    "address": "Eel Garden, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": "Laid-back hotel featuring a private beach area, a dive center & a restaurant, plus an outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839751/mindtrip/places/ChIJb9tEACZLqxURefA15-9uoWs.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839751/mindtrip/places/ChIJb9tEACZLqxURefA15-9uoWs.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839752/mindtrip/places/ChIJb9tEACZLqxURefA15-9uoWs1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839753/mindtrip/places/ChIJb9tEACZLqxURefA15-9uoWs2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5037173,
+    "lng": 34.5198372,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 4500,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9tEACZLqxURefA15-9uoWs"
+  },
+  {
+    "place_id": "ChIJJVNgKCZLqxURnNdJU6gZJc8",
+    "name": "Diamond Dahab Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2250,
+    "rating": 4.6,
+    "reviews_count": 163,
+    "address": "مدخل الغطس، Dahab. maleel street Eel Garden Road، شارع المليل, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839753/mindtrip/places/ChIJJVNgKCZLqxURnNdJU6gZJc8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839753/mindtrip/places/ChIJJVNgKCZLqxURnNdJU6gZJc8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839754/mindtrip/places/ChIJJVNgKCZLqxURnNdJU6gZJc81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839755/mindtrip/places/ChIJJVNgKCZLqxURnNdJU6gZJc82.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5050393,
+    "lng": 34.5197685,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2250,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVNgKCZLqxURnNdJU6gZJc8"
+  },
+  {
+    "place_id": "ChIJMSlVhM1KqxUR4AMPGlTxG8M",
+    "name": "Dahab Paradise",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3600,
+    "rating": 4.7,
+    "reviews_count": 843,
+    "address": "Dahab, South Sinai Governorate 8773020, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839756/mindtrip/places/ChIJMSlVhM1KqxUR4AMPGlTxG8M.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839756/mindtrip/places/ChIJMSlVhM1KqxUR4AMPGlTxG8M.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839757/mindtrip/places/ChIJMSlVhM1KqxUR4AMPGlTxG8M1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839758/mindtrip/places/ChIJMSlVhM1KqxUR4AMPGlTxG8M2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5216731,
+    "lng": 34.5122798,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3600,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSlVhM1KqxUR4AMPGlTxG8M"
+  },
+  {
+    "place_id": "ChIJVZrMFDZLqxURpC31VrKoRCA",
+    "name": "Penguin Village Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1800,
+    "rating": 4.3,
+    "reviews_count": 1345,
+    "address": "المشربة, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": "Basic rooms, some with gulf views, in a down-to-earth hotel offering scuba trips & dining.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839759/mindtrip/places/ChIJVZrMFDZLqxURpC31VrKoRCA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839759/mindtrip/places/ChIJVZrMFDZLqxURpC31VrKoRCA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839760/mindtrip/places/ChIJVZrMFDZLqxURpC31VrKoRCA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839760/mindtrip/places/ChIJVZrMFDZLqxURpC31VrKoRCA2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4906456,
+    "lng": 34.5160278,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1800,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZrMFDZLqxURpC31VrKoRCA"
+  },
+  {
+    "place_id": "ChIJgdDkgihLqxURgBY1b2mezTo",
+    "name": "El Primo Hotel Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3650,
+    "rating": 4.4,
+    "reviews_count": 153,
+    "address": "El Melik Street, Dahab, Dahab, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839761/mindtrip/places/ChIJgdDkgihLqxURgBY1b2mezTo.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839761/mindtrip/places/ChIJgdDkgihLqxURgBY1b2mezTo.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839762/mindtrip/places/ChIJgdDkgihLqxURgBY1b2mezTo1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839763/mindtrip/places/ChIJgdDkgihLqxURgBY1b2mezTo2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.50464,
+    "lng": 34.5198,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3650,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdDkgihLqxURgBY1b2mezTo"
+  },
+  {
+    "place_id": "ChIJKzeelklLqxURgdH8Fx-VbaM",
+    "name": "Seaview Hotel Dahab الممشى السياحي",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2700,
+    "rating": 4.0,
+    "reviews_count": 435,
+    "address": "Almashraba beach front, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839764/mindtrip/places/ChIJKzeelklLqxURgdH8Fx-VbaM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839764/mindtrip/places/ChIJKzeelklLqxURgdH8Fx-VbaM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839765/mindtrip/places/ChIJKzeelklLqxURgdH8Fx-VbaM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839766/mindtrip/places/ChIJKzeelklLqxURgdH8Fx-VbaM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.487818,
+    "lng": 34.5155025,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2700,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzeelklLqxURgdH8Fx-VbaM"
+  },
+  {
+    "place_id": "ChIJF25l5MZLqxURidz6tiVi3t4",
+    "name": "Lidia Hotel Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2700,
+    "rating": 4.4,
+    "reviews_count": 667,
+    "address": "FGR8+G7, Saint Catherine, South Sinai Governorate 46611, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839767/mindtrip/places/ChIJF25l5MZLqxURidz6tiVi3t4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839767/mindtrip/places/ChIJF25l5MZLqxURidz6tiVi3t4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839768/mindtrip/places/ChIJF25l5MZLqxURidz6tiVi3t41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839769/mindtrip/places/ChIJF25l5MZLqxURidz6tiVi3t42.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4909648,
+    "lng": 34.5156211,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2700,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF25l5MZLqxURidz6tiVi3t4"
+  },
+  {
+    "place_id": "ChIJzyG95zFLqxUR45bPOcRQZOM",
+    "name": "Acacia Dahab Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2200,
+    "rating": 4.3,
+    "reviews_count": 571,
+    "address": "5 Mashraba Street, Dahab, South Sinai Governorate 46611, Egypt",
+    "description": "Relaxed rooms & suites in an informal hotel with an outdoor pool, a cocktail bar & a restaurant.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839770/mindtrip/places/ChIJzyG95zFLqxUR45bPOcRQZOM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839770/mindtrip/places/ChIJzyG95zFLqxUR45bPOcRQZOM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839770/mindtrip/places/ChIJzyG95zFLqxUR45bPOcRQZOM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839771/mindtrip/places/ChIJzyG95zFLqxUR45bPOcRQZOM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.491048,
+    "lng": 34.5161672,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2200,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyG95zFLqxUR45bPOcRQZOM"
+  },
+  {
+    "place_id": "ChIJJTTrNidLqxURid8C8xjJr6Y",
+    "name": "Casa D'or Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1150,
+    "rating": 4.4,
+    "reviews_count": 84,
+    "address": "Peace Rd, Dahab, South Sinai Governorate 8772204, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839772/mindtrip/places/ChIJJTTrNidLqxURid8C8xjJr6Y.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839772/mindtrip/places/ChIJJTTrNidLqxURid8C8xjJr6Y.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839773/mindtrip/places/ChIJJTTrNidLqxURid8C8xjJr6Y1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839774/mindtrip/places/ChIJJTTrNidLqxURid8C8xjJr6Y2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4927463,
+    "lng": 34.5117988,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1150,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTTrNidLqxURid8C8xjJr6Y"
+  },
+  {
+    "place_id": "ChIJv7MzqClLqxURmxIjyJw6KaE",
+    "name": "Mirage Village",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2350,
+    "rating": 4.4,
+    "reviews_count": 682,
+    "address": "شارع المليل العصله, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839774/mindtrip/places/ChIJv7MzqClLqxURmxIjyJw6KaE.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839774/mindtrip/places/ChIJv7MzqClLqxURmxIjyJw6KaE.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839775/mindtrip/places/ChIJv7MzqClLqxURmxIjyJw6KaE1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839776/mindtrip/places/ChIJv7MzqClLqxURmxIjyJw6KaE2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5013027,
+    "lng": 34.520153,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2350,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7MzqClLqxURmxIjyJw6KaE"
+  },
+  {
+    "place_id": "ChIJETkpGzZLqxURAcb1pE_DkbQ",
+    "name": "Neom Dahab Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 6250,
+    "rating": 4.5,
+    "reviews_count": 156,
+    "address": "GG77+8W8, Dahab, South Sinai Governorate 46629, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839778/mindtrip/places/ChIJETkpGzZLqxURAcb1pE_DkbQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839778/mindtrip/places/ChIJETkpGzZLqxURAcb1pE_DkbQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839779/mindtrip/places/ChIJETkpGzZLqxURAcb1pE_DkbQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839779/mindtrip/places/ChIJETkpGzZLqxURAcb1pE_DkbQ2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5133125,
+    "lng": 34.5148125,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 6250,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJETkpGzZLqxURAcb1pE_DkbQ"
+  },
+  {
+    "place_id": "ChIJFzTSEdNKqxURbjdiP1AW7UM",
+    "name": "Bedouin Moon Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2250,
+    "rating": 4.3,
+    "reviews_count": 774,
+    "address": "Blue Hole Rd, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839780/mindtrip/places/ChIJFzTSEdNKqxURbjdiP1AW7UM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839780/mindtrip/places/ChIJFzTSEdNKqxURbjdiP1AW7UM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839781/mindtrip/places/ChIJFzTSEdNKqxURbjdiP1AW7UM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839782/mindtrip/places/ChIJFzTSEdNKqxURbjdiP1AW7UM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5181769,
+    "lng": 34.5112734,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2250,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzTSEdNKqxURbjdiP1AW7UM"
+  },
+  {
+    "place_id": "ChIJpW6099JKqxURhx3x5PMssKg",
+    "name": "Dahab Bay Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2050,
+    "rating": 4.0,
+    "reviews_count": 958,
+    "address": "GG96+GGQ, Blue Hole Rd, Dahab, South Sinai Governorate 8773018, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839782/mindtrip/places/ChIJpW6099JKqxURhx3x5PMssKg.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839782/mindtrip/places/ChIJpW6099JKqxURhx3x5PMssKg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839783/mindtrip/places/ChIJpW6099JKqxURhx3x5PMssKg1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839784/mindtrip/places/ChIJpW6099JKqxURhx3x5PMssKg2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5188407,
+    "lng": 34.5113716,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2050,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW6099JKqxURhx3x5PMssKg"
+  },
+  {
+    "place_id": "ChIJJ0w4wXtLqxUR6zZov-nUjLU",
+    "name": "Balance Lodge",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2000,
+    "rating": 5.0,
+    "reviews_count": 173,
+    "address": "Elzarooq, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839784/mindtrip/places/ChIJJ0w4wXtLqxUR6zZov-nUjLU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839784/mindtrip/places/ChIJJ0w4wXtLqxUR6zZov-nUjLU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839786/mindtrip/places/ChIJJ0w4wXtLqxUR6zZov-nUjLU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839786/mindtrip/places/ChIJJ0w4wXtLqxUR6zZov-nUjLU2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5144134,
+    "lng": 34.5134075,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2000,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0w4wXtLqxUR6zZov-nUjLU"
+  },
+  {
+    "place_id": "ChIJi5vyaLFKqxURVaCn-SpUc1U",
+    "name": "Daniela Diving Resort Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2450,
+    "rating": 4.2,
+    "reviews_count": 563,
+    "address": "Blue Hotel Road, Dahab, South Sinai Governorate 8773023, Egypt",
+    "description": "Relaxed rooms with gulf views in a rustic dive resort featuring 2 outdoor pools & a private beach.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839787/mindtrip/places/ChIJi5vyaLFKqxURVaCn-SpUc1U.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839787/mindtrip/places/ChIJi5vyaLFKqxURVaCn-SpUc1U.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839788/mindtrip/places/ChIJi5vyaLFKqxURVaCn-SpUc1U1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839789/mindtrip/places/ChIJi5vyaLFKqxURVaCn-SpUc1U2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5366667,
+    "lng": 34.5155556,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2450,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5vyaLFKqxURVaCn-SpUc1U"
+  },
+  {
+    "place_id": "ChIJrcvfdU9LqxURZ-mJ8kx9VZY",
+    "name": "Shanty house",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1850,
+    "rating": 4.1,
+    "reviews_count": 97,
+    "address": "Unnamed Road, قسم سانت كاترين، South Sinai Governorate 8772626, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839789/mindtrip/places/ChIJrcvfdU9LqxURZ-mJ8kx9VZY.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839789/mindtrip/places/ChIJrcvfdU9LqxURZ-mJ8kx9VZY.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839790/mindtrip/places/ChIJrcvfdU9LqxURZ-mJ8kx9VZY1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839791/mindtrip/places/ChIJrcvfdU9LqxURZ-mJ8kx9VZY2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5136359,
+    "lng": 34.5143129,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1850,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcvfdU9LqxURZ-mJ8kx9VZY"
+  },
+  {
+    "place_id": "ChIJZwW2AiZLqxUR1iHIPkTClX4",
+    "name": "Eldorado Lodge & Restaurant",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.2,
+    "reviews_count": 757,
+    "address": "GG39+JW, Dahab, South Sinai Governorate 8772614, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839792/mindtrip/places/ChIJZwW2AiZLqxUR1iHIPkTClX4.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839792/mindtrip/places/ChIJZwW2AiZLqxUR1iHIPkTClX4.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839793/mindtrip/places/ChIJZwW2AiZLqxUR1iHIPkTClX41.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839793/mindtrip/places/ChIJZwW2AiZLqxUR1iHIPkTClX42.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5040536,
+    "lng": 34.5197915,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwW2AiZLqxUR1iHIPkTClX4"
+  },
+  {
+    "place_id": "ChIJUbIOytdKqxUR6ud6ZGz4D28",
+    "name": "Dar Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.5,
+    "reviews_count": 557,
+    "address": "Dar, St, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": "Colorful apartments with kitchenettes in a beachfront hotel featuring dining & a rooftop terrace.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839794/mindtrip/places/ChIJUbIOytdKqxUR6ud6ZGz4D28.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839794/mindtrip/places/ChIJUbIOytdKqxUR6ud6ZGz4D28.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839795/mindtrip/places/ChIJUbIOytdKqxUR6ud6ZGz4D281.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839796/mindtrip/places/ChIJUbIOytdKqxUR6ud6ZGz4D282.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5129852,
+    "lng": 34.5153941,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbIOytdKqxUR6ud6ZGz4D28"
+  },
+  {
+    "place_id": "ChIJY5HvQKhLqxURc2lUlAy0YFk",
+    "name": "Iaru nub - أيارو نوب",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.5,
+    "reviews_count": 401,
+    "address": "El Mattafi St, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839797/mindtrip/places/ChIJY5HvQKhLqxURc2lUlAy0YFk.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839797/mindtrip/places/ChIJY5HvQKhLqxURc2lUlAy0YFk.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839798/mindtrip/places/ChIJY5HvQKhLqxURc2lUlAy0YFk1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839798/mindtrip/places/ChIJY5HvQKhLqxURc2lUlAy0YFk2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.514172,
+    "lng": 34.5136122,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5HvQKhLqxURc2lUlAy0YFk"
+  },
+  {
+    "place_id": "ChIJkWIMs-VLqxURBsOqhHif7sM",
+    "name": "Emma house ️",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.9,
+    "reviews_count": 493,
+    "address": "Blue Hole Rd, _, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839799/mindtrip/places/ChIJkWIMs-VLqxURBsOqhHif7sM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839799/mindtrip/places/ChIJkWIMs-VLqxURBsOqhHif7sM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839800/mindtrip/places/ChIJkWIMs-VLqxURBsOqhHif7sM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839801/mindtrip/places/ChIJkWIMs-VLqxURBsOqhHif7sM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.51921,
+    "lng": 34.5114809,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWIMs-VLqxURBsOqhHif7sM"
+  },
+  {
+    "place_id": "ChIJXavmN_tLqxURQUuL7BVStJc",
+    "name": "Lucky palace Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.4,
+    "reviews_count": 121,
+    "address": "GG68+QC7, Dahab, South Sinai Governorate 8772624, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839802/mindtrip/places/ChIJXavmN_tLqxURQUuL7BVStJc.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839802/mindtrip/places/ChIJXavmN_tLqxURQUuL7BVStJc.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839803/mindtrip/places/ChIJXavmN_tLqxURQUuL7BVStJc1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839804/mindtrip/places/ChIJXavmN_tLqxURQUuL7BVStJc2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5119491,
+    "lng": 34.5161304,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXavmN_tLqxURQUuL7BVStJc"
+  },
+  {
+    "place_id": "ChIJ7yXVBwBLqxURvbkUINWZ2mM",
+    "name": "Sea Breeze Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.7,
+    "reviews_count": 114,
+    "address": "El Mattafi St, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839805/mindtrip/places/ChIJ7yXVBwBLqxURvbkUINWZ2mM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839805/mindtrip/places/ChIJ7yXVBwBLqxURvbkUINWZ2mM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839806/mindtrip/places/ChIJ7yXVBwBLqxURvbkUINWZ2mM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839806/mindtrip/places/ChIJ7yXVBwBLqxURvbkUINWZ2mM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5147233,
+    "lng": 34.5113908,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yXVBwBLqxURvbkUINWZ2mM"
+  },
+  {
+    "place_id": "ChIJU0MG15ZLqxURtQQu9pKxrgU",
+    "name": "Neptune Residence Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.4,
+    "reviews_count": 92,
+    "address": "Blue Hole Rd, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839807/mindtrip/places/ChIJU0MG15ZLqxURtQQu9pKxrgU.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839807/mindtrip/places/ChIJU0MG15ZLqxURtQQu9pKxrgU.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839808/mindtrip/places/ChIJU0MG15ZLqxURtQQu9pKxrgU1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839809/mindtrip/places/ChIJU0MG15ZLqxURtQQu9pKxrgU2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5188869,
+    "lng": 34.5113209,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0MG15ZLqxURtQQu9pKxrgU"
+  },
+  {
+    "place_id": "ChIJT-UqZvVLqxURFxPNfeH9Fag",
+    "name": "Locanda Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.5,
+    "reviews_count": 69,
+    "address": "Blue Hole Rd, Dahab, South Sinai Governorate 8773020, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839810/mindtrip/places/ChIJT-UqZvVLqxURFxPNfeH9Fag.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839810/mindtrip/places/ChIJT-UqZvVLqxURFxPNfeH9Fag.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839810/mindtrip/places/ChIJT-UqZvVLqxURFxPNfeH9Fag1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839811/mindtrip/places/ChIJT-UqZvVLqxURFxPNfeH9Fag2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5239804,
+    "lng": 34.5128037,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-UqZvVLqxURFxPNfeH9Fag"
+  },
+  {
+    "place_id": "ChIJ231eZtRKqxUReljsaBwioYQ",
+    "name": "Red C Villas",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.5,
+    "reviews_count": 160,
+    "address": "Peace Road, Egypt",
+    "description": "Airy quarters with kitchens or kitchenettes in a casual apartment hotel offering a pool & sea views.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839812/mindtrip/places/ChIJ231eZtRKqxUReljsaBwioYQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839812/mindtrip/places/ChIJ231eZtRKqxUReljsaBwioYQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839813/mindtrip/places/ChIJ231eZtRKqxUReljsaBwioYQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839814/mindtrip/places/ChIJ231eZtRKqxUReljsaBwioYQ2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.5150669,
+    "lng": 34.5121612,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ231eZtRKqxUReljsaBwioYQ"
+  },
+  {
+    "place_id": "ChIJYY_eDABLqxURoNTOypMvoNQ",
+    "name": "DAHAB NOW hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 3600,
+    "rating": 4.8,
+    "reviews_count": 357,
+    "address": "شارع المشربة، الممشى السياحى, Dahab, South Sinai Governorate 8771301, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839815/mindtrip/places/ChIJYY_eDABLqxURoNTOypMvoNQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839815/mindtrip/places/ChIJYY_eDABLqxURoNTOypMvoNQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839816/mindtrip/places/ChIJYY_eDABLqxURoNTOypMvoNQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839818/mindtrip/places/ChIJYY_eDABLqxURoNTOypMvoNQ2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4895662,
+    "lng": 34.515199,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 3600,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYY_eDABLqxURoNTOypMvoNQ"
+  },
+  {
+    "place_id": "ChIJgxzs3u1LqxURR4Mubr2uJ-w",
+    "name": "Coral reef hotel Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1600,
+    "rating": 4.3,
+    "reviews_count": 196,
+    "address": "FGV8+QCV, Tawfik El Hakim St, Saint Catherine, South Sinai Governorate 8772516, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839818/mindtrip/places/ChIJgxzs3u1LqxURR4Mubr2uJ-w.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839818/mindtrip/places/ChIJgxzs3u1LqxURR4Mubr2uJ-w.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839819/mindtrip/places/ChIJgxzs3u1LqxURR4Mubr2uJ-w1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839820/mindtrip/places/ChIJgxzs3u1LqxURR4Mubr2uJ-w2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4944768,
+    "lng": 34.5160399,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1600,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxzs3u1LqxURR4Mubr2uJ-w"
+  },
+  {
+    "place_id": "ChIJr2phEjZLqxURRPKxrq4kJ5E",
+    "name": "Octopus Hotel Dahab الممشى السياحي",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1500,
+    "rating": 3.8,
+    "reviews_count": 377,
+    "address": "El-Mashraba Street, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839821/mindtrip/places/ChIJr2phEjZLqxURRPKxrq4kJ5E.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839821/mindtrip/places/ChIJr2phEjZLqxURRPKxrq4kJ5E.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839822/mindtrip/places/ChIJr2phEjZLqxURRPKxrq4kJ5E1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839822/mindtrip/places/ChIJr2phEjZLqxURRPKxrq4kJ5E2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4906168,
+    "lng": 34.5150381,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1500,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2phEjZLqxURRPKxrq4kJ5E"
+  },
+  {
+    "place_id": "ChIJzSmx7S1LqxURJz5zsbhsLtQ",
+    "name": "Jimmy Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2250,
+    "rating": 4.4,
+    "reviews_count": 382,
+    "address": "El Mashraba , st، قسم سانت كاترين, South Sinai Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839823/mindtrip/places/ChIJzSmx7S1LqxURJz5zsbhsLtQ.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839823/mindtrip/places/ChIJzSmx7S1LqxURJz5zsbhsLtQ.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839824/mindtrip/places/ChIJzSmx7S1LqxURJz5zsbhsLtQ1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839825/mindtrip/places/ChIJzSmx7S1LqxURJz5zsbhsLtQ2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4901361,
+    "lng": 34.5155612,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2250,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSmx7S1LqxURJz5zsbhsLtQ"
+  },
+  {
+    "place_id": "ChIJB0Rx8ElLqxURS_ufGqTXanM",
+    "name": "Inmo Divers Home",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 900,
+    "rating": 4.4,
+    "reviews_count": 336,
+    "address": "FGQ8+H5P، طريق دهب - نويبع, Saint Catherine, South Sinai Governorate 8772509, Egypt",
+    "description": "Laid-back hotel with a dive center & a colorful restaurant, plus unfussy rooms & an outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839825/mindtrip/places/ChIJB0Rx8ElLqxURS_ufGqTXanM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839825/mindtrip/places/ChIJB0Rx8ElLqxURS_ufGqTXanM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839827/mindtrip/places/ChIJB0Rx8ElLqxURS_ufGqTXanM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839827/mindtrip/places/ChIJB0Rx8ElLqxURS_ufGqTXanM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4889529,
+    "lng": 34.5154381,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 900,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0Rx8ElLqxURS_ufGqTXanM"
+  },
+  {
+    "place_id": "ChIJZ4CHewBLqxUR8cdzhBmEJi0",
+    "name": "Brother Hotel Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.9,
+    "reviews_count": 545,
+    "address": "Dahab, South Sinai Governorate 8772502, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839828/mindtrip/places/ChIJZ4CHewBLqxUR8cdzhBmEJi0.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839828/mindtrip/places/ChIJZ4CHewBLqxUR8cdzhBmEJi0.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839829/mindtrip/places/ChIJZ4CHewBLqxUR8cdzhBmEJi01.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839830/mindtrip/places/ChIJZ4CHewBLqxUR8cdzhBmEJi02.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4898991,
+    "lng": 34.5115736,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4CHewBLqxUR8cdzhBmEJi0"
+  },
+  {
+    "place_id": "ChIJtbCmeppLqxURTf9Dv3a8HOw",
+    "name": "Tree House Hotel Dahab",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2000,
+    "rating": 4.6,
+    "reviews_count": 331,
+    "address": "المسبط, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839831/mindtrip/places/ChIJtbCmeppLqxURTf9Dv3a8HOw.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839831/mindtrip/places/ChIJtbCmeppLqxURTf9Dv3a8HOw.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839832/mindtrip/places/ChIJtbCmeppLqxURTf9Dv3a8HOw1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839832/mindtrip/places/ChIJtbCmeppLqxURTf9Dv3a8HOw2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4943162,
+    "lng": 34.5169495,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2000,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbCmeppLqxURTf9Dv3a8HOw"
+  },
+  {
+    "place_id": "ChIJq48OE6VLqxURWLDzQrnoPo8",
+    "name": "Dolphin Camp",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1600,
+    "rating": 4.6,
+    "reviews_count": 227,
+    "address": "El Mashraba St, Dahab, South Sinai Governorate 46629, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839834/mindtrip/places/ChIJq48OE6VLqxURWLDzQrnoPo8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839834/mindtrip/places/ChIJq48OE6VLqxURWLDzQrnoPo8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839834/mindtrip/places/ChIJq48OE6VLqxURWLDzQrnoPo81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839835/mindtrip/places/ChIJq48OE6VLqxURWLDzQrnoPo82.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4935737,
+    "lng": 34.5171105,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1600,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJq48OE6VLqxURWLDzQrnoPo8"
+  },
+  {
+    "place_id": "ChIJgaXqM4BLqxURsWi-Iep_HDA",
+    "name": "Sunset Dahab Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2050,
+    "rating": 4.3,
+    "reviews_count": 209,
+    "address": "Dahab, South Sinai Governorate 8772510, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839836/mindtrip/places/ChIJgaXqM4BLqxURsWi-Iep_HDA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839836/mindtrip/places/ChIJgaXqM4BLqxURsWi-Iep_HDA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839837/mindtrip/places/ChIJgaXqM4BLqxURsWi-Iep_HDA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839838/mindtrip/places/ChIJgaXqM4BLqxURsWi-Iep_HDA2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4918201,
+    "lng": 34.5129554,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2050,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgaXqM4BLqxURsWi-Iep_HDA"
+  },
+  {
+    "place_id": "ChIJa-6YTjFLqxUR97oS2M_Z2jg",
+    "name": "Dahab Plaza Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1750,
+    "rating": 3.7,
+    "reviews_count": 653,
+    "address": "Dahab City Center, Dahab, 11511, Egypt",
+    "description": "Simple rooms in a down-to-earth hotel offering complimentary breakfast & an outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839839/mindtrip/places/ChIJa-6YTjFLqxUR97oS2M_Z2jg.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839839/mindtrip/places/ChIJa-6YTjFLqxUR97oS2M_Z2jg.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839840/mindtrip/places/ChIJa-6YTjFLqxUR97oS2M_Z2jg1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839841/mindtrip/places/ChIJa-6YTjFLqxUR97oS2M_Z2jg2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4950846,
+    "lng": 34.5149847,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1750,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-6YTjFLqxUR97oS2M_Z2jg"
+  },
+  {
+    "place_id": "ChIJ1W2dretLqxURut1TjMWNc5w",
+    "name": "The Bridge Dahab Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.9,
+    "reviews_count": 156,
+    "address": "El Masbat St, Saint Catherine, South Sinai Governorate 8772518, Egypt",
+    "description": "Low-key rooms in an informal hotel featuring a dive center, a terrace & an outdoor pool.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839843/mindtrip/places/ChIJ1W2dretLqxURut1TjMWNc5w.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839843/mindtrip/places/ChIJ1W2dretLqxURut1TjMWNc5w.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839844/mindtrip/places/ChIJ1W2dretLqxURut1TjMWNc5w1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839845/mindtrip/places/ChIJ1W2dretLqxURut1TjMWNc5w2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4959977,
+    "lng": 34.5165363,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1W2dretLqxURut1TjMWNc5w"
+  },
+  {
+    "place_id": "ChIJ6dYI0DZLqxURDiKhDrE03MA",
+    "name": "Miramar Camp Dahab ماريمار كامب دهب",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1350,
+    "rating": 4.1,
+    "reviews_count": 227,
+    "address": "Mashraba St., Dahab, South Sinai، قسم سانت كاترين, South Sinai Governorate, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839846/mindtrip/places/ChIJ6dYI0DZLqxURDiKhDrE03MA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839846/mindtrip/places/ChIJ6dYI0DZLqxURDiKhDrE03MA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839847/mindtrip/places/ChIJ6dYI0DZLqxURDiKhDrE03MA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839848/mindtrip/places/ChIJ6dYI0DZLqxURDiKhDrE03MA2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4935592,
+    "lng": 34.5160872,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1350,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dYI0DZLqxURDiKhDrE03MA"
+  },
+  {
+    "place_id": "ChIJ2yrgdKxLqxUR4JNTTBfhZnM",
+    "name": "Golden Plaza Dahab Resort",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 1600,
+    "rating": 4.1,
+    "reviews_count": 387,
+    "address": "NBE, almshraba street next to, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839849/mindtrip/places/ChIJ2yrgdKxLqxUR4JNTTBfhZnM.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839849/mindtrip/places/ChIJ2yrgdKxLqxUR4JNTTBfhZnM.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839850/mindtrip/places/ChIJ2yrgdKxLqxUR4JNTTBfhZnM1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839851/mindtrip/places/ChIJ2yrgdKxLqxUR4JNTTBfhZnM2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4875568,
+    "lng": 34.5136612,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 1600,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2yrgdKxLqxUR4JNTTBfhZnM"
+  },
+  {
+    "place_id": "ChIJb7nR2i1LqxURJZ4hYXW9mxA",
+    "name": "فندق نجمة دهب",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2700,
+    "rating": 4.3,
+    "reviews_count": 248,
+    "address": "Mashraba، قسم سانت كاترين، South Sinai Governorate 46617, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839852/mindtrip/places/ChIJb7nR2i1LqxURJZ4hYXW9mxA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839852/mindtrip/places/ChIJb7nR2i1LqxURJZ4hYXW9mxA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839853/mindtrip/places/ChIJb7nR2i1LqxURJZ4hYXW9mxA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839853/mindtrip/places/ChIJb7nR2i1LqxURJZ4hYXW9mxA2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4892892,
+    "lng": 34.5157652,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2700,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7nR2i1LqxURJZ4hYXW9mxA"
+  },
+  {
+    "place_id": "ChIJFwGQrClLqxUR1sVdM5LDwNA",
+    "name": "La Reine Dahab Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 3.8,
+    "reviews_count": 306,
+    "address": "Dahab, South Sinai Governorate 8772510, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839854/mindtrip/places/ChIJFwGQrClLqxUR1sVdM5LDwNA.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839854/mindtrip/places/ChIJFwGQrClLqxUR1sVdM5LDwNA.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839855/mindtrip/places/ChIJFwGQrClLqxUR1sVdM5LDwNA1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839856/mindtrip/places/ChIJFwGQrClLqxUR1sVdM5LDwNA2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4925594,
+    "lng": 34.5138053,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwGQrClLqxUR1sVdM5LDwNA"
+  },
+  {
+    "place_id": "ChIJ6W6cIUpLqxURzCClbJM37T8",
+    "name": "Sea horse Hotel",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2025,
+    "rating": 4.0,
+    "reviews_count": 738,
+    "address": "Mashraba Street, Dahab, South Sinai Governorate 45214, Egypt",
+    "description": null,
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839857/mindtrip/places/ChIJ6W6cIUpLqxURzCClbJM37T8.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839857/mindtrip/places/ChIJ6W6cIUpLqxURzCClbJM37T8.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839858/mindtrip/places/ChIJ6W6cIUpLqxURzCClbJM37T81.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839859/mindtrip/places/ChIJ6W6cIUpLqxURzCClbJM37T82.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4878645,
+    "lng": 34.513704,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2025,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6W6cIUpLqxURzCClbJM37T8"
+  },
+  {
+    "place_id": "ChIJFy-i_DZLqxURnzIkBnjBAlc",
+    "name": "Shams Hotel & Dive Centre",
+    "city": "Dahab",
+    "city_en": "Dahab",
+    "interests": [
+      "Hotel"
+    ],
+    "category": "hotel",
+    "price": 2500,
+    "rating": 4.4,
+    "reviews_count": 771,
+    "address": "Mashraba St, Dahab, South Sinai Governorate 46617, Egypt",
+    "description": "Low-key quarters, some offering sea views, in a casual hotel with a dive center & a restaurant.",
+    "photo_url": "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839859/mindtrip/places/ChIJFy-i_DZLqxURnzIkBnjBAlc.jpg",
+    "image_urls": [
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839859/mindtrip/places/ChIJFy-i_DZLqxURnzIkBnjBAlc.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839861/mindtrip/places/ChIJFy-i_DZLqxURnzIkBnjBAlc1.jpg",
+      "https://res.cloudinary.com/dwkkqzvhi/image/upload/v1782839861/mindtrip/places/ChIJFy-i_DZLqxURnzIkBnjBAlc2.jpg"
+    ],
+    "opening_hours": "8am-12am",
+    "lat": 28.4922214,
+    "lng": 34.5166544,
+    "is_hidden_gem": false,
+    "day": 0,
+    "is_opened": true,
+    "type": null,
+    "cost": 2500,
+    "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFy-i_DZLqxURnzIkBnjBAlc"
   }
 ]
